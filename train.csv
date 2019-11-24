@@ -1,0 +1,2809 @@
+port,port_name,state,value,year
+Calexico East,Calexico East,California,2491920,2019
+Otay Mesa,Otay Mesa,California,5750126,2019
+San Ysidro,San Ysidro,California,11720414,2019
+Tecate,Tecate,California,989487,2019
+Calexico,Calexico,California,4337948,2019
+Andrade,Andrade,California,732585,2019
+Cross Border Xpress,Cross Border Xpress,California,379964,2019
+Van Buren,Van Buren,Maine,84171,2019
+Madawaska,Madawaska,Maine,198714,2019
+Vanceboro,Vanceboro,Maine,15856,2019
+Calais,Calais,Maine,352611,2019
+Houlton,Houlton,Maine,158930,2019
+Fort Fairfield,Fort Fairfield,Maine,50756,2019
+Bridgewater,Bridgewater,Maine,24738,2019
+Fort Kent,Fort Kent,Maine,63157,2019
+Jackman,Jackman,Maine,107659,2019
+Limestone,Limestone,Maine,7291,2019
+Eastport,Eastport,Maine,56912,2019
+Portland,Portland,Maine,0,2019
+Bar Harbor,Bar Harbor,Maine,0,2019
+Nogales,Nogales,Arizona,3506718,2019
+Naco,Naco,Arizona,235089,2019
+Sasabe,Sasabe,Arizona,18639,2019
+Douglas,Douglas,Arizona,1346104,2019
+Lukeville,Lukeville,Arizona,346711,2019
+San Luis,San Luis,Arizona,2812396,2019
+Trout River,Trout River,New York,77494,2019
+Champlain-Rouses Point,Champlain-Rouses Point,New York,753279,2019
+Massena,Massena,New York,526250,2019
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,3275570,2019
+Alexandria Bay,Alexandria Bay,New York,385401,2019
+Ogdensburg,Ogdensburg,New York,178708,2019
+Cape Vincent,Cape Vincent,New York,0,2019
+Pembina,Pembina,North Dakota,309803,2019
+Portal,Portal,North Dakota,149705,2019
+Neche,Neche,North Dakota,21015,2019
+Sarles,Sarles,North Dakota,2656,2019
+Hansboro,Hansboro,North Dakota,3073,2019
+Walhalla,Walhalla,North Dakota,21540,2019
+Antler,Antler,North Dakota,4044,2019
+Noonan,Noonan,North Dakota,14434,2019
+Westhope,Westhope,North Dakota,10058,2019
+Fortuna,Fortuna,North Dakota,7947,2019
+Northgate,Northgate,North Dakota,13656,2019
+Sherwood,Sherwood,North Dakota,11360,2019
+Ambrose,Ambrose,North Dakota,637,2019
+Dunseith,Dunseith,North Dakota,37239,2019
+Carbury,Carbury,North Dakota,10264,2019
+Maida,Maida,North Dakota,3899,2019
+St. John,St. John,North Dakota,7462,2019
+Hannah,Hannah,North Dakota,570,2019
+Progreso,Progreso,Texas,1450178,2019
+Roma,Roma,Texas,621634,2019
+Boquillas,Boquillas,Texas,6891,2019
+Rio Grande City,Rio Grande City,Texas,367777,2019
+Del Rio,Del Rio,Texas,1240793,2019
+Eagle Pass,Eagle Pass,Texas,2570213,2019
+Tornillo-Fabens,Tornillo-Fabens,Texas,311560,2019
+El Paso,El Paso,Texas,10227200,2019
+Hidalgo,Hidalgo,Texas,4293346,2019
+Brownsville,Brownsville,Texas,4380536,2019
+Presidio,Presidio,Texas,612015,2019
+Laredo,Laredo,Texas,6336240,2019
+Opheim,Opheim,Montana,1910,2019
+Wildhorse,Wildhorse,Montana,5794,2019
+Scobey,Scobey,Montana,2825,2019
+Raymond,Raymond,Montana,23258,2019
+Del Bonita,Del Bonita,Montana,14593,2019
+Turner,Turner,Montana,5145,2019
+Sweetgrass,Sweetgrass,Montana,190258,2019
+Piegan,Piegan,Montana,30825,2019
+Whitlash,Whitlash,Montana,458,2019
+Morgan,Morgan,Montana,2737,2019
+Willow Creek,Willow Creek,Montana,1639,2019
+Roosville,Roosville,Montana,80796,2019
+Whitetail,Whitetail,Montana,0,2019
+Lancaster,Lancaster,Minnesota,14425,2019
+Roseau,Roseau,Minnesota,22416,2019
+Baudette,Baudette,Minnesota,93892,2019
+Grand Portage,Grand Portage,Minnesota,114079,2019
+Pinecreek,Pinecreek,Minnesota,2016,2019
+Warroad,Warroad,Minnesota,54938,2019
+International Falls-Ranier,International Falls-Ranier,Minnesota,397904,2019
+Noyes,Noyes,Minnesota,0,2019
+Derby Line,Derby Line,Vermont,287740,2019
+Beecher Falls,Beecher Falls,Vermont,27984,2019
+Norton,Norton,Vermont,17376,2019
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,305703,2019
+Richford,Richford,Vermont,58379,2019
+Lynden,Lynden,Washington,364405,2019
+Oroville,Oroville,Washington,106358,2019
+Ferry,Ferry,Washington,4431,2019
+Metaline Falls,Metaline Falls,Washington,23940,2019
+Blaine,Blaine,Washington,2774470,2019
+Frontier,Frontier,Washington,48926,2019
+Laurier,Laurier,Washington,26721,2019
+Boundary,Boundary,Washington,19450,2019
+Sumas,Sumas,Washington,602016,2019
+Port Angeles,Port Angeles,Washington,20813,2019
+Danville,Danville,Washington,17131,2019
+Nighthawk,Nighthawk,Washington,1856,2019
+Point Roberts,Point Roberts,Washington,496146,2019
+Anacortes,Anacortes,Washington,2094,2019
+Friday Harbor,Friday Harbor,Washington,170,2019
+Eastport,Eastport,Idaho,93662,2019
+Porthill,Porthill,Idaho,70219,2019
+Sault Sainte Marie,Sault Sainte Marie,Michigan,386278,2019
+Port Huron,Port Huron,Michigan,1319511,2019
+Detroit,Detroit,Michigan,3277181,2019
+Algonac,Algonac,Michigan,4461,2019
+Santa Teresa,Santa Teresa,New Mexico,531947,2019
+Columbus,Columbus,New Mexico,338240,2019
+Skagway,Skagway,Alaska,8921,2019
+Ketchikan,Ketchikan,Alaska,494,2019
+Alcan,Alcan,Alaska,13166,2019
+Dalton Cache,Dalton Cache,Alaska,4959,2019
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,2019
+Calexico East,Calexico East,California,11236590,2018
+Otay Mesa,Otay Mesa,California,26411957,2018
+San Ysidro,San Ysidro,California,49208743,2018
+Tecate,Tecate,California,4187111,2018
+Calexico,Calexico,California,16971417,2018
+Andrade,Andrade,California,2596157,2018
+Cross Border Xpress,Cross Border Xpress,California,1279074,2018
+Van Buren,Van Buren,Maine,407391,2018
+Madawaska,Madawaska,Maine,946013,2018
+Vanceboro,Vanceboro,Maine,85679,2018
+Calais,Calais,Maine,1932962,2018
+Houlton,Houlton,Maine,849025,2018
+Fort Fairfield,Fort Fairfield,Maine,276320,2018
+Bridgewater,Bridgewater,Maine,128299,2018
+Fort Kent,Fort Kent,Maine,302007,2018
+Jackman,Jackman,Maine,601031,2018
+Limestone,Limestone,Maine,46047,2018
+Eastport,Eastport,Maine,376729,2018
+Portland,Portland,Maine,32216,2018
+Bar Harbor,Bar Harbor,Maine,0,2018
+Nogales,Nogales,Arizona,15139737,2018
+Naco,Naco,Arizona,1034864,2018
+Sasabe,Sasabe,Arizona,72176,2018
+Douglas,Douglas,Arizona,5756722,2018
+Lukeville,Lukeville,Arizona,1522840,2018
+San Luis,San Luis,Arizona,11810867,2018
+Trout River,Trout River,New York,476762,2018
+Champlain-Rouses Point,Champlain-Rouses Point,New York,4369090,2018
+Massena,Massena,New York,2485147,2018
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,18541241,2018
+Alexandria Bay,Alexandria Bay,New York,2275133,2018
+Ogdensburg,Ogdensburg,New York,935611,2018
+Cape Vincent,Cape Vincent,New York,28738,2018
+Pembina,Pembina,North Dakota,1499935,2018
+Portal,Portal,North Dakota,734412,2018
+Neche,Neche,North Dakota,116186,2018
+Sarles,Sarles,North Dakota,13554,2018
+Hansboro,Hansboro,North Dakota,20758,2018
+Walhalla,Walhalla,North Dakota,119953,2018
+Antler,Antler,North Dakota,27719,2018
+Noonan,Noonan,North Dakota,74087,2018
+Westhope,Westhope,North Dakota,42463,2018
+Fortuna,Fortuna,North Dakota,44100,2018
+Northgate,Northgate,North Dakota,74326,2018
+Sherwood,Sherwood,North Dakota,55319,2018
+Ambrose,Ambrose,North Dakota,3307,2018
+Dunseith,Dunseith,North Dakota,227493,2018
+Carbury,Carbury,North Dakota,41742,2018
+Maida,Maida,North Dakota,23803,2018
+St. John,St. John,North Dakota,36100,2018
+Hannah,Hannah,North Dakota,2706,2018
+Progreso,Progreso,Texas,5236568,2018
+Roma,Roma,Texas,2546333,2018
+Boquillas,Boquillas,Texas,11499,2018
+Rio Grande City,Rio Grande City,Texas,1442371,2018
+Del Rio,Del Rio,Texas,5124690,2018
+Eagle Pass,Eagle Pass,Texas,10169946,2018
+Tornillo-Fabens,Tornillo-Fabens,Texas,1151359,2018
+El Paso,El Paso,Texas,43778742,2018
+Hidalgo,Hidalgo,Texas,17303701,2018
+Brownsville,Brownsville,Texas,18336697,2018
+Presidio,Presidio,Texas,2495846,2018
+Laredo,Laredo,Texas,25396401,2018
+Opheim,Opheim,Montana,9814,2018
+Wildhorse,Wildhorse,Montana,43993,2018
+Scobey,Scobey,Montana,16929,2018
+Raymond,Raymond,Montana,114325,2018
+Del Bonita,Del Bonita,Montana,86020,2018
+Turner,Turner,Montana,27860,2018
+Sweetgrass,Sweetgrass,Montana,922271,2018
+Piegan,Piegan,Montana,366590,2018
+Whitlash,Whitlash,Montana,1688,2018
+Morgan,Morgan,Montana,18377,2018
+Willow Creek,Willow Creek,Montana,8216,2018
+Roosville,Roosville,Montana,486436,2018
+Whitetail,Whitetail,Montana,0,2018
+Lancaster,Lancaster,Minnesota,86180,2018
+Roseau,Roseau,Minnesota,114090,2018
+Baudette,Baudette,Minnesota,478001,2018
+Grand Portage,Grand Portage,Minnesota,668948,2018
+Pinecreek,Pinecreek,Minnesota,10808,2018
+Warroad,Warroad,Minnesota,301255,2018
+International Falls-Ranier,International Falls-Ranier,Minnesota,1977900,2018
+Noyes,Noyes,Minnesota,0,2018
+Derby Line,Derby Line,Vermont,1703718,2018
+Beecher Falls,Beecher Falls,Vermont,200122,2018
+Norton,Norton,Vermont,116061,2018
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,1815654,2018
+Richford,Richford,Vermont,287879,2018
+Lynden,Lynden,Washington,1805013,2018
+Oroville,Oroville,Washington,642332,2018
+Ferry,Ferry,Washington,32430,2018
+Metaline Falls,Metaline Falls,Washington,103264,2018
+Blaine,Blaine,Washington,13632952,2018
+Frontier,Frontier,Washington,172597,2018
+Laurier,Laurier,Washington,144795,2018
+Boundary,Boundary,Washington,100324,2018
+Sumas,Sumas,Washington,2935526,2018
+Port Angeles,Port Angeles,Washington,214136,2018
+Danville,Danville,Washington,92217,2018
+Nighthawk,Nighthawk,Washington,15350,2018
+Point Roberts,Point Roberts,Washington,2594824,2018
+Anacortes,Anacortes,Washington,89975,2018
+Friday Harbor,Friday Harbor,Washington,9624,2018
+Eastport,Eastport,Idaho,541961,2018
+Porthill,Porthill,Idaho,355280,2018
+Sault Sainte Marie,Sault Sainte Marie,Michigan,2103600,2018
+Port Huron,Port Huron,Michigan,6758067,2018
+Detroit,Detroit,Michigan,14148093,2018
+Algonac,Algonac,Michigan,45026,2018
+Santa Teresa,Santa Teresa,New Mexico,2083662,2018
+Columbus,Columbus,New Mexico,1437127,2018
+Skagway,Skagway,Alaska,489975,2018
+Ketchikan,Ketchikan,Alaska,7967,2018
+Alcan,Alcan,Alaska,198750,2018
+Dalton Cache,Dalton Cache,Alaska,63343,2018
+Toledo-Sandusky,Toledo-Sandusky,Ohio,373,2018
+Calexico East,Calexico East,California,12163690,2017
+Otay Mesa,Otay Mesa,California,27181889,2017
+San Ysidro,San Ysidro,California,45983570,2017
+Tecate,Tecate,California,3985503,2017
+Calexico,Calexico,California,16482156,2017
+Andrade,Andrade,California,2600148,2017
+Cross Border Xpress,Cross Border Xpress,California,283263,2017
+Van Buren,Van Buren,Maine,424196,2017
+Madawaska,Madawaska,Maine,983547,2017
+Vanceboro,Vanceboro,Maine,87143,2017
+Calais,Calais,Maine,2033991,2017
+Houlton,Houlton,Maine,895641,2017
+Fort Fairfield,Fort Fairfield,Maine,296986,2017
+Bridgewater,Bridgewater,Maine,138205,2017
+Fort Kent,Fort Kent,Maine,306067,2017
+Jackman,Jackman,Maine,604727,2017
+Limestone,Limestone,Maine,51383,2017
+Eastport,Eastport,Maine,379294,2017
+Portland,Portland,Maine,23893,2017
+Bar Harbor,Bar Harbor,Maine,0,2017
+Nogales,Nogales,Arizona,15807150,2017
+Naco,Naco,Arizona,943482,2017
+Sasabe,Sasabe,Arizona,69905,2017
+Douglas,Douglas,Arizona,5907149,2017
+Lukeville,Lukeville,Arizona,1429434,2017
+San Luis,San Luis,Arizona,11680865,2017
+Trout River,Trout River,New York,498003,2017
+Champlain-Rouses Point,Champlain-Rouses Point,New York,4338378,2017
+Massena,Massena,New York,2404591,2017
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,18208879,2017
+Alexandria Bay,Alexandria Bay,New York,2344455,2017
+Ogdensburg,Ogdensburg,New York,951780,2017
+Cape Vincent,Cape Vincent,New York,20169,2017
+Pembina,Pembina,North Dakota,1515594,2017
+Portal,Portal,North Dakota,735432,2017
+Neche,Neche,North Dakota,100509,2017
+Sarles,Sarles,North Dakota,13509,2017
+Hansboro,Hansboro,North Dakota,22218,2017
+Walhalla,Walhalla,North Dakota,114410,2017
+Antler,Antler,North Dakota,26038,2017
+Noonan,Noonan,North Dakota,77107,2017
+Westhope,Westhope,North Dakota,44872,2017
+Fortuna,Fortuna,North Dakota,42321,2017
+Northgate,Northgate,North Dakota,76984,2017
+Sherwood,Sherwood,North Dakota,57824,2017
+Ambrose,Ambrose,North Dakota,3183,2017
+Dunseith,Dunseith,North Dakota,235405,2017
+Carbury,Carbury,North Dakota,39484,2017
+Maida,Maida,North Dakota,22008,2017
+St. John,St. John,North Dakota,35151,2017
+Hannah,Hannah,North Dakota,2929,2017
+Progreso,Progreso,Texas,4947116,2017
+Roma,Roma,Texas,2618738,2017
+Boquillas,Boquillas,Texas,10965,2017
+Rio Grande City,Rio Grande City,Texas,1362382,2017
+Del Rio,Del Rio,Texas,5175016,2017
+Eagle Pass,Eagle Pass,Texas,9806208,2017
+Tornillo-Fabens,Tornillo-Fabens,Texas,1024806,2017
+El Paso,El Paso,Texas,43506839,2017
+Hidalgo,Hidalgo,Texas,17342098,2017
+Brownsville,Brownsville,Texas,18301371,2017
+Presidio,Presidio,Texas,2255459,2017
+Laredo,Laredo,Texas,24041263,2017
+Opheim,Opheim,Montana,10443,2017
+Wildhorse,Wildhorse,Montana,49409,2017
+Scobey,Scobey,Montana,17986,2017
+Raymond,Raymond,Montana,113540,2017
+Del Bonita,Del Bonita,Montana,87005,2017
+Turner,Turner,Montana,30909,2017
+Sweetgrass,Sweetgrass,Montana,955810,2017
+Piegan,Piegan,Montana,372667,2017
+Whitlash,Whitlash,Montana,2077,2017
+Morgan,Morgan,Montana,19577,2017
+Willow Creek,Willow Creek,Montana,3391,2017
+Roosville,Roosville,Montana,506376,2017
+Whitetail,Whitetail,Montana,0,2017
+Lancaster,Lancaster,Minnesota,90961,2017
+Roseau,Roseau,Minnesota,123588,2017
+Baudette,Baudette,Minnesota,480871,2017
+Grand Portage,Grand Portage,Minnesota,696566,2017
+Pinecreek,Pinecreek,Minnesota,11904,2017
+Warroad,Warroad,Minnesota,319508,2017
+International Falls-Ranier,International Falls-Ranier,Minnesota,1936839,2017
+Noyes,Noyes,Minnesota,0,2017
+Derby Line,Derby Line,Vermont,1723755,2017
+Beecher Falls,Beecher Falls,Vermont,204559,2017
+Norton,Norton,Vermont,119238,2017
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,1957812,2017
+Richford,Richford,Vermont,303058,2017
+Lynden,Lynden,Washington,1580477,2017
+Oroville,Oroville,Washington,716525,2017
+Ferry,Ferry,Washington,29400,2017
+Metaline Falls,Metaline Falls,Washington,93701,2017
+Blaine,Blaine,Washington,12975027,2017
+Frontier,Frontier,Washington,172190,2017
+Laurier,Laurier,Washington,139913,2017
+Boundary,Boundary,Washington,101211,2017
+Sumas,Sumas,Washington,2692366,2017
+Port Angeles,Port Angeles,Washington,211559,2017
+Danville,Danville,Washington,98162,2017
+Nighthawk,Nighthawk,Washington,19111,2017
+Point Roberts,Point Roberts,Washington,2309121,2017
+Anacortes,Anacortes,Washington,97227,2017
+Friday Harbor,Friday Harbor,Washington,10123,2017
+Eastport,Eastport,Idaho,547256,2017
+Porthill,Porthill,Idaho,344353,2017
+Sault Sainte Marie,Sault Sainte Marie,Michigan,2053875,2017
+Port Huron,Port Huron,Michigan,6813836,2017
+Detroit,Detroit,Michigan,14252718,2017
+Algonac,Algonac,Michigan,14338,2017
+Santa Teresa,Santa Teresa,New Mexico,2360275,2017
+Columbus,Columbus,New Mexico,1432262,2017
+Skagway,Skagway,Alaska,454121,2017
+Ketchikan,Ketchikan,Alaska,8357,2017
+Alcan,Alcan,Alaska,179301,2017
+Dalton Cache,Dalton Cache,Alaska,59851,2017
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,2017
+Calexico East,Calexico East,California,11962231,2016
+Otay Mesa,Otay Mesa,California,26706980,2016
+San Ysidro,San Ysidro,California,45376612,2016
+Tecate,Tecate,California,3666639,2016
+Calexico,Calexico,California,16449609,2016
+Andrade,Andrade,California,2420383,2016
+Cross Border Xpress,Cross Border Xpress,California,0,2016
+Van Buren,Van Buren,Maine,424063,2016
+Madawaska,Madawaska,Maine,1006829,2016
+Vanceboro,Vanceboro,Maine,87596,2016
+Calais,Calais,Maine,2054497,2016
+Houlton,Houlton,Maine,856306,2016
+Fort Fairfield,Fort Fairfield,Maine,306356,2016
+Bridgewater,Bridgewater,Maine,136289,2016
+Fort Kent,Fort Kent,Maine,329936,2016
+Jackman,Jackman,Maine,599429,2016
+Limestone,Limestone,Maine,55345,2016
+Eastport,Eastport,Maine,380439,2016
+Portland,Portland,Maine,22528,2016
+Bar Harbor,Bar Harbor,Maine,0,2016
+Nogales,Nogales,Arizona,14903980,2016
+Naco,Naco,Arizona,896467,2016
+Sasabe,Sasabe,Arizona,65341,2016
+Douglas,Douglas,Arizona,5469062,2016
+Lukeville,Lukeville,Arizona,1302692,2016
+San Luis,San Luis,Arizona,11171167,2016
+Trout River,Trout River,New York,488213,2016
+Champlain-Rouses Point,Champlain-Rouses Point,New York,4337542,2016
+Massena,Massena,New York,2353437,2016
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,17735730,2016
+Alexandria Bay,Alexandria Bay,New York,2301782,2016
+Ogdensburg,Ogdensburg,New York,915095,2016
+Cape Vincent,Cape Vincent,New York,21878,2016
+Pembina,Pembina,North Dakota,1475899,2016
+Portal,Portal,North Dakota,668209,2016
+Neche,Neche,North Dakota,107875,2016
+Sarles,Sarles,North Dakota,12951,2016
+Hansboro,Hansboro,North Dakota,22819,2016
+Walhalla,Walhalla,North Dakota,120275,2016
+Antler,Antler,North Dakota,23110,2016
+Noonan,Noonan,North Dakota,82973,2016
+Westhope,Westhope,North Dakota,46162,2016
+Fortuna,Fortuna,North Dakota,47766,2016
+Northgate,Northgate,North Dakota,70390,2016
+Sherwood,Sherwood,North Dakota,60142,2016
+Ambrose,Ambrose,North Dakota,3046,2016
+Dunseith,Dunseith,North Dakota,230425,2016
+Carbury,Carbury,North Dakota,36350,2016
+Maida,Maida,North Dakota,23374,2016
+St. John,St. John,North Dakota,37248,2016
+Hannah,Hannah,North Dakota,2808,2016
+Progreso,Progreso,Texas,4934027,2016
+Roma,Roma,Texas,2579556,2016
+Boquillas,Boquillas,Texas,14099,2016
+Rio Grande City,Rio Grande City,Texas,1363080,2016
+Del Rio,Del Rio,Texas,4965171,2016
+Eagle Pass,Eagle Pass,Texas,9644454,2016
+Tornillo-Fabens,Tornillo-Fabens,Texas,1000172,2016
+El Paso,El Paso,Texas,42171794,2016
+Hidalgo,Hidalgo,Texas,18216687,2016
+Brownsville,Brownsville,Texas,17190592,2016
+Presidio,Presidio,Texas,2168198,2016
+Laredo,Laredo,Texas,25032087,2016
+Opheim,Opheim,Montana,10039,2016
+Wildhorse,Wildhorse,Montana,45592,2016
+Scobey,Scobey,Montana,18005,2016
+Raymond,Raymond,Montana,101187,2016
+Del Bonita,Del Bonita,Montana,85500,2016
+Turner,Turner,Montana,30060,2016
+Sweetgrass,Sweetgrass,Montana,973826,2016
+Piegan,Piegan,Montana,356792,2016
+Whitlash,Whitlash,Montana,2037,2016
+Morgan,Morgan,Montana,18223,2016
+Willow Creek,Willow Creek,Montana,10008,2016
+Roosville,Roosville,Montana,536337,2016
+Whitetail,Whitetail,Montana,0,2016
+Lancaster,Lancaster,Minnesota,93689,2016
+Roseau,Roseau,Minnesota,127352,2016
+Baudette,Baudette,Minnesota,475125,2016
+Grand Portage,Grand Portage,Minnesota,729561,2016
+Pinecreek,Pinecreek,Minnesota,13493,2016
+Warroad,Warroad,Minnesota,335442,2016
+International Falls-Ranier,International Falls-Ranier,Minnesota,1867628,2016
+Noyes,Noyes,Minnesota,0,2016
+Derby Line,Derby Line,Vermont,1828965,2016
+Beecher Falls,Beecher Falls,Vermont,198542,2016
+Norton,Norton,Vermont,117933,2016
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,2062121,2016
+Richford,Richford,Vermont,310949,2016
+Lynden,Lynden,Washington,1563933,2016
+Oroville,Oroville,Washington,750843,2016
+Ferry,Ferry,Washington,31252,2016
+Metaline Falls,Metaline Falls,Washington,103624,2016
+Blaine,Blaine,Washington,12797598,2016
+Frontier,Frontier,Washington,168926,2016
+Laurier,Laurier,Washington,163440,2016
+Boundary,Boundary,Washington,97624,2016
+Sumas,Sumas,Washington,2655660,2016
+Port Angeles,Port Angeles,Washington,202591,2016
+Danville,Danville,Washington,100560,2016
+Nighthawk,Nighthawk,Washington,19643,2016
+Point Roberts,Point Roberts,Washington,2278819,2016
+Anacortes,Anacortes,Washington,106792,2016
+Friday Harbor,Friday Harbor,Washington,10230,2016
+Eastport,Eastport,Idaho,537518,2016
+Porthill,Porthill,Idaho,372460,2016
+Sault Sainte Marie,Sault Sainte Marie,Michigan,2060765,2016
+Port Huron,Port Huron,Michigan,6740651,2016
+Detroit,Detroit,Michigan,14660148,2016
+Algonac,Algonac,Michigan,0,2016
+Santa Teresa,Santa Teresa,New Mexico,2383393,2016
+Columbus,Columbus,New Mexico,1477932,2016
+Skagway,Skagway,Alaska,438455,2016
+Ketchikan,Ketchikan,Alaska,9143,2016
+Alcan,Alcan,Alaska,183034,2016
+Dalton Cache,Dalton Cache,Alaska,64551,2016
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,2016
+Calexico East,Calexico East,California,11407619,2015
+Otay Mesa,Otay Mesa,California,24411844,2015
+San Ysidro,San Ysidro,California,47629073,2015
+Tecate,Tecate,California,3399496,2015
+Calexico,Calexico,California,16436626,2015
+Andrade,Andrade,California,2377624,2015
+Cross Border Xpress,Cross Border Xpress,California,0,2015
+Van Buren,Van Buren,Maine,498464,2015
+Madawaska,Madawaska,Maine,1123721,2015
+Vanceboro,Vanceboro,Maine,95198,2015
+Calais,Calais,Maine,2155200,2015
+Houlton,Houlton,Maine,915339,2015
+Fort Fairfield,Fort Fairfield,Maine,327859,2015
+Bridgewater,Bridgewater,Maine,160220,2015
+Fort Kent,Fort Kent,Maine,395522,2015
+Jackman,Jackman,Maine,603795,2015
+Limestone,Limestone,Maine,61312,2015
+Eastport,Eastport,Maine,369522,2015
+Portland,Portland,Maine,24988,2015
+Bar Harbor,Bar Harbor,Maine,0,2015
+Nogales,Nogales,Arizona,14700517,2015
+Naco,Naco,Arizona,895440,2015
+Sasabe,Sasabe,Arizona,57236,2015
+Douglas,Douglas,Arizona,5595491,2015
+Lukeville,Lukeville,Arizona,1147097,2015
+San Luis,San Luis,Arizona,11100382,2015
+Trout River,Trout River,New York,521770,2015
+Champlain-Rouses Point,Champlain-Rouses Point,New York,4366943,2015
+Massena,Massena,New York,2400315,2015
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,18198877,2015
+Alexandria Bay,Alexandria Bay,New York,2361673,2015
+Ogdensburg,Ogdensburg,New York,953362,2015
+Cape Vincent,Cape Vincent,New York,21685,2015
+Pembina,Pembina,North Dakota,1555965,2015
+Portal,Portal,North Dakota,742167,2015
+Neche,Neche,North Dakota,119606,2015
+Sarles,Sarles,North Dakota,14004,2015
+Hansboro,Hansboro,North Dakota,20945,2015
+Walhalla,Walhalla,North Dakota,140323,2015
+Antler,Antler,North Dakota,24501,2015
+Noonan,Noonan,North Dakota,92939,2015
+Westhope,Westhope,North Dakota,40202,2015
+Fortuna,Fortuna,North Dakota,45182,2015
+Northgate,Northgate,North Dakota,74062,2015
+Sherwood,Sherwood,North Dakota,66637,2015
+Ambrose,Ambrose,North Dakota,3039,2015
+Dunseith,Dunseith,North Dakota,238356,2015
+Carbury,Carbury,North Dakota,35813,2015
+Maida,Maida,North Dakota,28466,2015
+St. John,St. John,North Dakota,39443,2015
+Hannah,Hannah,North Dakota,3406,2015
+Progreso,Progreso,Texas,4266971,2015
+Roma,Roma,Texas,2443096,2015
+Boquillas,Boquillas,Texas,7007,2015
+Rio Grande City,Rio Grande City,Texas,1270358,2015
+Del Rio,Del Rio,Texas,4716036,2015
+Eagle Pass,Eagle Pass,Texas,9545733,2015
+Tornillo-Fabens,Tornillo-Fabens,Texas,862308,2015
+El Paso,El Paso,Texas,41002269,2015
+Hidalgo,Hidalgo,Texas,17765133,2015
+Brownsville,Brownsville,Texas,15777337,2015
+Presidio,Presidio,Texas,2140007,2015
+Laredo,Laredo,Texas,25173596,2015
+Opheim,Opheim,Montana,10905,2015
+Wildhorse,Wildhorse,Montana,45495,2015
+Scobey,Scobey,Montana,18769,2015
+Raymond,Raymond,Montana,105957,2015
+Del Bonita,Del Bonita,Montana,88242,2015
+Turner,Turner,Montana,32354,2015
+Sweetgrass,Sweetgrass,Montana,1018802,2015
+Piegan,Piegan,Montana,343560,2015
+Whitlash,Whitlash,Montana,2957,2015
+Morgan,Morgan,Montana,19844,2015
+Willow Creek,Willow Creek,Montana,10125,2015
+Roosville,Roosville,Montana,556895,2015
+Whitetail,Whitetail,Montana,0,2015
+Lancaster,Lancaster,Minnesota,102176,2015
+Roseau,Roseau,Minnesota,129126,2015
+Baudette,Baudette,Minnesota,479769,2015
+Grand Portage,Grand Portage,Minnesota,785863,2015
+Pinecreek,Pinecreek,Minnesota,15941,2015
+Warroad,Warroad,Minnesota,347455,2015
+International Falls-Ranier,International Falls-Ranier,Minnesota,1927109,2015
+Noyes,Noyes,Minnesota,0,2015
+Derby Line,Derby Line,Vermont,1888865,2015
+Beecher Falls,Beecher Falls,Vermont,208905,2015
+Norton,Norton,Vermont,146497,2015
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,2068806,2015
+Richford,Richford,Vermont,329060,2015
+Lynden,Lynden,Washington,1655448,2015
+Oroville,Oroville,Washington,771944,2015
+Ferry,Ferry,Washington,24510,2015
+Metaline Falls,Metaline Falls,Washington,103573,2015
+Blaine,Blaine,Washington,13617574,2015
+Frontier,Frontier,Washington,173460,2015
+Laurier,Laurier,Washington,159060,2015
+Boundary,Boundary,Washington,110606,2015
+Sumas,Sumas,Washington,2878987,2015
+Port Angeles,Port Angeles,Washington,199531,2015
+Danville,Danville,Washington,104803,2015
+Nighthawk,Nighthawk,Washington,19298,2015
+Point Roberts,Point Roberts,Washington,2454897,2015
+Anacortes,Anacortes,Washington,104364,2015
+Friday Harbor,Friday Harbor,Washington,9626,2015
+Eastport,Eastport,Idaho,554588,2015
+Porthill,Porthill,Idaho,397173,2015
+Sault Sainte Marie,Sault Sainte Marie,Michigan,2337967,2015
+Port Huron,Port Huron,Michigan,6945450,2015
+Detroit,Detroit,Michigan,14771277,2015
+Algonac,Algonac,Michigan,0,2015
+Santa Teresa,Santa Teresa,New Mexico,2091026,2015
+Columbus,Columbus,New Mexico,1444114,2015
+Skagway,Skagway,Alaska,403978,2015
+Ketchikan,Ketchikan,Alaska,9278,2015
+Alcan,Alcan,Alaska,164148,2015
+Dalton Cache,Dalton Cache,Alaska,60724,2015
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,2015
+Calexico East,Calexico East,California,10927817,2014
+Otay Mesa,Otay Mesa,California,24221610,2014
+San Ysidro,San Ysidro,California,41535749,2014
+Tecate,Tecate,California,3255486,2014
+Calexico,Calexico,California,15860527,2014
+Andrade,Andrade,California,2165243,2014
+Cross Border Xpress,Cross Border Xpress,California,0,2014
+Van Buren,Van Buren,Maine,650932,2014
+Madawaska,Madawaska,Maine,1310257,2014
+Vanceboro,Vanceboro,Maine,126881,2014
+Calais,Calais,Maine,2576889,2014
+Houlton,Houlton,Maine,1134744,2014
+Fort Fairfield,Fort Fairfield,Maine,427885,2014
+Bridgewater,Bridgewater,Maine,222329,2014
+Fort Kent,Fort Kent,Maine,475912,2014
+Jackman,Jackman,Maine,627547,2014
+Limestone,Limestone,Maine,88689,2014
+Eastport,Eastport,Maine,386630,2014
+Portland,Portland,Maine,22118,2014
+Bar Harbor,Bar Harbor,Maine,0,2014
+Nogales,Nogales,Arizona,13854983,2014
+Naco,Naco,Arizona,914353,2014
+Sasabe,Sasabe,Arizona,50572,2014
+Douglas,Douglas,Arizona,5484892,2014
+Lukeville,Lukeville,Arizona,1017873,2014
+San Luis,San Luis,Arizona,10914423,2014
+Trout River,Trout River,New York,579676,2014
+Champlain-Rouses Point,Champlain-Rouses Point,New York,4748167,2014
+Massena,Massena,New York,2654947,2014
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,20026091,2014
+Alexandria Bay,Alexandria Bay,New York,2528781,2014
+Ogdensburg,Ogdensburg,New York,1171359,2014
+Cape Vincent,Cape Vincent,New York,17225,2014
+Pembina,Pembina,North Dakota,1770683,2014
+Portal,Portal,North Dakota,807521,2014
+Neche,Neche,North Dakota,151044,2014
+Sarles,Sarles,North Dakota,12990,2014
+Hansboro,Hansboro,North Dakota,25815,2014
+Walhalla,Walhalla,North Dakota,167592,2014
+Antler,Antler,North Dakota,30843,2014
+Noonan,Noonan,North Dakota,108758,2014
+Westhope,Westhope,North Dakota,44259,2014
+Fortuna,Fortuna,North Dakota,41386,2014
+Northgate,Northgate,North Dakota,88615,2014
+Sherwood,Sherwood,North Dakota,87899,2014
+Ambrose,Ambrose,North Dakota,4335,2014
+Dunseith,Dunseith,North Dakota,279528,2014
+Carbury,Carbury,North Dakota,47571,2014
+Maida,Maida,North Dakota,31924,2014
+St. John,St. John,North Dakota,48285,2014
+Hannah,Hannah,North Dakota,3981,2014
+Progreso,Progreso,Texas,4701449,2014
+Roma,Roma,Texas,2344252,2014
+Boquillas,Boquillas,Texas,0,2014
+Rio Grande City,Rio Grande City,Texas,1238463,2014
+Del Rio,Del Rio,Texas,4423968,2014
+Eagle Pass,Eagle Pass,Texas,8964662,2014
+Tornillo-Fabens,Tornillo-Fabens,Texas,936008,2014
+El Paso,El Paso,Texas,39200816,2014
+Hidalgo,Hidalgo,Texas,17533220,2014
+Brownsville,Brownsville,Texas,15628652,2014
+Presidio,Presidio,Texas,1997753,2014
+Laredo,Laredo,Texas,24375081,2014
+Opheim,Opheim,Montana,12160,2014
+Wildhorse,Wildhorse,Montana,58988,2014
+Scobey,Scobey,Montana,23769,2014
+Raymond,Raymond,Montana,116596,2014
+Del Bonita,Del Bonita,Montana,96516,2014
+Turner,Turner,Montana,37008,2014
+Sweetgrass,Sweetgrass,Montana,1132442,2014
+Piegan,Piegan,Montana,379138,2014
+Whitlash,Whitlash,Montana,3815,2014
+Morgan,Morgan,Montana,22343,2014
+Willow Creek,Willow Creek,Montana,14465,2014
+Roosville,Roosville,Montana,621867,2014
+Whitetail,Whitetail,Montana,0,2014
+Lancaster,Lancaster,Minnesota,121906,2014
+Roseau,Roseau,Minnesota,135346,2014
+Baudette,Baudette,Minnesota,484889,2014
+Grand Portage,Grand Portage,Minnesota,904064,2014
+Pinecreek,Pinecreek,Minnesota,17144,2014
+Warroad,Warroad,Minnesota,347668,2014
+International Falls-Ranier,International Falls-Ranier,Minnesota,1991123,2014
+Noyes,Noyes,Minnesota,0,2014
+Derby Line,Derby Line,Vermont,2135778,2014
+Beecher Falls,Beecher Falls,Vermont,238453,2014
+Norton,Norton,Vermont,213536,2014
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,1915830,2014
+Richford,Richford,Vermont,457751,2014
+Lynden,Lynden,Washington,2244375,2014
+Oroville,Oroville,Washington,891630,2014
+Ferry,Ferry,Washington,29009,2014
+Metaline Falls,Metaline Falls,Washington,102321,2014
+Blaine,Blaine,Washington,15857876,2014
+Frontier,Frontier,Washington,190218,2014
+Laurier,Laurier,Washington,171767,2014
+Boundary,Boundary,Washington,164697,2014
+Sumas,Sumas,Washington,3564539,2014
+Port Angeles,Port Angeles,Washington,190778,2014
+Danville,Danville,Washington,131661,2014
+Nighthawk,Nighthawk,Washington,24492,2014
+Point Roberts,Point Roberts,Washington,2798692,2014
+Anacortes,Anacortes,Washington,104031,2014
+Friday Harbor,Friday Harbor,Washington,8707,2014
+Eastport,Eastport,Idaho,602321,2014
+Porthill,Porthill,Idaho,476281,2014
+Sault Sainte Marie,Sault Sainte Marie,Michigan,2850119,2014
+Port Huron,Port Huron,Michigan,7960945,2014
+Detroit,Detroit,Michigan,14576514,2014
+Algonac,Algonac,Michigan,0,2014
+Santa Teresa,Santa Teresa,New Mexico,1909452,2014
+Columbus,Columbus,New Mexico,1288973,2014
+Skagway,Skagway,Alaska,413422,2014
+Ketchikan,Ketchikan,Alaska,9519,2014
+Alcan,Alcan,Alaska,136163,2014
+Dalton Cache,Dalton Cache,Alaska,55079,2014
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,2014
+Calexico East,Calexico East,California,10179331,2013
+Otay Mesa,Otay Mesa,California,22179950,2013
+San Ysidro,San Ysidro,California,39543153,2013
+Tecate,Tecate,California,3062824,2013
+Calexico,Calexico,California,16038821,2013
+Andrade,Andrade,California,2022060,2013
+Cross Border Xpress,Cross Border Xpress,California,0,2013
+Van Buren,Van Buren,Maine,702571,2013
+Madawaska,Madawaska,Maine,1404127,2013
+Vanceboro,Vanceboro,Maine,149295,2013
+Calais,Calais,Maine,2711436,2013
+Houlton,Houlton,Maine,1210976,2013
+Fort Fairfield,Fort Fairfield,Maine,479224,2013
+Bridgewater,Bridgewater,Maine,260308,2013
+Fort Kent,Fort Kent,Maine,506738,2013
+Jackman,Jackman,Maine,659200,2013
+Limestone,Limestone,Maine,91705,2013
+Eastport,Eastport,Maine,383799,2013
+Portland,Portland,Maine,0,2013
+Bar Harbor,Bar Harbor,Maine,0,2013
+Nogales,Nogales,Arizona,13470044,2013
+Naco,Naco,Arizona,883798,2013
+Sasabe,Sasabe,Arizona,43066,2013
+Douglas,Douglas,Arizona,6058066,2013
+Lukeville,Lukeville,Arizona,958596,2013
+San Luis,San Luis,Arizona,10418514,2013
+Trout River,Trout River,New York,609963,2013
+Champlain-Rouses Point,Champlain-Rouses Point,New York,4903689,2013
+Massena,Massena,New York,2633320,2013
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,21321999,2013
+Alexandria Bay,Alexandria Bay,New York,2542129,2013
+Ogdensburg,Ogdensburg,New York,1236962,2013
+Cape Vincent,Cape Vincent,New York,27650,2013
+Pembina,Pembina,North Dakota,1786744,2013
+Portal,Portal,North Dakota,770071,2013
+Neche,Neche,North Dakota,169422,2013
+Sarles,Sarles,North Dakota,12386,2013
+Hansboro,Hansboro,North Dakota,26927,2013
+Walhalla,Walhalla,North Dakota,167214,2013
+Antler,Antler,North Dakota,38192,2013
+Noonan,Noonan,North Dakota,116954,2013
+Westhope,Westhope,North Dakota,44738,2013
+Fortuna,Fortuna,North Dakota,40371,2013
+Northgate,Northgate,North Dakota,82690,2013
+Sherwood,Sherwood,North Dakota,84944,2013
+Ambrose,Ambrose,North Dakota,5270,2013
+Dunseith,Dunseith,North Dakota,278085,2013
+Carbury,Carbury,North Dakota,49528,2013
+Maida,Maida,North Dakota,33997,2013
+St. John,St. John,North Dakota,51972,2013
+Hannah,Hannah,North Dakota,3958,2013
+Progreso,Progreso,Texas,4382606,2013
+Roma,Roma,Texas,2276532,2013
+Boquillas,Boquillas,Texas,0,2013
+Rio Grande City,Rio Grande City,Texas,1181207,2013
+Del Rio,Del Rio,Texas,4139383,2013
+Eagle Pass,Eagle Pass,Texas,8468973,2013
+Tornillo-Fabens,Tornillo-Fabens,Texas,963232,2013
+El Paso,El Paso,Texas,36307859,2013
+Hidalgo,Hidalgo,Texas,17792901,2013
+Brownsville,Brownsville,Texas,15394973,2013
+Presidio,Presidio,Texas,1937360,2013
+Laredo,Laredo,Texas,23314972,2013
+Opheim,Opheim,Montana,12216,2013
+Wildhorse,Wildhorse,Montana,64731,2013
+Scobey,Scobey,Montana,23789,2013
+Raymond,Raymond,Montana,117502,2013
+Del Bonita,Del Bonita,Montana,89137,2013
+Turner,Turner,Montana,38284,2013
+Sweetgrass,Sweetgrass,Montana,1135356,2013
+Piegan,Piegan,Montana,388592,2013
+Whitlash,Whitlash,Montana,2106,2013
+Morgan,Morgan,Montana,25125,2013
+Willow Creek,Willow Creek,Montana,8917,2013
+Roosville,Roosville,Montana,609796,2013
+Whitetail,Whitetail,Montana,134,2013
+Lancaster,Lancaster,Minnesota,132978,2013
+Roseau,Roseau,Minnesota,131868,2013
+Baudette,Baudette,Minnesota,491497,2013
+Grand Portage,Grand Portage,Minnesota,938587,2013
+Pinecreek,Pinecreek,Minnesota,17368,2013
+Warroad,Warroad,Minnesota,356508,2013
+International Falls-Ranier,International Falls-Ranier,Minnesota,1952805,2013
+Noyes,Noyes,Minnesota,0,2013
+Derby Line,Derby Line,Vermont,2194453,2013
+Beecher Falls,Beecher Falls,Vermont,242963,2013
+Norton,Norton,Vermont,239573,2013
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,1929479,2013
+Richford,Richford,Vermont,419562,2013
+Lynden,Lynden,Washington,2505197,2013
+Oroville,Oroville,Washington,941125,2013
+Ferry,Ferry,Washington,34136,2013
+Metaline Falls,Metaline Falls,Washington,101817,2013
+Blaine,Blaine,Washington,15962289,2013
+Frontier,Frontier,Washington,198585,2013
+Laurier,Laurier,Washington,171114,2013
+Boundary,Boundary,Washington,181505,2013
+Sumas,Sumas,Washington,3790059,2013
+Port Angeles,Port Angeles,Washington,249752,2013
+Danville,Danville,Washington,147424,2013
+Nighthawk,Nighthawk,Washington,27426,2013
+Point Roberts,Point Roberts,Washington,2833737,2013
+Anacortes,Anacortes,Washington,109684,2013
+Friday Harbor,Friday Harbor,Washington,9085,2013
+Eastport,Eastport,Idaho,572500,2013
+Porthill,Porthill,Idaho,489651,2013
+Sault Sainte Marie,Sault Sainte Marie,Michigan,3022095,2013
+Port Huron,Port Huron,Michigan,8026057,2013
+Detroit,Detroit,Michigan,15100733,2013
+Algonac,Algonac,Michigan,0,2013
+Santa Teresa,Santa Teresa,New Mexico,1742531,2013
+Columbus,Columbus,New Mexico,1221475,2013
+Skagway,Skagway,Alaska,403588,2013
+Ketchikan,Ketchikan,Alaska,30625,2013
+Alcan,Alcan,Alaska,113024,2013
+Dalton Cache,Dalton Cache,Alaska,53123,2013
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,2013
+Calexico East,Calexico East,California,9627755,2012
+Otay Mesa,Otay Mesa,California,19615896,2012
+San Ysidro,San Ysidro,California,40213126,2012
+Tecate,Tecate,California,3077580,2012
+Calexico,Calexico,California,15937359,2012
+Andrade,Andrade,California,2138004,2012
+Cross Border Xpress,Cross Border Xpress,California,0,2012
+Van Buren,Van Buren,Maine,753366,2012
+Madawaska,Madawaska,Maine,1428427,2012
+Vanceboro,Vanceboro,Maine,152702,2012
+Calais,Calais,Maine,2910567,2012
+Houlton,Houlton,Maine,1265557,2012
+Fort Fairfield,Fort Fairfield,Maine,478473,2012
+Bridgewater,Bridgewater,Maine,262686,2012
+Fort Kent,Fort Kent,Maine,516601,2012
+Jackman,Jackman,Maine,650855,2012
+Limestone,Limestone,Maine,95658,2012
+Eastport,Eastport,Maine,399124,2012
+Portland,Portland,Maine,0,2012
+Bar Harbor,Bar Harbor,Maine,0,2012
+Nogales,Nogales,Arizona,12641522,2012
+Naco,Naco,Arizona,844977,2012
+Sasabe,Sasabe,Arizona,40927,2012
+Douglas,Douglas,Arizona,5297078,2012
+Lukeville,Lukeville,Arizona,893825,2012
+San Luis,San Luis,Arizona,9832556,2012
+Trout River,Trout River,New York,587834,2012
+Champlain-Rouses Point,Champlain-Rouses Point,New York,4821666,2012
+Massena,Massena,New York,2708839,2012
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,22156209,2012
+Alexandria Bay,Alexandria Bay,New York,2538056,2012
+Ogdensburg,Ogdensburg,New York,1201436,2012
+Cape Vincent,Cape Vincent,New York,28600,2012
+Pembina,Pembina,North Dakota,1814080,2012
+Portal,Portal,North Dakota,785520,2012
+Neche,Neche,North Dakota,169353,2012
+Sarles,Sarles,North Dakota,14624,2012
+Hansboro,Hansboro,North Dakota,30146,2012
+Walhalla,Walhalla,North Dakota,170502,2012
+Antler,Antler,North Dakota,39432,2012
+Noonan,Noonan,North Dakota,124217,2012
+Westhope,Westhope,North Dakota,47143,2012
+Fortuna,Fortuna,North Dakota,42741,2012
+Northgate,Northgate,North Dakota,91350,2012
+Sherwood,Sherwood,North Dakota,93199,2012
+Ambrose,Ambrose,North Dakota,5646,2012
+Dunseith,Dunseith,North Dakota,285761,2012
+Carbury,Carbury,North Dakota,49706,2012
+Maida,Maida,North Dakota,33629,2012
+St. John,St. John,North Dakota,53138,2012
+Hannah,Hannah,North Dakota,5484,2012
+Progreso,Progreso,Texas,4020303,2012
+Roma,Roma,Texas,2255019,2012
+Boquillas,Boquillas,Texas,0,2012
+Rio Grande City,Rio Grande City,Texas,1129921,2012
+Del Rio,Del Rio,Texas,4042978,2012
+Eagle Pass,Eagle Pass,Texas,8099141,2012
+Tornillo-Fabens,Tornillo-Fabens,Texas,983739,2012
+El Paso,El Paso,Texas,33474787,2012
+Hidalgo,Hidalgo,Texas,17732509,2012
+Brownsville,Brownsville,Texas,15191799,2012
+Presidio,Presidio,Texas,1844484,2012
+Laredo,Laredo,Texas,21395209,2012
+Opheim,Opheim,Montana,15148,2012
+Wildhorse,Wildhorse,Montana,63564,2012
+Scobey,Scobey,Montana,22394,2012
+Raymond,Raymond,Montana,117938,2012
+Del Bonita,Del Bonita,Montana,78826,2012
+Turner,Turner,Montana,36202,2012
+Sweetgrass,Sweetgrass,Montana,1118513,2012
+Piegan,Piegan,Montana,397944,2012
+Whitlash,Whitlash,Montana,2603,2012
+Morgan,Morgan,Montana,27000,2012
+Willow Creek,Willow Creek,Montana,13249,2012
+Roosville,Roosville,Montana,561040,2012
+Whitetail,Whitetail,Montana,2796,2012
+Lancaster,Lancaster,Minnesota,149803,2012
+Roseau,Roseau,Minnesota,138170,2012
+Baudette,Baudette,Minnesota,489725,2012
+Grand Portage,Grand Portage,Minnesota,957380,2012
+Pinecreek,Pinecreek,Minnesota,16844,2012
+Warroad,Warroad,Minnesota,368239,2012
+International Falls-Ranier,International Falls-Ranier,Minnesota,1936324,2012
+Noyes,Noyes,Minnesota,0,2012
+Derby Line,Derby Line,Vermont,2134176,2012
+Beecher Falls,Beecher Falls,Vermont,244250,2012
+Norton,Norton,Vermont,235681,2012
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,1870751,2012
+Richford,Richford,Vermont,406910,2012
+Lynden,Lynden,Washington,2505196,2012
+Oroville,Oroville,Washington,925933,2012
+Ferry,Ferry,Washington,31802,2012
+Metaline Falls,Metaline Falls,Washington,97493,2012
+Blaine,Blaine,Washington,15100326,2012
+Frontier,Frontier,Washington,189878,2012
+Laurier,Laurier,Washington,166136,2012
+Boundary,Boundary,Washington,177777,2012
+Sumas,Sumas,Washington,3501464,2012
+Port Angeles,Port Angeles,Washington,192433,2012
+Danville,Danville,Washington,151738,2012
+Nighthawk,Nighthawk,Washington,30021,2012
+Point Roberts,Point Roberts,Washington,2734641,2012
+Anacortes,Anacortes,Washington,107235,2012
+Friday Harbor,Friday Harbor,Washington,8338,2012
+Eastport,Eastport,Idaho,544660,2012
+Porthill,Porthill,Idaho,484620,2012
+Sault Sainte Marie,Sault Sainte Marie,Michigan,2985525,2012
+Port Huron,Port Huron,Michigan,7788304,2012
+Detroit,Detroit,Michigan,14964433,2012
+Algonac,Algonac,Michigan,0,2012
+Santa Teresa,Santa Teresa,New Mexico,1539739,2012
+Columbus,Columbus,New Mexico,1129431,2012
+Skagway,Skagway,Alaska,389666,2012
+Ketchikan,Ketchikan,Alaska,11768,2012
+Alcan,Alcan,Alaska,145361,2012
+Dalton Cache,Dalton Cache,Alaska,51707,2012
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,2012
+Calexico East,Calexico East,California,8711024,2011
+Otay Mesa,Otay Mesa,California,15892748,2011
+San Ysidro,San Ysidro,California,42878634,2011
+Tecate,Tecate,California,3026204,2011
+Calexico,Calexico,California,15646294,2011
+Andrade,Andrade,California,2009751,2011
+Cross Border Xpress,Cross Border Xpress,California,0,2011
+Van Buren,Van Buren,Maine,716159,2011
+Madawaska,Madawaska,Maine,1417107,2011
+Vanceboro,Vanceboro,Maine,144482,2011
+Calais,Calais,Maine,2905544,2011
+Houlton,Houlton,Maine,1236570,2011
+Fort Fairfield,Fort Fairfield,Maine,471411,2011
+Bridgewater,Bridgewater,Maine,251327,2011
+Fort Kent,Fort Kent,Maine,509716,2011
+Jackman,Jackman,Maine,613780,2011
+Limestone,Limestone,Maine,97429,2011
+Eastport,Eastport,Maine,409346,2011
+Portland,Portland,Maine,0,2011
+Bar Harbor,Bar Harbor,Maine,0,2011
+Nogales,Nogales,Arizona,12271265,2011
+Naco,Naco,Arizona,788218,2011
+Sasabe,Sasabe,Arizona,46256,2011
+Douglas,Douglas,Arizona,5112873,2011
+Lukeville,Lukeville,Arizona,838937,2011
+San Luis,San Luis,Arizona,8944103,2011
+Trout River,Trout River,New York,574922,2011
+Champlain-Rouses Point,Champlain-Rouses Point,New York,4539543,2011
+Massena,Massena,New York,2655699,2011
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,21634358,2011
+Alexandria Bay,Alexandria Bay,New York,2482450,2011
+Ogdensburg,Ogdensburg,New York,1087374,2011
+Cape Vincent,Cape Vincent,New York,28713,2011
+Pembina,Pembina,North Dakota,1664925,2011
+Portal,Portal,North Dakota,640524,2011
+Neche,Neche,North Dakota,170537,2011
+Sarles,Sarles,North Dakota,13388,2011
+Hansboro,Hansboro,North Dakota,29112,2011
+Walhalla,Walhalla,North Dakota,166634,2011
+Antler,Antler,North Dakota,34848,2011
+Noonan,Noonan,North Dakota,111974,2011
+Westhope,Westhope,North Dakota,49205,2011
+Fortuna,Fortuna,North Dakota,42945,2011
+Northgate,Northgate,North Dakota,105270,2011
+Sherwood,Sherwood,North Dakota,94953,2011
+Ambrose,Ambrose,North Dakota,4683,2011
+Dunseith,Dunseith,North Dakota,266243,2011
+Carbury,Carbury,North Dakota,46895,2011
+Maida,Maida,North Dakota,26660,2011
+St. John,St. John,North Dakota,50171,2011
+Hannah,Hannah,North Dakota,4923,2011
+Progreso,Progreso,Texas,3470188,2011
+Roma,Roma,Texas,2102938,2011
+Boquillas,Boquillas,Texas,0,2011
+Rio Grande City,Rio Grande City,Texas,1052624,2011
+Del Rio,Del Rio,Texas,3972880,2011
+Eagle Pass,Eagle Pass,Texas,8152191,2011
+Tornillo-Fabens,Tornillo-Fabens,Texas,953614,2011
+El Paso,El Paso,Texas,32200871,2011
+Hidalgo,Hidalgo,Texas,17153689,2011
+Brownsville,Brownsville,Texas,14712887,2011
+Presidio,Presidio,Texas,1889075,2011
+Laredo,Laredo,Texas,21037888,2011
+Opheim,Opheim,Montana,11603,2011
+Wildhorse,Wildhorse,Montana,62097,2011
+Scobey,Scobey,Montana,18112,2011
+Raymond,Raymond,Montana,115019,2011
+Del Bonita,Del Bonita,Montana,73048,2011
+Turner,Turner,Montana,29159,2011
+Sweetgrass,Sweetgrass,Montana,1051606,2011
+Piegan,Piegan,Montana,373675,2011
+Whitlash,Whitlash,Montana,2747,2011
+Morgan,Morgan,Montana,25028,2011
+Willow Creek,Willow Creek,Montana,16194,2011
+Roosville,Roosville,Montana,517561,2011
+Whitetail,Whitetail,Montana,2503,2011
+Lancaster,Lancaster,Minnesota,175452,2011
+Roseau,Roseau,Minnesota,134137,2011
+Baudette,Baudette,Minnesota,494296,2011
+Grand Portage,Grand Portage,Minnesota,958133,2011
+Pinecreek,Pinecreek,Minnesota,16854,2011
+Warroad,Warroad,Minnesota,368826,2011
+International Falls-Ranier,International Falls-Ranier,Minnesota,1805473,2011
+Noyes,Noyes,Minnesota,0,2011
+Derby Line,Derby Line,Vermont,2047332,2011
+Beecher Falls,Beecher Falls,Vermont,230099,2011
+Norton,Norton,Vermont,217665,2011
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,1816059,2011
+Richford,Richford,Vermont,357694,2011
+Lynden,Lynden,Washington,2209148,2011
+Oroville,Oroville,Washington,851217,2011
+Ferry,Ferry,Washington,28641,2011
+Metaline Falls,Metaline Falls,Washington,97305,2011
+Blaine,Blaine,Washington,13862520,2011
+Frontier,Frontier,Washington,182845,2011
+Laurier,Laurier,Washington,164125,2011
+Boundary,Boundary,Washington,200906,2011
+Sumas,Sumas,Washington,3259261,2011
+Port Angeles,Port Angeles,Washington,191363,2011
+Danville,Danville,Washington,157046,2011
+Nighthawk,Nighthawk,Washington,32536,2011
+Point Roberts,Point Roberts,Washington,2547145,2011
+Anacortes,Anacortes,Washington,106377,2011
+Friday Harbor,Friday Harbor,Washington,9077,2011
+Eastport,Eastport,Idaho,533131,2011
+Porthill,Porthill,Idaho,509732,2011
+Sault Sainte Marie,Sault Sainte Marie,Michigan,2870851,2011
+Port Huron,Port Huron,Michigan,7405117,2011
+Detroit,Detroit,Michigan,14673981,2011
+Algonac,Algonac,Michigan,0,2011
+Santa Teresa,Santa Teresa,New Mexico,1601348,2011
+Columbus,Columbus,New Mexico,1074589,2011
+Skagway,Skagway,Alaska,359169,2011
+Ketchikan,Ketchikan,Alaska,11693,2011
+Alcan,Alcan,Alaska,149323,2011
+Dalton Cache,Dalton Cache,Alaska,52210,2011
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,2011
+Calexico East,Calexico East,California,8506001,2010
+Otay Mesa,Otay Mesa,California,14884003,2010
+San Ysidro,San Ysidro,California,44009770,2010
+Tecate,Tecate,California,2968965,2010
+Calexico,Calexico,California,16211597,2010
+Andrade,Andrade,California,2080664,2010
+Cross Border Xpress,Cross Border Xpress,California,0,2010
+Van Buren,Van Buren,Maine,681246,2010
+Madawaska,Madawaska,Maine,1567665,2010
+Vanceboro,Vanceboro,Maine,137841,2010
+Calais,Calais,Maine,2784993,2010
+Houlton,Houlton,Maine,1266975,2010
+Fort Fairfield,Fort Fairfield,Maine,430247,2010
+Bridgewater,Bridgewater,Maine,182612,2010
+Fort Kent,Fort Kent,Maine,525636,2010
+Jackman,Jackman,Maine,743724,2010
+Limestone,Limestone,Maine,89883,2010
+Eastport,Eastport,Maine,406761,2010
+Portland,Portland,Maine,0,2010
+Bar Harbor,Bar Harbor,Maine,0,2010
+Nogales,Nogales,Arizona,14154653,2010
+Naco,Naco,Arizona,859318,2010
+Sasabe,Sasabe,Arizona,60277,2010
+Douglas,Douglas,Arizona,5486229,2010
+Lukeville,Lukeville,Arizona,1059339,2010
+San Luis,San Luis,Arizona,8408264,2010
+Trout River,Trout River,New York,558914,2010
+Champlain-Rouses Point,Champlain-Rouses Point,New York,4330604,2010
+Massena,Massena,New York,2652246,2010
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,20370752,2010
+Alexandria Bay,Alexandria Bay,New York,2569185,2010
+Ogdensburg,Ogdensburg,New York,976289,2010
+Cape Vincent,Cape Vincent,New York,28235,2010
+Pembina,Pembina,North Dakota,1546556,2010
+Portal,Portal,North Dakota,693207,2010
+Neche,Neche,North Dakota,176224,2010
+Sarles,Sarles,North Dakota,14797,2010
+Hansboro,Hansboro,North Dakota,35202,2010
+Walhalla,Walhalla,North Dakota,155933,2010
+Antler,Antler,North Dakota,36618,2010
+Noonan,Noonan,North Dakota,105161,2010
+Westhope,Westhope,North Dakota,52906,2010
+Fortuna,Fortuna,North Dakota,40848,2010
+Northgate,Northgate,North Dakota,124914,2010
+Sherwood,Sherwood,North Dakota,76423,2010
+Ambrose,Ambrose,North Dakota,5375,2010
+Dunseith,Dunseith,North Dakota,268682,2010
+Carbury,Carbury,North Dakota,45213,2010
+Maida,Maida,North Dakota,31286,2010
+St. John,St. John,North Dakota,70566,2010
+Hannah,Hannah,North Dakota,5974,2010
+Progreso,Progreso,Texas,2699139,2010
+Roma,Roma,Texas,2257891,2010
+Boquillas,Boquillas,Texas,0,2010
+Rio Grande City,Rio Grande City,Texas,1081653,2010
+Del Rio,Del Rio,Texas,3818783,2010
+Eagle Pass,Eagle Pass,Texas,9732371,2010
+Tornillo-Fabens,Tornillo-Fabens,Texas,1116698,2010
+El Paso,El Paso,Texas,36731815,2010
+Hidalgo,Hidalgo,Texas,19791437,2010
+Brownsville,Brownsville,Texas,16814487,2010
+Presidio,Presidio,Texas,2885317,2010
+Laredo,Laredo,Texas,23744719,2010
+Opheim,Opheim,Montana,10820,2010
+Wildhorse,Wildhorse,Montana,56415,2010
+Scobey,Scobey,Montana,15249,2010
+Raymond,Raymond,Montana,109390,2010
+Del Bonita,Del Bonita,Montana,69976,2010
+Turner,Turner,Montana,28670,2010
+Sweetgrass,Sweetgrass,Montana,1152944,2010
+Piegan,Piegan,Montana,369588,2010
+Whitlash,Whitlash,Montana,2377,2010
+Morgan,Morgan,Montana,24098,2010
+Willow Creek,Willow Creek,Montana,14836,2010
+Roosville,Roosville,Montana,461876,2010
+Whitetail,Whitetail,Montana,3183,2010
+Lancaster,Lancaster,Minnesota,141703,2010
+Roseau,Roseau,Minnesota,141179,2010
+Baudette,Baudette,Minnesota,593197,2010
+Grand Portage,Grand Portage,Minnesota,874156,2010
+Pinecreek,Pinecreek,Minnesota,15609,2010
+Warroad,Warroad,Minnesota,416703,2010
+International Falls-Ranier,International Falls-Ranier,Minnesota,1899019,2010
+Noyes,Noyes,Minnesota,0,2010
+Derby Line,Derby Line,Vermont,1934501,2010
+Beecher Falls,Beecher Falls,Vermont,216815,2010
+Norton,Norton,Vermont,197951,2010
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,1860319,2010
+Richford,Richford,Vermont,386665,2010
+Lynden,Lynden,Washington,2060653,2010
+Oroville,Oroville,Washington,1029552,2010
+Ferry,Ferry,Washington,28443,2010
+Metaline Falls,Metaline Falls,Washington,93689,2010
+Blaine,Blaine,Washington,11506851,2010
+Frontier,Frontier,Washington,171911,2010
+Laurier,Laurier,Washington,159084,2010
+Boundary,Boundary,Washington,182657,2010
+Sumas,Sumas,Washington,2823166,2010
+Port Angeles,Port Angeles,Washington,196037,2010
+Danville,Danville,Washington,142347,2010
+Nighthawk,Nighthawk,Washington,33091,2010
+Point Roberts,Point Roberts,Washington,2419051,2010
+Anacortes,Anacortes,Washington,110733,2010
+Friday Harbor,Friday Harbor,Washington,10850,2010
+Eastport,Eastport,Idaho,511031,2010
+Porthill,Porthill,Idaho,518391,2010
+Sault Sainte Marie,Sault Sainte Marie,Michigan,2618142,2010
+Port Huron,Port Huron,Michigan,6883289,2010
+Detroit,Detroit,Michigan,14614819,2010
+Algonac,Algonac,Michigan,0,2010
+Santa Teresa,Santa Teresa,New Mexico,2088982,2010
+Columbus,Columbus,New Mexico,1324522,2010
+Skagway,Skagway,Alaska,342990,2010
+Ketchikan,Ketchikan,Alaska,13650,2010
+Alcan,Alcan,Alaska,154783,2010
+Dalton Cache,Dalton Cache,Alaska,57500,2010
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,2010
+Calexico East,Calexico East,California,9321370,2009
+Otay Mesa,Otay Mesa,California,15729359,2009
+San Ysidro,San Ysidro,California,44003475,2009
+Tecate,Tecate,California,3109392,2009
+Calexico,Calexico,California,17370563,2009
+Andrade,Andrade,California,2851344,2009
+Cross Border Xpress,Cross Border Xpress,California,0,2009
+Van Buren,Van Buren,Maine,634990,2009
+Madawaska,Madawaska,Maine,1530066,2009
+Vanceboro,Vanceboro,Maine,128580,2009
+Calais,Calais,Maine,2377917,2009
+Houlton,Houlton,Maine,1135415,2009
+Fort Fairfield,Fort Fairfield,Maine,400892,2009
+Bridgewater,Bridgewater,Maine,148130,2009
+Fort Kent,Fort Kent,Maine,490060,2009
+Jackman,Jackman,Maine,646757,2009
+Limestone,Limestone,Maine,96945,2009
+Eastport,Eastport,Maine,396127,2009
+Portland,Portland,Maine,24390,2009
+Bar Harbor,Bar Harbor,Maine,11336,2009
+Nogales,Nogales,Arizona,15446506,2009
+Naco,Naco,Arizona,1025701,2009
+Sasabe,Sasabe,Arizona,96451,2009
+Douglas,Douglas,Arizona,6787812,2009
+Lukeville,Lukeville,Arizona,1517397,2009
+San Luis,San Luis,Arizona,9105191,2009
+Trout River,Trout River,New York,632908,2009
+Champlain-Rouses Point,Champlain-Rouses Point,New York,4207503,2009
+Massena,Massena,New York,2447084,2009
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,20089110,2009
+Alexandria Bay,Alexandria Bay,New York,2580614,2009
+Ogdensburg,Ogdensburg,New York,904961,2009
+Cape Vincent,Cape Vincent,New York,28364,2009
+Pembina,Pembina,North Dakota,1294980,2009
+Portal,Portal,North Dakota,590794,2009
+Neche,Neche,North Dakota,156691,2009
+Sarles,Sarles,North Dakota,16154,2009
+Hansboro,Hansboro,North Dakota,34151,2009
+Walhalla,Walhalla,North Dakota,131217,2009
+Antler,Antler,North Dakota,32070,2009
+Noonan,Noonan,North Dakota,94784,2009
+Westhope,Westhope,North Dakota,48692,2009
+Fortuna,Fortuna,North Dakota,37595,2009
+Northgate,Northgate,North Dakota,115370,2009
+Sherwood,Sherwood,North Dakota,69321,2009
+Ambrose,Ambrose,North Dakota,4651,2009
+Dunseith,Dunseith,North Dakota,232764,2009
+Carbury,Carbury,North Dakota,35258,2009
+Maida,Maida,North Dakota,42037,2009
+St. John,St. John,North Dakota,58049,2009
+Hannah,Hannah,North Dakota,5969,2009
+Progreso,Progreso,Texas,3733002,2009
+Roma,Roma,Texas,3086326,2009
+Boquillas,Boquillas,Texas,0,2009
+Rio Grande City,Rio Grande City,Texas,2443848,2009
+Del Rio,Del Rio,Texas,3898243,2009
+Eagle Pass,Eagle Pass,Texas,11127879,2009
+Tornillo-Fabens,Tornillo-Fabens,Texas,1612453,2009
+El Paso,El Paso,Texas,38233650,2009
+Hidalgo,Hidalgo,Texas,21678023,2009
+Brownsville,Brownsville,Texas,19686315,2009
+Presidio,Presidio,Texas,2893409,2009
+Laredo,Laredo,Texas,26199068,2009
+Opheim,Opheim,Montana,10488,2009
+Wildhorse,Wildhorse,Montana,50945,2009
+Scobey,Scobey,Montana,14664,2009
+Raymond,Raymond,Montana,101825,2009
+Del Bonita,Del Bonita,Montana,58781,2009
+Turner,Turner,Montana,22676,2009
+Sweetgrass,Sweetgrass,Montana,1060581,2009
+Piegan,Piegan,Montana,311382,2009
+Whitlash,Whitlash,Montana,2347,2009
+Morgan,Morgan,Montana,24112,2009
+Willow Creek,Willow Creek,Montana,11416,2009
+Roosville,Roosville,Montana,365751,2009
+Whitetail,Whitetail,Montana,3630,2009
+Lancaster,Lancaster,Minnesota,140004,2009
+Roseau,Roseau,Minnesota,122172,2009
+Baudette,Baudette,Minnesota,515866,2009
+Grand Portage,Grand Portage,Minnesota,728885,2009
+Pinecreek,Pinecreek,Minnesota,14575,2009
+Warroad,Warroad,Minnesota,369104,2009
+International Falls-Ranier,International Falls-Ranier,Minnesota,1730723,2009
+Noyes,Noyes,Minnesota,0,2009
+Derby Line,Derby Line,Vermont,2006529,2009
+Beecher Falls,Beecher Falls,Vermont,210343,2009
+Norton,Norton,Vermont,188958,2009
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,1811726,2009
+Richford,Richford,Vermont,339977,2009
+Lynden,Lynden,Washington,1843293,2009
+Oroville,Oroville,Washington,999059,2009
+Ferry,Ferry,Washington,26849,2009
+Metaline Falls,Metaline Falls,Washington,84935,2009
+Blaine,Blaine,Washington,9902994,2009
+Frontier,Frontier,Washington,157288,2009
+Laurier,Laurier,Washington,143981,2009
+Boundary,Boundary,Washington,176770,2009
+Sumas,Sumas,Washington,2354212,2009
+Port Angeles,Port Angeles,Washington,189493,2009
+Danville,Danville,Washington,132172,2009
+Nighthawk,Nighthawk,Washington,29049,2009
+Point Roberts,Point Roberts,Washington,2064065,2009
+Anacortes,Anacortes,Washington,106346,2009
+Friday Harbor,Friday Harbor,Washington,12198,2009
+Eastport,Eastport,Idaho,445654,2009
+Porthill,Porthill,Idaho,457806,2009
+Sault Sainte Marie,Sault Sainte Marie,Michigan,2377545,2009
+Port Huron,Port Huron,Michigan,6589109,2009
+Detroit,Detroit,Michigan,14208635,2009
+Algonac,Algonac,Michigan,0,2009
+Santa Teresa,Santa Teresa,New Mexico,2014012,2009
+Columbus,Columbus,New Mexico,1479456,2009
+Skagway,Skagway,Alaska,346873,2009
+Ketchikan,Ketchikan,Alaska,13231,2009
+Alcan,Alcan,Alaska,159017,2009
+Dalton Cache,Dalton Cache,Alaska,50787,2009
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,2009
+Calexico East,Calexico East,California,11413669,2008
+Otay Mesa,Otay Mesa,California,16809912,2008
+San Ysidro,San Ysidro,California,47070214,2008
+Tecate,Tecate,California,3438306,2008
+Calexico,Calexico,California,18778009,2008
+Andrade,Andrade,California,2622600,2008
+Cross Border Xpress,Cross Border Xpress,California,0,2008
+Van Buren,Van Buren,Maine,829285,2008
+Madawaska,Madawaska,Maine,1743488,2008
+Vanceboro,Vanceboro,Maine,163161,2008
+Calais,Calais,Maine,2622176,2008
+Houlton,Houlton,Maine,1229425,2008
+Fort Fairfield,Fort Fairfield,Maine,457636,2008
+Bridgewater,Bridgewater,Maine,196899,2008
+Fort Kent,Fort Kent,Maine,561644,2008
+Jackman,Jackman,Maine,619318,2008
+Limestone,Limestone,Maine,106228,2008
+Eastport,Eastport,Maine,416355,2008
+Portland,Portland,Maine,29020,2008
+Bar Harbor,Bar Harbor,Maine,15696,2008
+Nogales,Nogales,Arizona,18941572,2008
+Naco,Naco,Arizona,1064348,2008
+Sasabe,Sasabe,Arizona,111476,2008
+Douglas,Douglas,Arizona,6494861,2008
+Lukeville,Lukeville,Arizona,1768325,2008
+San Luis,San Luis,Arizona,9383626,2008
+Trout River,Trout River,New York,632503,2008
+Champlain-Rouses Point,Champlain-Rouses Point,New York,4042044,2008
+Massena,Massena,New York,3014505,2008
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,22350819,2008
+Alexandria Bay,Alexandria Bay,New York,2620537,2008
+Ogdensburg,Ogdensburg,New York,888572,2008
+Cape Vincent,Cape Vincent,New York,31738,2008
+Pembina,Pembina,North Dakota,1580363,2008
+Portal,Portal,North Dakota,693466,2008
+Neche,Neche,North Dakota,197553,2008
+Sarles,Sarles,North Dakota,15756,2008
+Hansboro,Hansboro,North Dakota,41567,2008
+Walhalla,Walhalla,North Dakota,164188,2008
+Antler,Antler,North Dakota,37018,2008
+Noonan,Noonan,North Dakota,110483,2008
+Westhope,Westhope,North Dakota,47457,2008
+Fortuna,Fortuna,North Dakota,44088,2008
+Northgate,Northgate,North Dakota,88510,2008
+Sherwood,Sherwood,North Dakota,65419,2008
+Ambrose,Ambrose,North Dakota,5290,2008
+Dunseith,Dunseith,North Dakota,255817,2008
+Carbury,Carbury,North Dakota,39270,2008
+Maida,Maida,North Dakota,37353,2008
+St. John,St. John,North Dakota,69575,2008
+Hannah,Hannah,North Dakota,7704,2008
+Progreso,Progreso,Texas,4307886,2008
+Roma,Roma,Texas,3445448,2008
+Boquillas,Boquillas,Texas,0,2008
+Rio Grande City,Rio Grande City,Texas,2899243,2008
+Del Rio,Del Rio,Texas,4753839,2008
+Eagle Pass,Eagle Pass,Texas,12790625,2008
+Tornillo-Fabens,Tornillo-Fabens,Texas,1640918,2008
+El Paso,El Paso,Texas,46009222,2008
+Hidalgo,Hidalgo,Texas,23859969,2008
+Brownsville,Brownsville,Texas,23081840,2008
+Presidio,Presidio,Texas,2363925,2008
+Laredo,Laredo,Texas,29787916,2008
+Opheim,Opheim,Montana,12271,2008
+Wildhorse,Wildhorse,Montana,28662,2008
+Scobey,Scobey,Montana,9396,2008
+Raymond,Raymond,Montana,122505,2008
+Del Bonita,Del Bonita,Montana,62229,2008
+Turner,Turner,Montana,17190,2008
+Sweetgrass,Sweetgrass,Montana,1045093,2008
+Piegan,Piegan,Montana,418653,2008
+Whitlash,Whitlash,Montana,2640,2008
+Morgan,Morgan,Montana,20277,2008
+Willow Creek,Willow Creek,Montana,6569,2008
+Roosville,Roosville,Montana,349218,2008
+Whitetail,Whitetail,Montana,2055,2008
+Lancaster,Lancaster,Minnesota,149823,2008
+Roseau,Roseau,Minnesota,125853,2008
+Baudette,Baudette,Minnesota,533332,2008
+Grand Portage,Grand Portage,Minnesota,767644,2008
+Pinecreek,Pinecreek,Minnesota,14576,2008
+Warroad,Warroad,Minnesota,390980,2008
+International Falls-Ranier,International Falls-Ranier,Minnesota,1834905,2008
+Noyes,Noyes,Minnesota,0,2008
+Derby Line,Derby Line,Vermont,2246598,2008
+Beecher Falls,Beecher Falls,Vermont,227430,2008
+Norton,Norton,Vermont,260738,2008
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,2050078,2008
+Richford,Richford,Vermont,378918,2008
+Lynden,Lynden,Washington,2017112,2008
+Oroville,Oroville,Washington,882643,2008
+Ferry,Ferry,Washington,29916,2008
+Metaline Falls,Metaline Falls,Washington,105214,2008
+Blaine,Blaine,Washington,9591924,2008
+Frontier,Frontier,Washington,190205,2008
+Laurier,Laurier,Washington,181786,2008
+Boundary,Boundary,Washington,171540,2008
+Sumas,Sumas,Washington,2384115,2008
+Port Angeles,Port Angeles,Washington,180202,2008
+Danville,Danville,Washington,164987,2008
+Nighthawk,Nighthawk,Washington,27703,2008
+Point Roberts,Point Roberts,Washington,2015274,2008
+Anacortes,Anacortes,Washington,115457,2008
+Friday Harbor,Friday Harbor,Washington,14321,2008
+Eastport,Eastport,Idaho,490293,2008
+Porthill,Porthill,Idaho,537667,2008
+Sault Sainte Marie,Sault Sainte Marie,Michigan,2906100,2008
+Port Huron,Port Huron,Michigan,7158975,2008
+Detroit,Detroit,Michigan,17108712,2008
+Algonac,Algonac,Michigan,0,2008
+Santa Teresa,Santa Teresa,New Mexico,1579876,2008
+Columbus,Columbus,New Mexico,1503605,2008
+Skagway,Skagway,Alaska,352438,2008
+Ketchikan,Ketchikan,Alaska,4478,2008
+Alcan,Alcan,Alaska,149408,2008
+Dalton Cache,Dalton Cache,Alaska,50774,2008
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,2008
+Calexico East,Calexico East,California,11121102,2007
+Otay Mesa,Otay Mesa,California,16508275,2007
+San Ysidro,San Ysidro,California,52816182,2007
+Tecate,Tecate,California,3411492,2007
+Calexico,Calexico,California,22014043,2007
+Andrade,Andrade,California,3246601,2007
+Cross Border Xpress,Cross Border Xpress,California,0,2007
+Van Buren,Van Buren,Maine,948682,2007
+Madawaska,Madawaska,Maine,1763440,2007
+Vanceboro,Vanceboro,Maine,177970,2007
+Calais,Calais,Maine,2825276,2007
+Houlton,Houlton,Maine,1070805,2007
+Fort Fairfield,Fort Fairfield,Maine,466621,2007
+Bridgewater,Bridgewater,Maine,187962,2007
+Fort Kent,Fort Kent,Maine,600130,2007
+Jackman,Jackman,Maine,685886,2007
+Limestone,Limestone,Maine,117440,2007
+Eastport,Eastport,Maine,454785,2007
+Portland,Portland,Maine,0,2007
+Bar Harbor,Bar Harbor,Maine,4299,2007
+Nogales,Nogales,Arizona,20371569,2007
+Naco,Naco,Arizona,1286048,2007
+Sasabe,Sasabe,Arizona,138491,2007
+Douglas,Douglas,Arizona,6808527,2007
+Lukeville,Lukeville,Arizona,1903522,2007
+San Luis,San Luis,Arizona,10220165,2007
+Trout River,Trout River,New York,476833,2007
+Champlain-Rouses Point,Champlain-Rouses Point,New York,4118003,2007
+Massena,Massena,New York,2937399,2007
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,24159277,2007
+Alexandria Bay,Alexandria Bay,New York,2624034,2007
+Ogdensburg,Ogdensburg,New York,831720,2007
+Cape Vincent,Cape Vincent,New York,32456,2007
+Pembina,Pembina,North Dakota,1535181,2007
+Portal,Portal,North Dakota,679235,2007
+Neche,Neche,North Dakota,160771,2007
+Sarles,Sarles,North Dakota,17960,2007
+Hansboro,Hansboro,North Dakota,43845,2007
+Walhalla,Walhalla,North Dakota,172684,2007
+Antler,Antler,North Dakota,37895,2007
+Noonan,Noonan,North Dakota,100023,2007
+Westhope,Westhope,North Dakota,45309,2007
+Fortuna,Fortuna,North Dakota,41601,2007
+Northgate,Northgate,North Dakota,70943,2007
+Sherwood,Sherwood,North Dakota,57422,2007
+Ambrose,Ambrose,North Dakota,5556,2007
+Dunseith,Dunseith,North Dakota,241373,2007
+Carbury,Carbury,North Dakota,29500,2007
+Maida,Maida,North Dakota,43726,2007
+St. John,St. John,North Dakota,82882,2007
+Hannah,Hannah,North Dakota,9690,2007
+Progreso,Progreso,Texas,4822613,2007
+Roma,Roma,Texas,3902299,2007
+Boquillas,Boquillas,Texas,0,2007
+Rio Grande City,Rio Grande City,Texas,2888853,2007
+Del Rio,Del Rio,Texas,5411915,2007
+Eagle Pass,Eagle Pass,Texas,12048443,2007
+Tornillo-Fabens,Tornillo-Fabens,Texas,1824466,2007
+El Paso,El Paso,Texas,48386741,2007
+Hidalgo,Hidalgo,Texas,23631152,2007
+Brownsville,Brownsville,Texas,23266269,2007
+Presidio,Presidio,Texas,2291827,2007
+Laredo,Laredo,Texas,28003075,2007
+Opheim,Opheim,Montana,13218,2007
+Wildhorse,Wildhorse,Montana,58498,2007
+Scobey,Scobey,Montana,16158,2007
+Raymond,Raymond,Montana,131290,2007
+Del Bonita,Del Bonita,Montana,52644,2007
+Turner,Turner,Montana,20841,2007
+Sweetgrass,Sweetgrass,Montana,1106132,2007
+Piegan,Piegan,Montana,450477,2007
+Whitlash,Whitlash,Montana,3602,2007
+Morgan,Morgan,Montana,20192,2007
+Willow Creek,Willow Creek,Montana,7190,2007
+Roosville,Roosville,Montana,332370,2007
+Whitetail,Whitetail,Montana,2863,2007
+Lancaster,Lancaster,Minnesota,182989,2007
+Roseau,Roseau,Minnesota,126006,2007
+Baudette,Baudette,Minnesota,572367,2007
+Grand Portage,Grand Portage,Minnesota,805288,2007
+Pinecreek,Pinecreek,Minnesota,14935,2007
+Warroad,Warroad,Minnesota,389089,2007
+International Falls-Ranier,International Falls-Ranier,Minnesota,1690713,2007
+Noyes,Noyes,Minnesota,0,2007
+Derby Line,Derby Line,Vermont,2120020,2007
+Beecher Falls,Beecher Falls,Vermont,240844,2007
+Norton,Norton,Vermont,277251,2007
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,1812829,2007
+Richford,Richford,Vermont,372858,2007
+Lynden,Lynden,Washington,1888147,2007
+Oroville,Oroville,Washington,778133,2007
+Ferry,Ferry,Washington,26334,2007
+Metaline Falls,Metaline Falls,Washington,94961,2007
+Blaine,Blaine,Washington,9154286,2007
+Frontier,Frontier,Washington,159748,2007
+Laurier,Laurier,Washington,220601,2007
+Boundary,Boundary,Washington,176713,2007
+Sumas,Sumas,Washington,2323043,2007
+Port Angeles,Port Angeles,Washington,201572,2007
+Danville,Danville,Washington,136199,2007
+Nighthawk,Nighthawk,Washington,22362,2007
+Point Roberts,Point Roberts,Washington,2144102,2007
+Anacortes,Anacortes,Washington,91835,2007
+Friday Harbor,Friday Harbor,Washington,16113,2007
+Eastport,Eastport,Idaho,494080,2007
+Porthill,Porthill,Idaho,345201,2007
+Sault Sainte Marie,Sault Sainte Marie,Michigan,2905239,2007
+Port Huron,Port Huron,Michigan,7363324,2007
+Detroit,Detroit,Michigan,19672149,2007
+Algonac,Algonac,Michigan,0,2007
+Santa Teresa,Santa Teresa,New Mexico,1836881,2007
+Columbus,Columbus,New Mexico,1935203,2007
+Skagway,Skagway,Alaska,354163,2007
+Ketchikan,Ketchikan,Alaska,3846,2007
+Alcan,Alcan,Alaska,185356,2007
+Dalton Cache,Dalton Cache,Alaska,54636,2007
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,2007
+Calexico East,Calexico East,California,12189726,2006
+Otay Mesa,Otay Mesa,California,19752256,2006
+San Ysidro,San Ysidro,California,57976416,2006
+Tecate,Tecate,California,3480927,2006
+Calexico,Calexico,California,21852464,2006
+Andrade,Andrade,California,3724936,2006
+Cross Border Xpress,Cross Border Xpress,California,0,2006
+Van Buren,Van Buren,Maine,1029696,2006
+Madawaska,Madawaska,Maine,1842374,2006
+Vanceboro,Vanceboro,Maine,227165,2006
+Calais,Calais,Maine,3733381,2006
+Houlton,Houlton,Maine,1247415,2006
+Fort Fairfield,Fort Fairfield,Maine,597404,2006
+Bridgewater,Bridgewater,Maine,298322,2006
+Fort Kent,Fort Kent,Maine,762221,2006
+Jackman,Jackman,Maine,807919,2006
+Limestone,Limestone,Maine,158912,2006
+Eastport,Eastport,Maine,560862,2006
+Portland,Portland,Maine,379,2006
+Bar Harbor,Bar Harbor,Maine,40178,2006
+Nogales,Nogales,Arizona,20281353,2006
+Naco,Naco,Arizona,1345524,2006
+Sasabe,Sasabe,Arizona,126918,2006
+Douglas,Douglas,Arizona,7297532,2006
+Lukeville,Lukeville,Arizona,1927115,2006
+San Luis,San Luis,Arizona,10671208,2006
+Trout River,Trout River,New York,637576,2006
+Champlain-Rouses Point,Champlain-Rouses Point,New York,5104960,2006
+Massena,Massena,New York,3080713,2006
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,23219541,2006
+Alexandria Bay,Alexandria Bay,New York,2909509,2006
+Ogdensburg,Ogdensburg,New York,945541,2006
+Cape Vincent,Cape Vincent,New York,0,2006
+Pembina,Pembina,North Dakota,1520373,2006
+Portal,Portal,North Dakota,650145,2006
+Neche,Neche,North Dakota,140816,2006
+Sarles,Sarles,North Dakota,17650,2006
+Hansboro,Hansboro,North Dakota,46807,2006
+Walhalla,Walhalla,North Dakota,156819,2006
+Antler,Antler,North Dakota,36782,2006
+Noonan,Noonan,North Dakota,99145,2006
+Westhope,Westhope,North Dakota,38240,2006
+Fortuna,Fortuna,North Dakota,36838,2006
+Northgate,Northgate,North Dakota,60833,2006
+Sherwood,Sherwood,North Dakota,50101,2006
+Ambrose,Ambrose,North Dakota,7098,2006
+Dunseith,Dunseith,North Dakota,231091,2006
+Carbury,Carbury,North Dakota,30144,2006
+Maida,Maida,North Dakota,47227,2006
+St. John,St. John,North Dakota,75930,2006
+Hannah,Hannah,North Dakota,13398,2006
+Progreso,Progreso,Texas,4859042,2006
+Roma,Roma,Texas,4306383,2006
+Boquillas,Boquillas,Texas,0,2006
+Rio Grande City,Rio Grande City,Texas,2957809,2006
+Del Rio,Del Rio,Texas,6015127,2006
+Eagle Pass,Eagle Pass,Texas,12984995,2006
+Tornillo-Fabens,Tornillo-Fabens,Texas,1770683,2006
+El Paso,El Paso,Texas,53058819,2006
+Hidalgo,Hidalgo,Texas,22145240,2006
+Brownsville,Brownsville,Texas,24578153,2006
+Presidio,Presidio,Texas,2372948,2006
+Laredo,Laredo,Texas,28821294,2006
+Opheim,Opheim,Montana,11936,2006
+Wildhorse,Wildhorse,Montana,55617,2006
+Scobey,Scobey,Montana,16367,2006
+Raymond,Raymond,Montana,133887,2006
+Del Bonita,Del Bonita,Montana,60143,2006
+Turner,Turner,Montana,16718,2006
+Sweetgrass,Sweetgrass,Montana,1320291,2006
+Piegan,Piegan,Montana,388419,2006
+Whitlash,Whitlash,Montana,3318,2006
+Morgan,Morgan,Montana,17035,2006
+Willow Creek,Willow Creek,Montana,9281,2006
+Roosville,Roosville,Montana,433742,2006
+Whitetail,Whitetail,Montana,3754,2006
+Lancaster,Lancaster,Minnesota,225839,2006
+Roseau,Roseau,Minnesota,125014,2006
+Baudette,Baudette,Minnesota,594451,2006
+Grand Portage,Grand Portage,Minnesota,863645,2006
+Pinecreek,Pinecreek,Minnesota,19238,2006
+Warroad,Warroad,Minnesota,424706,2006
+International Falls-Ranier,International Falls-Ranier,Minnesota,1878452,2006
+Noyes,Noyes,Minnesota,44583,2006
+Derby Line,Derby Line,Vermont,2309887,2006
+Beecher Falls,Beecher Falls,Vermont,271091,2006
+Norton,Norton,Vermont,366838,2006
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,1690044,2006
+Richford,Richford,Vermont,335736,2006
+Lynden,Lynden,Washington,1622939,2006
+Oroville,Oroville,Washington,721780,2006
+Ferry,Ferry,Washington,27737,2006
+Metaline Falls,Metaline Falls,Washington,99209,2006
+Blaine,Blaine,Washington,9217759,2006
+Frontier,Frontier,Washington,157171,2006
+Laurier,Laurier,Washington,191264,2006
+Boundary,Boundary,Washington,203695,2006
+Sumas,Sumas,Washington,2458264,2006
+Port Angeles,Port Angeles,Washington,197304,2006
+Danville,Danville,Washington,154008,2006
+Nighthawk,Nighthawk,Washington,20215,2006
+Point Roberts,Point Roberts,Washington,2680344,2006
+Anacortes,Anacortes,Washington,106065,2006
+Friday Harbor,Friday Harbor,Washington,14631,2006
+Eastport,Eastport,Idaho,489667,2006
+Porthill,Porthill,Idaho,305446,2006
+Sault Sainte Marie,Sault Sainte Marie,Michigan,2798889,2006
+Port Huron,Port Huron,Michigan,8340114,2006
+Detroit,Detroit,Michigan,20243277,2006
+Algonac,Algonac,Michigan,0,2006
+Santa Teresa,Santa Teresa,New Mexico,1318569,2006
+Columbus,Columbus,New Mexico,1772589,2006
+Skagway,Skagway,Alaska,330269,2006
+Ketchikan,Ketchikan,Alaska,14878,2006
+Alcan,Alcan,Alaska,171819,2006
+Dalton Cache,Dalton Cache,Alaska,57715,2006
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,2006
+Calexico East,Calexico East,California,10416832,2005
+Otay Mesa,Otay Mesa,California,22336751,2005
+San Ysidro,San Ysidro,California,58731200,2005
+Tecate,Tecate,California,3703800,2005
+Calexico,Calexico,California,22594492,2005
+Andrade,Andrade,California,4066174,2005
+Cross Border Xpress,Cross Border Xpress,California,0,2005
+Van Buren,Van Buren,Maine,851584,2005
+Madawaska,Madawaska,Maine,1963433,2005
+Vanceboro,Vanceboro,Maine,215564,2005
+Calais,Calais,Maine,4098044,2005
+Houlton,Houlton,Maine,1223145,2005
+Fort Fairfield,Fort Fairfield,Maine,564305,2005
+Bridgewater,Bridgewater,Maine,265021,2005
+Fort Kent,Fort Kent,Maine,783910,2005
+Jackman,Jackman,Maine,760042,2005
+Limestone,Limestone,Maine,156582,2005
+Eastport,Eastport,Maine,613977,2005
+Portland,Portland,Maine,0,2005
+Bar Harbor,Bar Harbor,Maine,90650,2005
+Nogales,Nogales,Arizona,19913763,2005
+Naco,Naco,Arizona,1553186,2005
+Sasabe,Sasabe,Arizona,143041,2005
+Douglas,Douglas,Arizona,7566767,2005
+Lukeville,Lukeville,Arizona,1729801,2005
+San Luis,San Luis,Arizona,12482654,2005
+Trout River,Trout River,New York,624751,2005
+Champlain-Rouses Point,Champlain-Rouses Point,New York,5087217,2005
+Massena,Massena,New York,3151666,2005
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,23519068,2005
+Alexandria Bay,Alexandria Bay,New York,2794210,2005
+Ogdensburg,Ogdensburg,New York,1025224,2005
+Cape Vincent,Cape Vincent,New York,0,2005
+Pembina,Pembina,North Dakota,1421263,2005
+Portal,Portal,North Dakota,623289,2005
+Neche,Neche,North Dakota,154028,2005
+Sarles,Sarles,North Dakota,24615,2005
+Hansboro,Hansboro,North Dakota,42976,2005
+Walhalla,Walhalla,North Dakota,162105,2005
+Antler,Antler,North Dakota,40233,2005
+Noonan,Noonan,North Dakota,104200,2005
+Westhope,Westhope,North Dakota,38101,2005
+Fortuna,Fortuna,North Dakota,37650,2005
+Northgate,Northgate,North Dakota,54709,2005
+Sherwood,Sherwood,North Dakota,45110,2005
+Ambrose,Ambrose,North Dakota,7489,2005
+Dunseith,Dunseith,North Dakota,258559,2005
+Carbury,Carbury,North Dakota,33594,2005
+Maida,Maida,North Dakota,51324,2005
+St. John,St. John,North Dakota,69368,2005
+Hannah,Hannah,North Dakota,16268,2005
+Progreso,Progreso,Texas,4787864,2005
+Roma,Roma,Texas,4405696,2005
+Boquillas,Boquillas,Texas,0,2005
+Rio Grande City,Rio Grande City,Texas,3142354,2005
+Del Rio,Del Rio,Texas,6186007,2005
+Eagle Pass,Eagle Pass,Texas,13229296,2005
+Tornillo-Fabens,Tornillo-Fabens,Texas,1954843,2005
+El Paso,El Paso,Texas,54686984,2005
+Hidalgo,Hidalgo,Texas,24116539,2005
+Brownsville,Brownsville,Texas,25180631,2005
+Presidio,Presidio,Texas,2495941,2005
+Laredo,Laredo,Texas,28729554,2005
+Opheim,Opheim,Montana,11636,2005
+Wildhorse,Wildhorse,Montana,54900,2005
+Scobey,Scobey,Montana,13511,2005
+Raymond,Raymond,Montana,120532,2005
+Del Bonita,Del Bonita,Montana,51524,2005
+Turner,Turner,Montana,16051,2005
+Sweetgrass,Sweetgrass,Montana,1247379,2005
+Piegan,Piegan,Montana,403409,2005
+Whitlash,Whitlash,Montana,3014,2005
+Morgan,Morgan,Montana,18222,2005
+Willow Creek,Willow Creek,Montana,6679,2005
+Roosville,Roosville,Montana,368826,2005
+Whitetail,Whitetail,Montana,3977,2005
+Lancaster,Lancaster,Minnesota,220033,2005
+Roseau,Roseau,Minnesota,133460,2005
+Baudette,Baudette,Minnesota,613192,2005
+Grand Portage,Grand Portage,Minnesota,932807,2005
+Pinecreek,Pinecreek,Minnesota,18849,2005
+Warroad,Warroad,Minnesota,477417,2005
+International Falls-Ranier,International Falls-Ranier,Minnesota,1903603,2005
+Noyes,Noyes,Minnesota,102215,2005
+Derby Line,Derby Line,Vermont,2226162,2005
+Beecher Falls,Beecher Falls,Vermont,244139,2005
+Norton,Norton,Vermont,365882,2005
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,1219949,2005
+Richford,Richford,Vermont,316200,2005
+Lynden,Lynden,Washington,1583975,2005
+Oroville,Oroville,Washington,866194,2005
+Ferry,Ferry,Washington,34648,2005
+Metaline Falls,Metaline Falls,Washington,102614,2005
+Blaine,Blaine,Washington,8534858,2005
+Frontier,Frontier,Washington,158447,2005
+Laurier,Laurier,Washington,168011,2005
+Boundary,Boundary,Washington,177401,2005
+Sumas,Sumas,Washington,2355137,2005
+Port Angeles,Port Angeles,Washington,203811,2005
+Danville,Danville,Washington,163539,2005
+Nighthawk,Nighthawk,Washington,16657,2005
+Point Roberts,Point Roberts,Washington,2659597,2005
+Anacortes,Anacortes,Washington,116045,2005
+Friday Harbor,Friday Harbor,Washington,15217,2005
+Eastport,Eastport,Idaho,460476,2005
+Porthill,Porthill,Idaho,283479,2005
+Sault Sainte Marie,Sault Sainte Marie,Michigan,2951099,2005
+Port Huron,Port Huron,Michigan,8390537,2005
+Detroit,Detroit,Michigan,21336302,2005
+Algonac,Algonac,Michigan,0,2005
+Santa Teresa,Santa Teresa,New Mexico,1089612,2005
+Columbus,Columbus,New Mexico,1746785,2005
+Skagway,Skagway,Alaska,328271,2005
+Ketchikan,Ketchikan,Alaska,17774,2005
+Alcan,Alcan,Alaska,194113,2005
+Dalton Cache,Dalton Cache,Alaska,58657,2005
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,2005
+Calexico East,Calexico East,California,10195639,2004
+Otay Mesa,Otay Mesa,California,21305060,2004
+San Ysidro,San Ysidro,California,61603910,2004
+Tecate,Tecate,California,4287185,2004
+Calexico,Calexico,California,21125522,2004
+Andrade,Andrade,California,4360293,2004
+Cross Border Xpress,Cross Border Xpress,California,0,2004
+Van Buren,Van Buren,Maine,901264,2004
+Madawaska,Madawaska,Maine,1912220,2004
+Vanceboro,Vanceboro,Maine,170229,2004
+Calais,Calais,Maine,4028944,2004
+Houlton,Houlton,Maine,1179546,2004
+Fort Fairfield,Fort Fairfield,Maine,586660,2004
+Bridgewater,Bridgewater,Maine,225380,2004
+Fort Kent,Fort Kent,Maine,773423,2004
+Jackman,Jackman,Maine,800257,2004
+Limestone,Limestone,Maine,171392,2004
+Eastport,Eastport,Maine,631817,2004
+Portland,Portland,Maine,61027,2004
+Bar Harbor,Bar Harbor,Maine,85829,2004
+Nogales,Nogales,Arizona,20360517,2004
+Naco,Naco,Arizona,2577689,2004
+Sasabe,Sasabe,Arizona,148507,2004
+Douglas,Douglas,Arizona,7148336,2004
+Lukeville,Lukeville,Arizona,1663532,2004
+San Luis,San Luis,Arizona,13511192,2004
+Trout River,Trout River,New York,622440,2004
+Champlain-Rouses Point,Champlain-Rouses Point,New York,5714954,2004
+Massena,Massena,New York,3314711,2004
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,23692819,2004
+Alexandria Bay,Alexandria Bay,New York,2772355,2004
+Ogdensburg,Ogdensburg,New York,1040257,2004
+Cape Vincent,Cape Vincent,New York,0,2004
+Pembina,Pembina,North Dakota,1437656,2004
+Portal,Portal,North Dakota,587864,2004
+Neche,Neche,North Dakota,186259,2004
+Sarles,Sarles,North Dakota,31696,2004
+Hansboro,Hansboro,North Dakota,36653,2004
+Walhalla,Walhalla,North Dakota,137661,2004
+Antler,Antler,North Dakota,37535,2004
+Noonan,Noonan,North Dakota,90335,2004
+Westhope,Westhope,North Dakota,43935,2004
+Fortuna,Fortuna,North Dakota,39431,2004
+Northgate,Northgate,North Dakota,52152,2004
+Sherwood,Sherwood,North Dakota,40237,2004
+Ambrose,Ambrose,North Dakota,7238,2004
+Dunseith,Dunseith,North Dakota,271350,2004
+Carbury,Carbury,North Dakota,37717,2004
+Maida,Maida,North Dakota,51010,2004
+St. John,St. John,North Dakota,78098,2004
+Hannah,Hannah,North Dakota,17097,2004
+Progreso,Progreso,Texas,5305853,2004
+Roma,Roma,Texas,4362457,2004
+Boquillas,Boquillas,Texas,0,2004
+Rio Grande City,Rio Grande City,Texas,3266052,2004
+Del Rio,Del Rio,Texas,6417355,2004
+Eagle Pass,Eagle Pass,Texas,12988106,2004
+Tornillo-Fabens,Tornillo-Fabens,Texas,2071978,2004
+El Paso,El Paso,Texas,53200451,2004
+Hidalgo,Hidalgo,Texas,26300196,2004
+Brownsville,Brownsville,Texas,26112299,2004
+Presidio,Presidio,Texas,2480876,2004
+Laredo,Laredo,Texas,30205719,2004
+Opheim,Opheim,Montana,13737,2004
+Wildhorse,Wildhorse,Montana,49303,2004
+Scobey,Scobey,Montana,16324,2004
+Raymond,Raymond,Montana,124008,2004
+Del Bonita,Del Bonita,Montana,60156,2004
+Turner,Turner,Montana,15280,2004
+Sweetgrass,Sweetgrass,Montana,1180804,2004
+Piegan,Piegan,Montana,421086,2004
+Whitlash,Whitlash,Montana,2605,2004
+Morgan,Morgan,Montana,17367,2004
+Willow Creek,Willow Creek,Montana,0,2004
+Roosville,Roosville,Montana,330039,2004
+Whitetail,Whitetail,Montana,5243,2004
+Lancaster,Lancaster,Minnesota,195679,2004
+Roseau,Roseau,Minnesota,138163,2004
+Baudette,Baudette,Minnesota,674621,2004
+Grand Portage,Grand Portage,Minnesota,949902,2004
+Pinecreek,Pinecreek,Minnesota,18997,2004
+Warroad,Warroad,Minnesota,502986,2004
+International Falls-Ranier,International Falls-Ranier,Minnesota,1990369,2004
+Noyes,Noyes,Minnesota,123253,2004
+Derby Line,Derby Line,Vermont,2188026,2004
+Beecher Falls,Beecher Falls,Vermont,249151,2004
+Norton,Norton,Vermont,347306,2004
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,1770384,2004
+Richford,Richford,Vermont,346436,2004
+Lynden,Lynden,Washington,1730856,2004
+Oroville,Oroville,Washington,851107,2004
+Ferry,Ferry,Washington,37547,2004
+Metaline Falls,Metaline Falls,Washington,101225,2004
+Blaine,Blaine,Washington,8725637,2004
+Frontier,Frontier,Washington,159766,2004
+Laurier,Laurier,Washington,154650,2004
+Boundary,Boundary,Washington,148016,2004
+Sumas,Sumas,Washington,2408718,2004
+Port Angeles,Port Angeles,Washington,208958,2004
+Danville,Danville,Washington,143380,2004
+Nighthawk,Nighthawk,Washington,14154,2004
+Point Roberts,Point Roberts,Washington,2369730,2004
+Anacortes,Anacortes,Washington,122519,2004
+Friday Harbor,Friday Harbor,Washington,12577,2004
+Eastport,Eastport,Idaho,430358,2004
+Porthill,Porthill,Idaho,278257,2004
+Sault Sainte Marie,Sault Sainte Marie,Michigan,2909346,2004
+Port Huron,Port Huron,Michigan,8414406,2004
+Detroit,Detroit,Michigan,21269254,2004
+Algonac,Algonac,Michigan,0,2004
+Santa Teresa,Santa Teresa,New Mexico,834947,2004
+Columbus,Columbus,New Mexico,1691005,2004
+Skagway,Skagway,Alaska,323980,2004
+Ketchikan,Ketchikan,Alaska,21745,2004
+Alcan,Alcan,Alaska,194845,2004
+Dalton Cache,Dalton Cache,Alaska,63918,2004
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,2004
+Calexico East,Calexico East,California,9853086,2003
+Otay Mesa,Otay Mesa,California,19188490,2003
+San Ysidro,San Ysidro,California,66246903,2003
+Tecate,Tecate,California,4636722,2003
+Calexico,Calexico,California,21651265,2003
+Andrade,Andrade,California,3936144,2003
+Cross Border Xpress,Cross Border Xpress,California,0,2003
+Van Buren,Van Buren,Maine,898987,2003
+Madawaska,Madawaska,Maine,1826497,2003
+Vanceboro,Vanceboro,Maine,206027,2003
+Calais,Calais,Maine,3645725,2003
+Houlton,Houlton,Maine,1155656,2003
+Fort Fairfield,Fort Fairfield,Maine,574346,2003
+Bridgewater,Bridgewater,Maine,216679,2003
+Fort Kent,Fort Kent,Maine,817222,2003
+Jackman,Jackman,Maine,776408,2003
+Limestone,Limestone,Maine,192285,2003
+Eastport,Eastport,Maine,0,2003
+Portland,Portland,Maine,82850,2003
+Bar Harbor,Bar Harbor,Maine,0,2003
+Nogales,Nogales,Arizona,19761788,2003
+Naco,Naco,Arizona,2056853,2003
+Sasabe,Sasabe,Arizona,159419,2003
+Douglas,Douglas,Arizona,7976307,2003
+Lukeville,Lukeville,Arizona,1704841,2003
+San Luis,San Luis,Arizona,12728523,2003
+Trout River,Trout River,New York,626125,2003
+Champlain-Rouses Point,Champlain-Rouses Point,New York,5633957,2003
+Massena,Massena,New York,3465319,2003
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,24167817,2003
+Alexandria Bay,Alexandria Bay,New York,2757039,2003
+Ogdensburg,Ogdensburg,New York,891575,2003
+Cape Vincent,Cape Vincent,New York,0,2003
+Pembina,Pembina,North Dakota,1316484,2003
+Portal,Portal,North Dakota,635644,2003
+Neche,Neche,North Dakota,176281,2003
+Sarles,Sarles,North Dakota,31642,2003
+Hansboro,Hansboro,North Dakota,35370,2003
+Walhalla,Walhalla,North Dakota,114717,2003
+Antler,Antler,North Dakota,35262,2003
+Noonan,Noonan,North Dakota,89996,2003
+Westhope,Westhope,North Dakota,40704,2003
+Fortuna,Fortuna,North Dakota,39713,2003
+Northgate,Northgate,North Dakota,51161,2003
+Sherwood,Sherwood,North Dakota,33456,2003
+Ambrose,Ambrose,North Dakota,6544,2003
+Dunseith,Dunseith,North Dakota,274851,2003
+Carbury,Carbury,North Dakota,38976,2003
+Maida,Maida,North Dakota,55492,2003
+St. John,St. John,North Dakota,90994,2003
+Hannah,Hannah,North Dakota,18319,2003
+Progreso,Progreso,Texas,5287485,2003
+Roma,Roma,Texas,4610115,2003
+Boquillas,Boquillas,Texas,0,2003
+Rio Grande City,Rio Grande City,Texas,3369879,2003
+Del Rio,Del Rio,Texas,6618609,2003
+Eagle Pass,Eagle Pass,Texas,12844241,2003
+Tornillo-Fabens,Tornillo-Fabens,Texas,2067689,2003
+El Paso,El Paso,Texas,50716568,2003
+Hidalgo,Hidalgo,Texas,26395009,2003
+Brownsville,Brownsville,Texas,26440950,2003
+Presidio,Presidio,Texas,2425824,2003
+Laredo,Laredo,Texas,30363886,2003
+Opheim,Opheim,Montana,12408,2003
+Wildhorse,Wildhorse,Montana,0,2003
+Scobey,Scobey,Montana,19127,2003
+Raymond,Raymond,Montana,113025,2003
+Del Bonita,Del Bonita,Montana,57406,2003
+Turner,Turner,Montana,14680,2003
+Sweetgrass,Sweetgrass,Montana,1093252,2003
+Piegan,Piegan,Montana,457114,2003
+Whitlash,Whitlash,Montana,3191,2003
+Morgan,Morgan,Montana,16075,2003
+Willow Creek,Willow Creek,Montana,0,2003
+Roosville,Roosville,Montana,346734,2003
+Whitetail,Whitetail,Montana,10137,2003
+Lancaster,Lancaster,Minnesota,0,2003
+Roseau,Roseau,Minnesota,142805,2003
+Baudette,Baudette,Minnesota,668879,2003
+Grand Portage,Grand Portage,Minnesota,806044,2003
+Pinecreek,Pinecreek,Minnesota,18380,2003
+Warroad,Warroad,Minnesota,520162,2003
+International Falls-Ranier,International Falls-Ranier,Minnesota,2074150,2003
+Noyes,Noyes,Minnesota,137222,2003
+Derby Line,Derby Line,Vermont,2198333,2003
+Beecher Falls,Beecher Falls,Vermont,271199,2003
+Norton,Norton,Vermont,314460,2003
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,1832901,2003
+Richford,Richford,Vermont,341677,2003
+Lynden,Lynden,Washington,1797291,2003
+Oroville,Oroville,Washington,816213,2003
+Ferry,Ferry,Washington,38492,2003
+Metaline Falls,Metaline Falls,Washington,97561,2003
+Blaine,Blaine,Washington,7963362,2003
+Frontier,Frontier,Washington,155329,2003
+Laurier,Laurier,Washington,158061,2003
+Boundary,Boundary,Washington,150963,2003
+Sumas,Sumas,Washington,2462057,2003
+Port Angeles,Port Angeles,Washington,0,2003
+Danville,Danville,Washington,153683,2003
+Nighthawk,Nighthawk,Washington,15779,2003
+Point Roberts,Point Roberts,Washington,2197964,2003
+Anacortes,Anacortes,Washington,0,2003
+Friday Harbor,Friday Harbor,Washington,0,2003
+Eastport,Eastport,Idaho,429397,2003
+Porthill,Porthill,Idaho,295207,2003
+Sault Sainte Marie,Sault Sainte Marie,Michigan,2984070,2003
+Port Huron,Port Huron,Michigan,8233191,2003
+Detroit,Detroit,Michigan,21720263,2003
+Algonac,Algonac,Michigan,0,2003
+Santa Teresa,Santa Teresa,New Mexico,980695,2003
+Columbus,Columbus,New Mexico,1632948,2003
+Skagway,Skagway,Alaska,315563,2003
+Ketchikan,Ketchikan,Alaska,0,2003
+Alcan,Alcan,Alaska,198845,2003
+Dalton Cache,Dalton Cache,Alaska,65642,2003
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,2003
+Calexico East,Calexico East,California,10979703,2002
+Otay Mesa,Otay Mesa,California,17007882,2002
+San Ysidro,San Ysidro,California,61813805,2002
+Tecate,Tecate,California,4131105,2002
+Calexico,Calexico,California,24982559,2002
+Andrade,Andrade,California,3978552,2002
+Cross Border Xpress,Cross Border Xpress,California,0,2002
+Van Buren,Van Buren,Maine,858892,2002
+Madawaska,Madawaska,Maine,1960667,2002
+Vanceboro,Vanceboro,Maine,193486,2002
+Calais,Calais,Maine,3199822,2002
+Houlton,Houlton,Maine,1331404,2002
+Fort Fairfield,Fort Fairfield,Maine,555050,2002
+Bridgewater,Bridgewater,Maine,256039,2002
+Fort Kent,Fort Kent,Maine,806698,2002
+Jackman,Jackman,Maine,843123,2002
+Limestone,Limestone,Maine,202312,2002
+Eastport,Eastport,Maine,0,2002
+Portland,Portland,Maine,93111,2002
+Bar Harbor,Bar Harbor,Maine,0,2002
+Nogales,Nogales,Arizona,19456736,2002
+Naco,Naco,Arizona,1346059,2002
+Sasabe,Sasabe,Arizona,157643,2002
+Douglas,Douglas,Arizona,10864506,2002
+Lukeville,Lukeville,Arizona,1823169,2002
+San Luis,San Luis,Arizona,14231029,2002
+Trout River,Trout River,New York,616962,2002
+Champlain-Rouses Point,Champlain-Rouses Point,New York,5931938,2002
+Massena,Massena,New York,3696926,2002
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,29643705,2002
+Alexandria Bay,Alexandria Bay,New York,2968029,2002
+Ogdensburg,Ogdensburg,New York,904167,2002
+Cape Vincent,Cape Vincent,New York,0,2002
+Pembina,Pembina,North Dakota,1350267,2002
+Portal,Portal,North Dakota,644468,2002
+Neche,Neche,North Dakota,178617,2002
+Sarles,Sarles,North Dakota,31901,2002
+Hansboro,Hansboro,North Dakota,33855,2002
+Walhalla,Walhalla,North Dakota,122132,2002
+Antler,Antler,North Dakota,40852,2002
+Noonan,Noonan,North Dakota,94226,2002
+Westhope,Westhope,North Dakota,59957,2002
+Fortuna,Fortuna,North Dakota,42706,2002
+Northgate,Northgate,North Dakota,49538,2002
+Sherwood,Sherwood,North Dakota,36049,2002
+Ambrose,Ambrose,North Dakota,7249,2002
+Dunseith,Dunseith,North Dakota,275836,2002
+Carbury,Carbury,North Dakota,39728,2002
+Maida,Maida,North Dakota,61534,2002
+St. John,St. John,North Dakota,94032,2002
+Hannah,Hannah,North Dakota,23648,2002
+Progreso,Progreso,Texas,5587276,2002
+Roma,Roma,Texas,5251022,2002
+Boquillas,Boquillas,Texas,0,2002
+Rio Grande City,Rio Grande City,Texas,3514203,2002
+Del Rio,Del Rio,Texas,7149948,2002
+Eagle Pass,Eagle Pass,Texas,13936827,2002
+Tornillo-Fabens,Tornillo-Fabens,Texas,2479281,2002
+El Paso,El Paso,Texas,50613343,2002
+Hidalgo,Hidalgo,Texas,29150683,2002
+Brownsville,Brownsville,Texas,27596571,2002
+Presidio,Presidio,Texas,2565546,2002
+Laredo,Laredo,Texas,31460896,2002
+Opheim,Opheim,Montana,17209,2002
+Wildhorse,Wildhorse,Montana,0,2002
+Scobey,Scobey,Montana,22109,2002
+Raymond,Raymond,Montana,125476,2002
+Del Bonita,Del Bonita,Montana,57304,2002
+Turner,Turner,Montana,17095,2002
+Sweetgrass,Sweetgrass,Montana,1078648,2002
+Piegan,Piegan,Montana,479646,2002
+Whitlash,Whitlash,Montana,4091,2002
+Morgan,Morgan,Montana,18529,2002
+Willow Creek,Willow Creek,Montana,0,2002
+Roosville,Roosville,Montana,366920,2002
+Whitetail,Whitetail,Montana,16485,2002
+Lancaster,Lancaster,Minnesota,0,2002
+Roseau,Roseau,Minnesota,127804,2002
+Baudette,Baudette,Minnesota,665172,2002
+Grand Portage,Grand Portage,Minnesota,757135,2002
+Pinecreek,Pinecreek,Minnesota,27626,2002
+Warroad,Warroad,Minnesota,527060,2002
+International Falls-Ranier,International Falls-Ranier,Minnesota,1935921,2002
+Noyes,Noyes,Minnesota,159734,2002
+Derby Line,Derby Line,Vermont,2389218,2002
+Beecher Falls,Beecher Falls,Vermont,294742,2002
+Norton,Norton,Vermont,319510,2002
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,1878841,2002
+Richford,Richford,Vermont,388958,2002
+Lynden,Lynden,Washington,1971866,2002
+Oroville,Oroville,Washington,840642,2002
+Ferry,Ferry,Washington,41956,2002
+Metaline Falls,Metaline Falls,Washington,104356,2002
+Blaine,Blaine,Washington,8503912,2002
+Frontier,Frontier,Washington,169402,2002
+Laurier,Laurier,Washington,158081,2002
+Boundary,Boundary,Washington,121553,2002
+Sumas,Sumas,Washington,2668596,2002
+Port Angeles,Port Angeles,Washington,0,2002
+Danville,Danville,Washington,170051,2002
+Nighthawk,Nighthawk,Washington,18323,2002
+Point Roberts,Point Roberts,Washington,2059647,2002
+Anacortes,Anacortes,Washington,0,2002
+Friday Harbor,Friday Harbor,Washington,0,2002
+Eastport,Eastport,Idaho,467937,2002
+Porthill,Porthill,Idaho,328586,2002
+Sault Sainte Marie,Sault Sainte Marie,Michigan,3131847,2002
+Port Huron,Port Huron,Michigan,8799131,2002
+Detroit,Detroit,Michigan,23780597,2002
+Algonac,Algonac,Michigan,0,2002
+Santa Teresa,Santa Teresa,New Mexico,1221945,2002
+Columbus,Columbus,New Mexico,1569834,2002
+Skagway,Skagway,Alaska,293713,2002
+Ketchikan,Ketchikan,Alaska,0,2002
+Alcan,Alcan,Alaska,208419,2002
+Dalton Cache,Dalton Cache,Alaska,69921,2002
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,2002
+Calexico East,Calexico East,California,11011102,2001
+Otay Mesa,Otay Mesa,California,15309236,2001
+San Ysidro,San Ysidro,California,60440790,2001
+Tecate,Tecate,California,3803135,2001
+Calexico,Calexico,California,28531376,2001
+Andrade,Andrade,California,3801361,2001
+Cross Border Xpress,Cross Border Xpress,California,0,2001
+Van Buren,Van Buren,Maine,877210,2001
+Madawaska,Madawaska,Maine,1975471,2001
+Vanceboro,Vanceboro,Maine,242797,2001
+Calais,Calais,Maine,4163194,2001
+Houlton,Houlton,Maine,1226397,2001
+Fort Fairfield,Fort Fairfield,Maine,583647,2001
+Bridgewater,Bridgewater,Maine,224965,2001
+Fort Kent,Fort Kent,Maine,861763,2001
+Jackman,Jackman,Maine,983633,2001
+Limestone,Limestone,Maine,179862,2001
+Eastport,Eastport,Maine,0,2001
+Portland,Portland,Maine,94387,2001
+Bar Harbor,Bar Harbor,Maine,0,2001
+Nogales,Nogales,Arizona,20036991,2001
+Naco,Naco,Arizona,1264438,2001
+Sasabe,Sasabe,Arizona,142026,2001
+Douglas,Douglas,Arizona,8127248,2001
+Lukeville,Lukeville,Arizona,1874316,2001
+San Luis,San Luis,Arizona,12291660,2001
+Trout River,Trout River,New York,626175,2001
+Champlain-Rouses Point,Champlain-Rouses Point,New York,5085707,2001
+Massena,Massena,New York,3581723,2001
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,28508342,2001
+Alexandria Bay,Alexandria Bay,New York,2991449,2001
+Ogdensburg,Ogdensburg,New York,851022,2001
+Cape Vincent,Cape Vincent,New York,0,2001
+Pembina,Pembina,North Dakota,1322954,2001
+Portal,Portal,North Dakota,610168,2001
+Neche,Neche,North Dakota,157129,2001
+Sarles,Sarles,North Dakota,27695,2001
+Hansboro,Hansboro,North Dakota,40269,2001
+Walhalla,Walhalla,North Dakota,102350,2001
+Antler,Antler,North Dakota,40974,2001
+Noonan,Noonan,North Dakota,87228,2001
+Westhope,Westhope,North Dakota,53033,2001
+Fortuna,Fortuna,North Dakota,41854,2001
+Northgate,Northgate,North Dakota,68313,2001
+Sherwood,Sherwood,North Dakota,38839,2001
+Ambrose,Ambrose,North Dakota,11048,2001
+Dunseith,Dunseith,North Dakota,280613,2001
+Carbury,Carbury,North Dakota,43937,2001
+Maida,Maida,North Dakota,57936,2001
+St. John,St. John,North Dakota,104379,2001
+Hannah,Hannah,North Dakota,25816,2001
+Progreso,Progreso,Texas,5491395,2001
+Roma,Roma,Texas,5405899,2001
+Boquillas,Boquillas,Texas,0,2001
+Rio Grande City,Rio Grande City,Texas,2971329,2001
+Del Rio,Del Rio,Texas,6774467,2001
+Eagle Pass,Eagle Pass,Texas,13095184,2001
+Tornillo-Fabens,Tornillo-Fabens,Texas,2658809,2001
+El Paso,El Paso,Texas,64118768,2001
+Hidalgo,Hidalgo,Texas,29014328,2001
+Brownsville,Brownsville,Texas,28373944,2001
+Presidio,Presidio,Texas,2625247,2001
+Laredo,Laredo,Texas,33643291,2001
+Opheim,Opheim,Montana,21003,2001
+Wildhorse,Wildhorse,Montana,0,2001
+Scobey,Scobey,Montana,23254,2001
+Raymond,Raymond,Montana,146703,2001
+Del Bonita,Del Bonita,Montana,54256,2001
+Turner,Turner,Montana,18690,2001
+Sweetgrass,Sweetgrass,Montana,1059901,2001
+Piegan,Piegan,Montana,517624,2001
+Whitlash,Whitlash,Montana,3930,2001
+Morgan,Morgan,Montana,24084,2001
+Willow Creek,Willow Creek,Montana,0,2001
+Roosville,Roosville,Montana,369754,2001
+Whitetail,Whitetail,Montana,16144,2001
+Lancaster,Lancaster,Minnesota,0,2001
+Roseau,Roseau,Minnesota,151808,2001
+Baudette,Baudette,Minnesota,667335,2001
+Grand Portage,Grand Portage,Minnesota,726688,2001
+Pinecreek,Pinecreek,Minnesota,25940,2001
+Warroad,Warroad,Minnesota,560834,2001
+International Falls-Ranier,International Falls-Ranier,Minnesota,2051972,2001
+Noyes,Noyes,Minnesota,279580,2001
+Derby Line,Derby Line,Vermont,2479775,2001
+Beecher Falls,Beecher Falls,Vermont,282456,2001
+Norton,Norton,Vermont,286697,2001
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,1829060,2001
+Richford,Richford,Vermont,414172,2001
+Lynden,Lynden,Washington,1980500,2001
+Oroville,Oroville,Washington,845302,2001
+Ferry,Ferry,Washington,43651,2001
+Metaline Falls,Metaline Falls,Washington,115316,2001
+Blaine,Blaine,Washington,11298328,2001
+Frontier,Frontier,Washington,168517,2001
+Laurier,Laurier,Washington,185228,2001
+Boundary,Boundary,Washington,132549,2001
+Sumas,Sumas,Washington,3014472,2001
+Port Angeles,Port Angeles,Washington,0,2001
+Danville,Danville,Washington,201656,2001
+Nighthawk,Nighthawk,Washington,19405,2001
+Point Roberts,Point Roberts,Washington,2284180,2001
+Anacortes,Anacortes,Washington,0,2001
+Friday Harbor,Friday Harbor,Washington,0,2001
+Eastport,Eastport,Idaho,482516,2001
+Porthill,Porthill,Idaho,394778,2001
+Sault Sainte Marie,Sault Sainte Marie,Michigan,3535860,2001
+Port Huron,Port Huron,Michigan,9174818,2001
+Detroit,Detroit,Michigan,27459975,2001
+Algonac,Algonac,Michigan,0,2001
+Santa Teresa,Santa Teresa,New Mexico,726233,2001
+Columbus,Columbus,New Mexico,1458938,2001
+Skagway,Skagway,Alaska,295172,2001
+Ketchikan,Ketchikan,Alaska,0,2001
+Alcan,Alcan,Alaska,206104,2001
+Dalton Cache,Dalton Cache,Alaska,70125,2001
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,2001
+Calexico East,Calexico East,California,10639009,2000
+Otay Mesa,Otay Mesa,California,18420942,2000
+San Ysidro,San Ysidro,California,54690227,2000
+Tecate,Tecate,California,4974122,2000
+Calexico,Calexico,California,35221950,2000
+Andrade,Andrade,California,4184302,2000
+Cross Border Xpress,Cross Border Xpress,California,0,2000
+Van Buren,Van Buren,Maine,980260,2000
+Madawaska,Madawaska,Maine,2285814,2000
+Vanceboro,Vanceboro,Maine,251706,2000
+Calais,Calais,Maine,4909696,2000
+Houlton,Houlton,Maine,1386161,2000
+Fort Fairfield,Fort Fairfield,Maine,660032,2000
+Bridgewater,Bridgewater,Maine,256463,2000
+Fort Kent,Fort Kent,Maine,1064945,2000
+Jackman,Jackman,Maine,1002743,2000
+Limestone,Limestone,Maine,169592,2000
+Eastport,Eastport,Maine,0,2000
+Portland,Portland,Maine,93664,2000
+Bar Harbor,Bar Harbor,Maine,0,2000
+Nogales,Nogales,Arizona,21571994,2000
+Naco,Naco,Arizona,1328792,2000
+Sasabe,Sasabe,Arizona,125353,2000
+Douglas,Douglas,Arizona,9210484,2000
+Lukeville,Lukeville,Arizona,1656529,2000
+San Luis,San Luis,Arizona,12562236,2000
+Trout River,Trout River,New York,780706,2000
+Champlain-Rouses Point,Champlain-Rouses Point,New York,5036261,2000
+Massena,Massena,New York,4315099,2000
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,29126068,2000
+Alexandria Bay,Alexandria Bay,New York,2973174,2000
+Ogdensburg,Ogdensburg,New York,999250,2000
+Cape Vincent,Cape Vincent,New York,0,2000
+Pembina,Pembina,North Dakota,1444306,2000
+Portal,Portal,North Dakota,638576,2000
+Neche,Neche,North Dakota,160603,2000
+Sarles,Sarles,North Dakota,22818,2000
+Hansboro,Hansboro,North Dakota,46980,2000
+Walhalla,Walhalla,North Dakota,95816,2000
+Antler,Antler,North Dakota,42951,2000
+Noonan,Noonan,North Dakota,94460,2000
+Westhope,Westhope,North Dakota,47534,2000
+Fortuna,Fortuna,North Dakota,42167,2000
+Northgate,Northgate,North Dakota,66166,2000
+Sherwood,Sherwood,North Dakota,45573,2000
+Ambrose,Ambrose,North Dakota,18545,2000
+Dunseith,Dunseith,North Dakota,278057,2000
+Carbury,Carbury,North Dakota,47240,2000
+Maida,Maida,North Dakota,58583,2000
+St. John,St. John,North Dakota,101899,2000
+Hannah,Hannah,North Dakota,23261,2000
+Progreso,Progreso,Texas,5643353,2000
+Roma,Roma,Texas,6621138,2000
+Boquillas,Boquillas,Texas,0,2000
+Rio Grande City,Rio Grande City,Texas,3202722,2000
+Del Rio,Del Rio,Texas,8237190,2000
+Eagle Pass,Eagle Pass,Texas,13198373,2000
+Tornillo-Fabens,Tornillo-Fabens,Texas,2846531,2000
+El Paso,El Paso,Texas,72553074,2000
+Hidalgo,Hidalgo,Texas,34690148,2000
+Brownsville,Brownsville,Texas,31421429,2000
+Presidio,Presidio,Texas,2661808,2000
+Laredo,Laredo,Texas,34255367,2000
+Opheim,Opheim,Montana,19869,2000
+Wildhorse,Wildhorse,Montana,0,2000
+Scobey,Scobey,Montana,23219,2000
+Raymond,Raymond,Montana,136575,2000
+Del Bonita,Del Bonita,Montana,76636,2000
+Turner,Turner,Montana,21935,2000
+Sweetgrass,Sweetgrass,Montana,1273246,2000
+Piegan,Piegan,Montana,417561,2000
+Whitlash,Whitlash,Montana,4660,2000
+Morgan,Morgan,Montana,26433,2000
+Willow Creek,Willow Creek,Montana,0,2000
+Roosville,Roosville,Montana,414017,2000
+Whitetail,Whitetail,Montana,16490,2000
+Lancaster,Lancaster,Minnesota,0,2000
+Roseau,Roseau,Minnesota,159790,2000
+Baudette,Baudette,Minnesota,733346,2000
+Grand Portage,Grand Portage,Minnesota,983487,2000
+Pinecreek,Pinecreek,Minnesota,23856,2000
+Warroad,Warroad,Minnesota,592916,2000
+International Falls-Ranier,International Falls-Ranier,Minnesota,2054617,2000
+Noyes,Noyes,Minnesota,267536,2000
+Derby Line,Derby Line,Vermont,2615690,2000
+Beecher Falls,Beecher Falls,Vermont,316990,2000
+Norton,Norton,Vermont,369440,2000
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,1802784,2000
+Richford,Richford,Vermont,444426,2000
+Lynden,Lynden,Washington,1973749,2000
+Oroville,Oroville,Washington,869090,2000
+Ferry,Ferry,Washington,44773,2000
+Metaline Falls,Metaline Falls,Washington,116189,2000
+Blaine,Blaine,Washington,12965745,2000
+Frontier,Frontier,Washington,177602,2000
+Laurier,Laurier,Washington,189330,2000
+Boundary,Boundary,Washington,121170,2000
+Sumas,Sumas,Washington,3181544,2000
+Port Angeles,Port Angeles,Washington,0,2000
+Danville,Danville,Washington,212916,2000
+Nighthawk,Nighthawk,Washington,23042,2000
+Point Roberts,Point Roberts,Washington,2503918,2000
+Anacortes,Anacortes,Washington,0,2000
+Friday Harbor,Friday Harbor,Washington,0,2000
+Eastport,Eastport,Idaho,517737,2000
+Porthill,Porthill,Idaho,388101,2000
+Sault Sainte Marie,Sault Sainte Marie,Michigan,5445877,2000
+Port Huron,Port Huron,Michigan,11436138,2000
+Detroit,Detroit,Michigan,34662838,2000
+Algonac,Algonac,Michigan,0,2000
+Santa Teresa,Santa Teresa,New Mexico,318892,2000
+Columbus,Columbus,New Mexico,1995904,2000
+Skagway,Skagway,Alaska,312471,2000
+Ketchikan,Ketchikan,Alaska,0,2000
+Alcan,Alcan,Alaska,217178,2000
+Dalton Cache,Dalton Cache,Alaska,67577,2000
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,2000
+Calexico East,Calexico East,California,9268961,1999
+Otay Mesa,Otay Mesa,California,16622698,1999
+San Ysidro,San Ysidro,California,57382892,1999
+Tecate,Tecate,California,4645244,1999
+Calexico,Calexico,California,35338551,1999
+Andrade,Andrade,California,4077016,1999
+Cross Border Xpress,Cross Border Xpress,California,0,1999
+Van Buren,Van Buren,Maine,940397,1999
+Madawaska,Madawaska,Maine,2345137,1999
+Vanceboro,Vanceboro,Maine,176449,1999
+Calais,Calais,Maine,4916806,1999
+Houlton,Houlton,Maine,1564756,1999
+Fort Fairfield,Fort Fairfield,Maine,739288,1999
+Bridgewater,Bridgewater,Maine,346647,1999
+Fort Kent,Fort Kent,Maine,1053502,1999
+Jackman,Jackman,Maine,875440,1999
+Limestone,Limestone,Maine,178802,1999
+Eastport,Eastport,Maine,0,1999
+Portland,Portland,Maine,88875,1999
+Bar Harbor,Bar Harbor,Maine,0,1999
+Nogales,Nogales,Arizona,20111959,1999
+Naco,Naco,Arizona,1256472,1999
+Sasabe,Sasabe,Arizona,133663,1999
+Douglas,Douglas,Arizona,8834151,1999
+Lukeville,Lukeville,Arizona,1978428,1999
+San Luis,San Luis,Arizona,11995054,1999
+Trout River,Trout River,New York,673955,1999
+Champlain-Rouses Point,Champlain-Rouses Point,New York,5005123,1999
+Massena,Massena,New York,4508180,1999
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,28648289,1999
+Alexandria Bay,Alexandria Bay,New York,2950875,1999
+Ogdensburg,Ogdensburg,New York,998576,1999
+Cape Vincent,Cape Vincent,New York,0,1999
+Pembina,Pembina,North Dakota,1388181,1999
+Portal,Portal,North Dakota,610480,1999
+Neche,Neche,North Dakota,167627,1999
+Sarles,Sarles,North Dakota,21459,1999
+Hansboro,Hansboro,North Dakota,43849,1999
+Walhalla,Walhalla,North Dakota,93892,1999
+Antler,Antler,North Dakota,37329,1999
+Noonan,Noonan,North Dakota,101243,1999
+Westhope,Westhope,North Dakota,43460,1999
+Fortuna,Fortuna,North Dakota,45493,1999
+Northgate,Northgate,North Dakota,68197,1999
+Sherwood,Sherwood,North Dakota,50876,1999
+Ambrose,Ambrose,North Dakota,22080,1999
+Dunseith,Dunseith,North Dakota,274965,1999
+Carbury,Carbury,North Dakota,43168,1999
+Maida,Maida,North Dakota,52880,1999
+St. John,St. John,North Dakota,81683,1999
+Hannah,Hannah,North Dakota,23686,1999
+Progreso,Progreso,Texas,5834581,1999
+Roma,Roma,Texas,6598365,1999
+Boquillas,Boquillas,Texas,0,1999
+Rio Grande City,Rio Grande City,Texas,3348659,1999
+Del Rio,Del Rio,Texas,8402515,1999
+Eagle Pass,Eagle Pass,Texas,11671080,1999
+Tornillo-Fabens,Tornillo-Fabens,Texas,2818901,1999
+El Paso,El Paso,Texas,69579510,1999
+Hidalgo,Hidalgo,Texas,41947450,1999
+Brownsville,Brownsville,Texas,30875561,1999
+Presidio,Presidio,Texas,2796307,1999
+Laredo,Laredo,Texas,34413232,1999
+Opheim,Opheim,Montana,19304,1999
+Wildhorse,Wildhorse,Montana,0,1999
+Scobey,Scobey,Montana,21097,1999
+Raymond,Raymond,Montana,166795,1999
+Del Bonita,Del Bonita,Montana,106197,1999
+Turner,Turner,Montana,23448,1999
+Sweetgrass,Sweetgrass,Montana,1285775,1999
+Piegan,Piegan,Montana,735001,1999
+Whitlash,Whitlash,Montana,1535,1999
+Morgan,Morgan,Montana,23409,1999
+Willow Creek,Willow Creek,Montana,0,1999
+Roosville,Roosville,Montana,450817,1999
+Whitetail,Whitetail,Montana,19633,1999
+Lancaster,Lancaster,Minnesota,0,1999
+Roseau,Roseau,Minnesota,156361,1999
+Baudette,Baudette,Minnesota,705097,1999
+Grand Portage,Grand Portage,Minnesota,881351,1999
+Pinecreek,Pinecreek,Minnesota,22932,1999
+Warroad,Warroad,Minnesota,579198,1999
+International Falls-Ranier,International Falls-Ranier,Minnesota,2115079,1999
+Noyes,Noyes,Minnesota,256623,1999
+Derby Line,Derby Line,Vermont,2726097,1999
+Beecher Falls,Beecher Falls,Vermont,339858,1999
+Norton,Norton,Vermont,359448,1999
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,1759570,1999
+Richford,Richford,Vermont,445140,1999
+Lynden,Lynden,Washington,2156355,1999
+Oroville,Oroville,Washington,899086,1999
+Ferry,Ferry,Washington,35811,1999
+Metaline Falls,Metaline Falls,Washington,114903,1999
+Blaine,Blaine,Washington,13345849,1999
+Frontier,Frontier,Washington,170555,1999
+Laurier,Laurier,Washington,195089,1999
+Boundary,Boundary,Washington,114226,1999
+Sumas,Sumas,Washington,3044796,1999
+Port Angeles,Port Angeles,Washington,0,1999
+Danville,Danville,Washington,199070,1999
+Nighthawk,Nighthawk,Washington,22222,1999
+Point Roberts,Point Roberts,Washington,3733796,1999
+Anacortes,Anacortes,Washington,0,1999
+Friday Harbor,Friday Harbor,Washington,0,1999
+Eastport,Eastport,Idaho,521460,1999
+Porthill,Porthill,Idaho,398002,1999
+Sault Sainte Marie,Sault Sainte Marie,Michigan,5828393,1999
+Port Huron,Port Huron,Michigan,9976138,1999
+Detroit,Detroit,Michigan,32765609,1999
+Algonac,Algonac,Michigan,0,1999
+Santa Teresa,Santa Teresa,New Mexico,264517,1999
+Columbus,Columbus,New Mexico,1763629,1999
+Skagway,Skagway,Alaska,304644,1999
+Ketchikan,Ketchikan,Alaska,0,1999
+Alcan,Alcan,Alaska,232304,1999
+Dalton Cache,Dalton Cache,Alaska,57610,1999
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,1999
+Calexico East,Calexico East,California,7556984,1998
+Otay Mesa,Otay Mesa,California,15950830,1998
+San Ysidro,San Ysidro,California,54226556,1998
+Tecate,Tecate,California,4341838,1998
+Calexico,Calexico,California,36221460,1998
+Andrade,Andrade,California,3772276,1998
+Cross Border Xpress,Cross Border Xpress,California,0,1998
+Van Buren,Van Buren,Maine,1156041,1998
+Madawaska,Madawaska,Maine,2498192,1998
+Vanceboro,Vanceboro,Maine,185254,1998
+Calais,Calais,Maine,5028782,1998
+Houlton,Houlton,Maine,1538472,1998
+Fort Fairfield,Fort Fairfield,Maine,737397,1998
+Bridgewater,Bridgewater,Maine,393273,1998
+Fort Kent,Fort Kent,Maine,1088908,1998
+Jackman,Jackman,Maine,809418,1998
+Limestone,Limestone,Maine,175405,1998
+Eastport,Eastport,Maine,0,1998
+Portland,Portland,Maine,86420,1998
+Bar Harbor,Bar Harbor,Maine,0,1998
+Nogales,Nogales,Arizona,18934117,1998
+Naco,Naco,Arizona,1179783,1998
+Sasabe,Sasabe,Arizona,122774,1998
+Douglas,Douglas,Arizona,8318421,1998
+Lukeville,Lukeville,Arizona,1570158,1998
+San Luis,San Luis,Arizona,11316072,1998
+Trout River,Trout River,New York,665320,1998
+Champlain-Rouses Point,Champlain-Rouses Point,New York,4772550,1998
+Massena,Massena,New York,4191449,1998
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,28390734,1998
+Alexandria Bay,Alexandria Bay,New York,2862710,1998
+Ogdensburg,Ogdensburg,New York,1005898,1998
+Cape Vincent,Cape Vincent,New York,0,1998
+Pembina,Pembina,North Dakota,1198249,1998
+Portal,Portal,North Dakota,489404,1998
+Neche,Neche,North Dakota,150162,1998
+Sarles,Sarles,North Dakota,19404,1998
+Hansboro,Hansboro,North Dakota,42963,1998
+Walhalla,Walhalla,North Dakota,106749,1998
+Antler,Antler,North Dakota,33837,1998
+Noonan,Noonan,North Dakota,98683,1998
+Westhope,Westhope,North Dakota,39824,1998
+Fortuna,Fortuna,North Dakota,45362,1998
+Northgate,Northgate,North Dakota,73756,1998
+Sherwood,Sherwood,North Dakota,60185,1998
+Ambrose,Ambrose,North Dakota,25851,1998
+Dunseith,Dunseith,North Dakota,259893,1998
+Carbury,Carbury,North Dakota,39963,1998
+Maida,Maida,North Dakota,51556,1998
+St. John,St. John,North Dakota,76776,1998
+Hannah,Hannah,North Dakota,20751,1998
+Progreso,Progreso,Texas,5076299,1998
+Roma,Roma,Texas,6099775,1998
+Boquillas,Boquillas,Texas,0,1998
+Rio Grande City,Rio Grande City,Texas,3132212,1998
+Del Rio,Del Rio,Texas,7791741,1998
+Eagle Pass,Eagle Pass,Texas,10630040,1998
+Tornillo-Fabens,Tornillo-Fabens,Texas,2263398,1998
+El Paso,El Paso,Texas,65679507,1998
+Hidalgo,Hidalgo,Texas,36554465,1998
+Brownsville,Brownsville,Texas,27197787,1998
+Presidio,Presidio,Texas,2492703,1998
+Laredo,Laredo,Texas,34699118,1998
+Opheim,Opheim,Montana,16789,1998
+Wildhorse,Wildhorse,Montana,0,1998
+Scobey,Scobey,Montana,12978,1998
+Raymond,Raymond,Montana,172761,1998
+Del Bonita,Del Bonita,Montana,97689,1998
+Turner,Turner,Montana,24300,1998
+Sweetgrass,Sweetgrass,Montana,1148679,1998
+Piegan,Piegan,Montana,633222,1998
+Whitlash,Whitlash,Montana,691,1998
+Morgan,Morgan,Montana,20570,1998
+Willow Creek,Willow Creek,Montana,0,1998
+Roosville,Roosville,Montana,419083,1998
+Whitetail,Whitetail,Montana,16995,1998
+Lancaster,Lancaster,Minnesota,0,1998
+Roseau,Roseau,Minnesota,147040,1998
+Baudette,Baudette,Minnesota,683882,1998
+Grand Portage,Grand Portage,Minnesota,963903,1998
+Pinecreek,Pinecreek,Minnesota,20165,1998
+Warroad,Warroad,Minnesota,469641,1998
+International Falls-Ranier,International Falls-Ranier,Minnesota,2054321,1998
+Noyes,Noyes,Minnesota,205310,1998
+Derby Line,Derby Line,Vermont,2429710,1998
+Beecher Falls,Beecher Falls,Vermont,324695,1998
+Norton,Norton,Vermont,336940,1998
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,1618984,1998
+Richford,Richford,Vermont,439693,1998
+Lynden,Lynden,Washington,2205761,1998
+Oroville,Oroville,Washington,912132,1998
+Ferry,Ferry,Washington,38936,1998
+Metaline Falls,Metaline Falls,Washington,117702,1998
+Blaine,Blaine,Washington,13153745,1998
+Frontier,Frontier,Washington,162707,1998
+Laurier,Laurier,Washington,190789,1998
+Boundary,Boundary,Washington,124620,1998
+Sumas,Sumas,Washington,3270335,1998
+Port Angeles,Port Angeles,Washington,0,1998
+Danville,Danville,Washington,244482,1998
+Nighthawk,Nighthawk,Washington,26031,1998
+Point Roberts,Point Roberts,Washington,1936898,1998
+Anacortes,Anacortes,Washington,0,1998
+Friday Harbor,Friday Harbor,Washington,0,1998
+Eastport,Eastport,Idaho,438475,1998
+Porthill,Porthill,Idaho,431731,1998
+Sault Sainte Marie,Sault Sainte Marie,Michigan,6305243,1998
+Port Huron,Port Huron,Michigan,9359281,1998
+Detroit,Detroit,Michigan,32056144,1998
+Algonac,Algonac,Michigan,0,1998
+Santa Teresa,Santa Teresa,New Mexico,233540,1998
+Columbus,Columbus,New Mexico,934760,1998
+Skagway,Skagway,Alaska,307560,1998
+Ketchikan,Ketchikan,Alaska,0,1998
+Alcan,Alcan,Alaska,261214,1998
+Dalton Cache,Dalton Cache,Alaska,72672,1998
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,1998
+Calexico East,Calexico East,California,7418320,1997
+Otay Mesa,Otay Mesa,California,14166189,1997
+San Ysidro,San Ysidro,California,50299485,1997
+Tecate,Tecate,California,4570883,1997
+Calexico,Calexico,California,34007914,1997
+Andrade,Andrade,California,3573449,1997
+Cross Border Xpress,Cross Border Xpress,California,0,1997
+Van Buren,Van Buren,Maine,1349432,1997
+Madawaska,Madawaska,Maine,2559259,1997
+Vanceboro,Vanceboro,Maine,199261,1997
+Calais,Calais,Maine,5315080,1997
+Houlton,Houlton,Maine,1687556,1997
+Fort Fairfield,Fort Fairfield,Maine,724566,1997
+Bridgewater,Bridgewater,Maine,421695,1997
+Fort Kent,Fort Kent,Maine,1122447,1997
+Jackman,Jackman,Maine,685768,1997
+Limestone,Limestone,Maine,202889,1997
+Eastport,Eastport,Maine,0,1997
+Portland,Portland,Maine,94519,1997
+Bar Harbor,Bar Harbor,Maine,0,1997
+Nogales,Nogales,Arizona,18391613,1997
+Naco,Naco,Arizona,1143169,1997
+Sasabe,Sasabe,Arizona,99387,1997
+Douglas,Douglas,Arizona,7460780,1997
+Lukeville,Lukeville,Arizona,1525946,1997
+San Luis,San Luis,Arizona,11889466,1997
+Trout River,Trout River,New York,657943,1997
+Champlain-Rouses Point,Champlain-Rouses Point,New York,4844646,1997
+Massena,Massena,New York,4248995,1997
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,29129803,1997
+Alexandria Bay,Alexandria Bay,New York,2984560,1997
+Ogdensburg,Ogdensburg,New York,1245482,1997
+Cape Vincent,Cape Vincent,New York,0,1997
+Pembina,Pembina,North Dakota,1037736,1997
+Portal,Portal,North Dakota,539377,1997
+Neche,Neche,North Dakota,137841,1997
+Sarles,Sarles,North Dakota,20157,1997
+Hansboro,Hansboro,North Dakota,47342,1997
+Walhalla,Walhalla,North Dakota,117489,1997
+Antler,Antler,North Dakota,35873,1997
+Noonan,Noonan,North Dakota,113987,1997
+Westhope,Westhope,North Dakota,41854,1997
+Fortuna,Fortuna,North Dakota,57770,1997
+Northgate,Northgate,North Dakota,84714,1997
+Sherwood,Sherwood,North Dakota,73173,1997
+Ambrose,Ambrose,North Dakota,23685,1997
+Dunseith,Dunseith,North Dakota,266651,1997
+Carbury,Carbury,North Dakota,45000,1997
+Maida,Maida,North Dakota,58077,1997
+St. John,St. John,North Dakota,82187,1997
+Hannah,Hannah,North Dakota,21208,1997
+Progreso,Progreso,Texas,4783317,1997
+Roma,Roma,Texas,5906951,1997
+Boquillas,Boquillas,Texas,0,1997
+Rio Grande City,Rio Grande City,Texas,2649792,1997
+Del Rio,Del Rio,Texas,7590354,1997
+Eagle Pass,Eagle Pass,Texas,9985582,1997
+Tornillo-Fabens,Tornillo-Fabens,Texas,2633722,1997
+El Paso,El Paso,Texas,64101339,1997
+Hidalgo,Hidalgo,Texas,33778427,1997
+Brownsville,Brownsville,Texas,26023930,1997
+Presidio,Presidio,Texas,2328417,1997
+Laredo,Laredo,Texas,33153723,1997
+Opheim,Opheim,Montana,16777,1997
+Wildhorse,Wildhorse,Montana,0,1997
+Scobey,Scobey,Montana,21549,1997
+Raymond,Raymond,Montana,172743,1997
+Del Bonita,Del Bonita,Montana,85916,1997
+Turner,Turner,Montana,32116,1997
+Sweetgrass,Sweetgrass,Montana,1255374,1997
+Piegan,Piegan,Montana,592505,1997
+Whitlash,Whitlash,Montana,3924,1997
+Morgan,Morgan,Montana,27172,1997
+Willow Creek,Willow Creek,Montana,0,1997
+Roosville,Roosville,Montana,377432,1997
+Whitetail,Whitetail,Montana,18622,1997
+Lancaster,Lancaster,Minnesota,0,1997
+Roseau,Roseau,Minnesota,134614,1997
+Baudette,Baudette,Minnesota,673672,1997
+Grand Portage,Grand Portage,Minnesota,969934,1997
+Pinecreek,Pinecreek,Minnesota,24871,1997
+Warroad,Warroad,Minnesota,433591,1997
+International Falls-Ranier,International Falls-Ranier,Minnesota,1846066,1997
+Noyes,Noyes,Minnesota,150051,1997
+Derby Line,Derby Line,Vermont,2772154,1997
+Beecher Falls,Beecher Falls,Vermont,349567,1997
+Norton,Norton,Vermont,397629,1997
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,1404471,1997
+Richford,Richford,Vermont,508460,1997
+Lynden,Lynden,Washington,2634585,1997
+Oroville,Oroville,Washington,1047300,1997
+Ferry,Ferry,Washington,41997,1997
+Metaline Falls,Metaline Falls,Washington,113705,1997
+Blaine,Blaine,Washington,16269694,1997
+Frontier,Frontier,Washington,172748,1997
+Laurier,Laurier,Washington,202212,1997
+Boundary,Boundary,Washington,162142,1997
+Sumas,Sumas,Washington,3720117,1997
+Port Angeles,Port Angeles,Washington,0,1997
+Danville,Danville,Washington,281046,1997
+Nighthawk,Nighthawk,Washington,31620,1997
+Point Roberts,Point Roberts,Washington,2981363,1997
+Anacortes,Anacortes,Washington,0,1997
+Friday Harbor,Friday Harbor,Washington,0,1997
+Eastport,Eastport,Idaho,471538,1997
+Porthill,Porthill,Idaho,445490,1997
+Sault Sainte Marie,Sault Sainte Marie,Michigan,7276955,1997
+Port Huron,Port Huron,Michigan,9131088,1997
+Detroit,Detroit,Michigan,27431980,1997
+Algonac,Algonac,Michigan,0,1997
+Santa Teresa,Santa Teresa,New Mexico,235546,1997
+Columbus,Columbus,New Mexico,943787,1997
+Skagway,Skagway,Alaska,277897,1997
+Ketchikan,Ketchikan,Alaska,0,1997
+Alcan,Alcan,Alaska,201656,1997
+Dalton Cache,Dalton Cache,Alaska,70345,1997
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,1997
+Calexico East,Calexico East,California,0,1996
+Otay Mesa,Otay Mesa,California,13555563,1996
+San Ysidro,San Ysidro,California,0,1996
+Tecate,Tecate,California,4380708,1996
+Calexico,Calexico,California,32172466,1996
+Andrade,Andrade,California,3551780,1996
+Cross Border Xpress,Cross Border Xpress,California,0,1996
+Van Buren,Van Buren,Maine,1317783,1996
+Madawaska,Madawaska,Maine,2783701,1996
+Vanceboro,Vanceboro,Maine,233376,1996
+Calais,Calais,Maine,5175411,1996
+Houlton,Houlton,Maine,1661700,1996
+Fort Fairfield,Fort Fairfield,Maine,806011,1996
+Bridgewater,Bridgewater,Maine,479597,1996
+Fort Kent,Fort Kent,Maine,1050929,1996
+Jackman,Jackman,Maine,850141,1996
+Limestone,Limestone,Maine,184156,1996
+Eastport,Eastport,Maine,0,1996
+Portland,Portland,Maine,82449,1996
+Bar Harbor,Bar Harbor,Maine,0,1996
+Nogales,Nogales,Arizona,17298040,1996
+Naco,Naco,Arizona,1069136,1996
+Sasabe,Sasabe,Arizona,84642,1996
+Douglas,Douglas,Arizona,6935023,1996
+Lukeville,Lukeville,Arizona,1085200,1996
+San Luis,San Luis,Arizona,11566958,1996
+Trout River,Trout River,New York,747205,1996
+Champlain-Rouses Point,Champlain-Rouses Point,New York,4985647,1996
+Massena,Massena,New York,4136919,1996
+Buffalo-Niagara Falls,Buffalo-Niagara Falls,New York,26597966,1996
+Alexandria Bay,Alexandria Bay,New York,2949709,1996
+Ogdensburg,Ogdensburg,New York,1294233,1996
+Cape Vincent,Cape Vincent,New York,0,1996
+Pembina,Pembina,North Dakota,1180228,1996
+Portal,Portal,North Dakota,504365,1996
+Neche,Neche,North Dakota,168312,1996
+Sarles,Sarles,North Dakota,20322,1996
+Hansboro,Hansboro,North Dakota,46630,1996
+Walhalla,Walhalla,North Dakota,128001,1996
+Antler,Antler,North Dakota,39888,1996
+Noonan,Noonan,North Dakota,130888,1996
+Westhope,Westhope,North Dakota,44257,1996
+Fortuna,Fortuna,North Dakota,64413,1996
+Northgate,Northgate,North Dakota,100964,1996
+Sherwood,Sherwood,North Dakota,74147,1996
+Ambrose,Ambrose,North Dakota,19312,1996
+Dunseith,Dunseith,North Dakota,326662,1996
+Carbury,Carbury,North Dakota,46486,1996
+Maida,Maida,North Dakota,57295,1996
+St. John,St. John,North Dakota,82773,1996
+Hannah,Hannah,North Dakota,20867,1996
+Progreso,Progreso,Texas,4825681,1996
+Roma,Roma,Texas,5843525,1996
+Boquillas,Boquillas,Texas,0,1996
+Rio Grande City,Rio Grande City,Texas,2681265,1996
+Del Rio,Del Rio,Texas,7267509,1996
+Eagle Pass,Eagle Pass,Texas,9369123,1996
+Tornillo-Fabens,Tornillo-Fabens,Texas,2544595,1996
+El Paso,El Paso,Texas,62242093,1996
+Hidalgo,Hidalgo,Texas,30959017,1996
+Brownsville,Brownsville,Texas,25679500,1996
+Presidio,Presidio,Texas,2189653,1996
+Laredo,Laredo,Texas,30098425,1996
+Opheim,Opheim,Montana,22212,1996
+Wildhorse,Wildhorse,Montana,0,1996
+Scobey,Scobey,Montana,29154,1996
+Raymond,Raymond,Montana,151162,1996
+Del Bonita,Del Bonita,Montana,95546,1996
+Turner,Turner,Montana,30219,1996
+Sweetgrass,Sweetgrass,Montana,1234879,1996
+Piegan,Piegan,Montana,509845,1996
+Whitlash,Whitlash,Montana,5195,1996
+Morgan,Morgan,Montana,23889,1996
+Willow Creek,Willow Creek,Montana,0,1996
+Roosville,Roosville,Montana,429150,1996
+Whitetail,Whitetail,Montana,15448,1996
+Lancaster,Lancaster,Minnesota,0,1996
+Roseau,Roseau,Minnesota,166075,1996
+Baudette,Baudette,Minnesota,687690,1996
+Grand Portage,Grand Portage,Minnesota,967620,1996
+Pinecreek,Pinecreek,Minnesota,25486,1996
+Warroad,Warroad,Minnesota,428866,1996
+International Falls-Ranier,International Falls-Ranier,Minnesota,2020421,1996
+Noyes,Noyes,Minnesota,193286,1996
+Derby Line,Derby Line,Vermont,2812941,1996
+Beecher Falls,Beecher Falls,Vermont,350858,1996
+Norton,Norton,Vermont,386149,1996
+Highgate Springs-Alburg,Highgate Springs-Alburg,Vermont,1663167,1996
+Richford,Richford,Vermont,534698,1996
+Lynden,Lynden,Washington,2710984,1996
+Oroville,Oroville,Washington,1089335,1996
+Ferry,Ferry,Washington,39647,1996
+Metaline Falls,Metaline Falls,Washington,117798,1996
+Blaine,Blaine,Washington,17188885,1996
+Frontier,Frontier,Washington,165695,1996
+Laurier,Laurier,Washington,238062,1996
+Boundary,Boundary,Washington,170159,1996
+Sumas,Sumas,Washington,4349680,1996
+Port Angeles,Port Angeles,Washington,0,1996
+Danville,Danville,Washington,282663,1996
+Nighthawk,Nighthawk,Washington,30143,1996
+Point Roberts,Point Roberts,Washington,3338049,1996
+Anacortes,Anacortes,Washington,0,1996
+Friday Harbor,Friday Harbor,Washington,0,1996
+Eastport,Eastport,Idaho,467208,1996
+Porthill,Porthill,Idaho,445093,1996
+Sault Sainte Marie,Sault Sainte Marie,Michigan,7192519,1996
+Port Huron,Port Huron,Michigan,9084336,1996
+Detroit,Detroit,Michigan,34418102,1996
+Algonac,Algonac,Michigan,0,1996
+Santa Teresa,Santa Teresa,New Mexico,231364,1996
+Columbus,Columbus,New Mexico,1120182,1996
+Skagway,Skagway,Alaska,252963,1996
+Ketchikan,Ketchikan,Alaska,0,1996
+Alcan,Alcan,Alaska,207758,1996
+Dalton Cache,Dalton Cache,Alaska,73125,1996
+Toledo-Sandusky,Toledo-Sandusky,Ohio,0,1996

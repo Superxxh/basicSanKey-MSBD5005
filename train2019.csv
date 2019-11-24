@@ -1,0 +1,634 @@
+,port,state,value,year
+0,Calexico East,California,2491920,2019
+1,Otay Mesa,California,5750126,2019
+2,San Ysidro,California,11720414,2019
+3,Tecate,California,989487,2019
+4,Calexico,California,4337948,2019
+5,Andrade,California,732585,2019
+6,Cross Border Xpress,California,379964,2019
+7,Van Buren,Maine,84171,2019
+8,Madawaska,Maine,198714,2019
+9,Vanceboro,Maine,15856,2019
+10,Calais,Maine,352611,2019
+11,Houlton,Maine,158930,2019
+12,Fort Fairfield,Maine,50756,2019
+13,Bridgewater,Maine,24738,2019
+14,Fort Kent,Maine,63157,2019
+15,Jackman,Maine,107659,2019
+16,Limestone,Maine,7291,2019
+17,Eastport,Maine,56912,2019
+18,Portland,Maine,0,2019
+19,Bar Harbor,Maine,0,2019
+20,Nogales,Arizona,3506718,2019
+21,Naco,Arizona,235089,2019
+22,Sasabe,Arizona,18639,2019
+23,Douglas,Arizona,1346104,2019
+24,Lukeville,Arizona,346711,2019
+25,San Luis,Arizona,2812396,2019
+26,Trout River,New York,77494,2019
+27,Champlain-Rouses Point,New York,753279,2019
+28,Massena,New York,526250,2019
+29,Buffalo-Niagara Falls,New York,3275570,2019
+30,Alexandria Bay,New York,385401,2019
+31,Ogdensburg,New York,178708,2019
+32,Cape Vincent,New York,0,2019
+33,Pembina,North Dakota,309803,2019
+34,Portal,North Dakota,149705,2019
+35,Neche,North Dakota,21015,2019
+36,Sarles,North Dakota,2656,2019
+37,Hansboro,North Dakota,3073,2019
+38,Walhalla,North Dakota,21540,2019
+39,Antler,North Dakota,4044,2019
+40,Noonan,North Dakota,14434,2019
+41,Westhope,North Dakota,10058,2019
+42,Fortuna,North Dakota,7947,2019
+43,Northgate,North Dakota,13656,2019
+44,Sherwood,North Dakota,11360,2019
+45,Ambrose,North Dakota,637,2019
+46,Dunseith,North Dakota,37239,2019
+47,Carbury,North Dakota,10264,2019
+48,Maida,North Dakota,3899,2019
+49,St. John,North Dakota,7462,2019
+50,Hannah,North Dakota,570,2019
+51,Progreso,Texas,1450178,2019
+52,Roma,Texas,621634,2019
+53,Boquillas,Texas,6891,2019
+54,Rio Grande City,Texas,367777,2019
+55,Del Rio,Texas,1240793,2019
+56,Eagle Pass,Texas,2570213,2019
+57,Tornillo-Fabens,Texas,311560,2019
+58,El Paso,Texas,10227200,2019
+59,Hidalgo,Texas,4293346,2019
+60,Brownsville,Texas,4380536,2019
+61,Presidio,Texas,612015,2019
+62,Laredo,Texas,6336240,2019
+63,Opheim,Montana,1910,2019
+64,Wildhorse,Montana,5794,2019
+65,Scobey,Montana,2825,2019
+66,Raymond,Montana,23258,2019
+67,Del Bonita,Montana,14593,2019
+68,Turner,Montana,5145,2019
+69,Sweetgrass,Montana,190258,2019
+70,Piegan,Montana,30825,2019
+71,Whitlash,Montana,458,2019
+72,Morgan,Montana,2737,2019
+73,Willow Creek,Montana,1639,2019
+74,Roosville,Montana,80796,2019
+75,Whitetail,Montana,0,2019
+76,Lancaster,Minnesota,14425,2019
+77,Roseau,Minnesota,22416,2019
+78,Baudette,Minnesota,93892,2019
+79,Grand Portage,Minnesota,114079,2019
+80,Pinecreek,Minnesota,2016,2019
+81,Warroad,Minnesota,54938,2019
+82,International Falls-Ranier,Minnesota,397904,2019
+83,Noyes,Minnesota,0,2019
+84,Derby Line,Vermont,287740,2019
+85,Beecher Falls,Vermont,27984,2019
+86,Norton,Vermont,17376,2019
+87,Highgate Springs-Alburg,Vermont,305703,2019
+88,Richford,Vermont,58379,2019
+89,Lynden,Washington,364405,2019
+90,Oroville,Washington,106358,2019
+91,Ferry,Washington,4431,2019
+92,Metaline Falls,Washington,23940,2019
+93,Blaine,Washington,2774470,2019
+94,Frontier,Washington,48926,2019
+95,Laurier,Washington,26721,2019
+96,Boundary,Washington,19450,2019
+97,Sumas,Washington,602016,2019
+98,Port Angeles,Washington,20813,2019
+99,Danville,Washington,17131,2019
+100,Nighthawk,Washington,1856,2019
+101,Point Roberts,Washington,496146,2019
+102,Anacortes,Washington,2094,2019
+103,Friday Harbor,Washington,170,2019
+104,Eastport,Idaho,93662,2019
+105,Porthill,Idaho,70219,2019
+106,Sault Sainte Marie,Michigan,386278,2019
+107,Port Huron,Michigan,1319511,2019
+108,Detroit,Michigan,3277181,2019
+109,Algonac,Michigan,4461,2019
+110,Santa Teresa,New Mexico,531947,2019
+111,Columbus,New Mexico,338240,2019
+112,Skagway,Alaska,8921,2019
+113,Ketchikan,Alaska,494,2019
+114,Alcan,Alaska,13166,2019
+115,Dalton Cache,Alaska,4959,2019
+116,Toledo-Sandusky,Ohio,0,2019
+117,Calexico East,California,11236590,2018
+118,Otay Mesa,California,26411957,2018
+119,San Ysidro,California,49208743,2018
+120,Tecate,California,4187111,2018
+121,Calexico,California,16971417,2018
+122,Andrade,California,2596157,2018
+123,Cross Border Xpress,California,1279074,2018
+124,Van Buren,Maine,407391,2018
+125,Madawaska,Maine,946013,2018
+126,Vanceboro,Maine,85679,2018
+127,Calais,Maine,1932962,2018
+128,Houlton,Maine,849025,2018
+129,Fort Fairfield,Maine,276320,2018
+130,Bridgewater,Maine,128299,2018
+131,Fort Kent,Maine,302007,2018
+132,Jackman,Maine,601031,2018
+133,Limestone,Maine,46047,2018
+134,Eastport,Maine,376729,2018
+135,Portland,Maine,32216,2018
+136,Bar Harbor,Maine,0,2018
+137,Nogales,Arizona,15139737,2018
+138,Naco,Arizona,1034864,2018
+139,Sasabe,Arizona,72176,2018
+140,Douglas,Arizona,5756722,2018
+141,Lukeville,Arizona,1522840,2018
+142,San Luis,Arizona,11810867,2018
+143,Trout River,New York,476762,2018
+144,Champlain-Rouses Point,New York,4369090,2018
+145,Massena,New York,2485147,2018
+146,Buffalo-Niagara Falls,New York,18541241,2018
+147,Alexandria Bay,New York,2275133,2018
+148,Ogdensburg,New York,935611,2018
+149,Cape Vincent,New York,28738,2018
+150,Pembina,North Dakota,1499935,2018
+151,Portal,North Dakota,734412,2018
+152,Neche,North Dakota,116186,2018
+153,Sarles,North Dakota,13554,2018
+154,Hansboro,North Dakota,20758,2018
+155,Walhalla,North Dakota,119953,2018
+156,Antler,North Dakota,27719,2018
+157,Noonan,North Dakota,74087,2018
+158,Westhope,North Dakota,42463,2018
+159,Fortuna,North Dakota,44100,2018
+160,Northgate,North Dakota,74326,2018
+161,Sherwood,North Dakota,55319,2018
+162,Ambrose,North Dakota,3307,2018
+163,Dunseith,North Dakota,227493,2018
+164,Carbury,North Dakota,41742,2018
+165,Maida,North Dakota,23803,2018
+166,St. John,North Dakota,36100,2018
+167,Hannah,North Dakota,2706,2018
+168,Progreso,Texas,5236568,2018
+169,Roma,Texas,2546333,2018
+170,Boquillas,Texas,11499,2018
+171,Rio Grande City,Texas,1442371,2018
+172,Del Rio,Texas,5124690,2018
+173,Eagle Pass,Texas,10169946,2018
+174,Tornillo-Fabens,Texas,1151359,2018
+175,El Paso,Texas,43778742,2018
+176,Hidalgo,Texas,17303701,2018
+177,Brownsville,Texas,18336697,2018
+178,Presidio,Texas,2495846,2018
+179,Laredo,Texas,25396401,2018
+180,Opheim,Montana,9814,2018
+181,Wildhorse,Montana,43993,2018
+182,Scobey,Montana,16929,2018
+183,Raymond,Montana,114325,2018
+184,Del Bonita,Montana,86020,2018
+185,Turner,Montana,27860,2018
+186,Sweetgrass,Montana,922271,2018
+187,Piegan,Montana,366590,2018
+188,Whitlash,Montana,1688,2018
+189,Morgan,Montana,18377,2018
+190,Willow Creek,Montana,8216,2018
+191,Roosville,Montana,486436,2018
+192,Whitetail,Montana,0,2018
+193,Lancaster,Minnesota,86180,2018
+194,Roseau,Minnesota,114090,2018
+195,Baudette,Minnesota,478001,2018
+196,Grand Portage,Minnesota,668948,2018
+197,Pinecreek,Minnesota,10808,2018
+198,Warroad,Minnesota,301255,2018
+199,International Falls-Ranier,Minnesota,1977900,2018
+200,Noyes,Minnesota,0,2018
+201,Derby Line,Vermont,1703718,2018
+202,Beecher Falls,Vermont,200122,2018
+203,Norton,Vermont,116061,2018
+204,Highgate Springs-Alburg,Vermont,1815654,2018
+205,Richford,Vermont,287879,2018
+206,Lynden,Washington,1805013,2018
+207,Oroville,Washington,642332,2018
+208,Ferry,Washington,32430,2018
+209,Metaline Falls,Washington,103264,2018
+210,Blaine,Washington,13632952,2018
+211,Frontier,Washington,172597,2018
+212,Laurier,Washington,144795,2018
+213,Boundary,Washington,100324,2018
+214,Sumas,Washington,2935526,2018
+215,Port Angeles,Washington,214136,2018
+216,Danville,Washington,92217,2018
+217,Nighthawk,Washington,15350,2018
+218,Point Roberts,Washington,2594824,2018
+219,Anacortes,Washington,89975,2018
+220,Friday Harbor,Washington,9624,2018
+221,Eastport,Idaho,541961,2018
+222,Porthill,Idaho,355280,2018
+223,Sault Sainte Marie,Michigan,2103600,2018
+224,Port Huron,Michigan,6758067,2018
+225,Detroit,Michigan,14148093,2018
+226,Algonac,Michigan,45026,2018
+227,Santa Teresa,New Mexico,2083662,2018
+228,Columbus,New Mexico,1437127,2018
+229,Skagway,Alaska,489975,2018
+230,Ketchikan,Alaska,7967,2018
+231,Alcan,Alaska,198750,2018
+232,Dalton Cache,Alaska,63343,2018
+233,Toledo-Sandusky,Ohio,373,2018
+234,Calexico East,California,12163690,2017
+235,Otay Mesa,California,27181889,2017
+236,San Ysidro,California,45983570,2017
+237,Tecate,California,3985503,2017
+238,Calexico,California,16482156,2017
+239,Andrade,California,2600148,2017
+240,Cross Border Xpress,California,283263,2017
+241,Van Buren,Maine,424196,2017
+242,Madawaska,Maine,983547,2017
+243,Vanceboro,Maine,87143,2017
+244,Calais,Maine,2033991,2017
+245,Houlton,Maine,895641,2017
+246,Fort Fairfield,Maine,296986,2017
+247,Bridgewater,Maine,138205,2017
+248,Fort Kent,Maine,306067,2017
+249,Jackman,Maine,604727,2017
+250,Limestone,Maine,51383,2017
+251,Eastport,Maine,379294,2017
+252,Portland,Maine,23893,2017
+253,Bar Harbor,Maine,0,2017
+254,Nogales,Arizona,15807150,2017
+255,Naco,Arizona,943482,2017
+256,Sasabe,Arizona,69905,2017
+257,Douglas,Arizona,5907149,2017
+258,Lukeville,Arizona,1429434,2017
+259,San Luis,Arizona,11680865,2017
+260,Trout River,New York,498003,2017
+261,Champlain-Rouses Point,New York,4338378,2017
+262,Massena,New York,2404591,2017
+263,Buffalo-Niagara Falls,New York,18208879,2017
+264,Alexandria Bay,New York,2344455,2017
+265,Ogdensburg,New York,951780,2017
+266,Cape Vincent,New York,20169,2017
+267,Pembina,North Dakota,1515594,2017
+268,Portal,North Dakota,735432,2017
+269,Neche,North Dakota,100509,2017
+270,Sarles,North Dakota,13509,2017
+271,Hansboro,North Dakota,22218,2017
+272,Walhalla,North Dakota,114410,2017
+273,Antler,North Dakota,26038,2017
+274,Noonan,North Dakota,77107,2017
+275,Westhope,North Dakota,44872,2017
+276,Fortuna,North Dakota,42321,2017
+277,Northgate,North Dakota,76984,2017
+278,Sherwood,North Dakota,57824,2017
+279,Ambrose,North Dakota,3183,2017
+280,Dunseith,North Dakota,235405,2017
+281,Carbury,North Dakota,39484,2017
+282,Maida,North Dakota,22008,2017
+283,St. John,North Dakota,35151,2017
+284,Hannah,North Dakota,2929,2017
+285,Progreso,Texas,4947116,2017
+286,Roma,Texas,2618738,2017
+287,Boquillas,Texas,10965,2017
+288,Rio Grande City,Texas,1362382,2017
+289,Del Rio,Texas,5175016,2017
+290,Eagle Pass,Texas,9806208,2017
+291,Tornillo-Fabens,Texas,1024806,2017
+292,El Paso,Texas,43506839,2017
+293,Hidalgo,Texas,17342098,2017
+294,Brownsville,Texas,18301371,2017
+295,Presidio,Texas,2255459,2017
+296,Laredo,Texas,24041263,2017
+297,Opheim,Montana,10443,2017
+298,Wildhorse,Montana,49409,2017
+299,Scobey,Montana,17986,2017
+300,Raymond,Montana,113540,2017
+301,Del Bonita,Montana,87005,2017
+302,Turner,Montana,30909,2017
+303,Sweetgrass,Montana,955810,2017
+304,Piegan,Montana,372667,2017
+305,Whitlash,Montana,2077,2017
+306,Morgan,Montana,19577,2017
+307,Willow Creek,Montana,3391,2017
+308,Roosville,Montana,506376,2017
+309,Whitetail,Montana,0,2017
+310,Lancaster,Minnesota,90961,2017
+311,Roseau,Minnesota,123588,2017
+312,Baudette,Minnesota,480871,2017
+313,Grand Portage,Minnesota,696566,2017
+314,Pinecreek,Minnesota,11904,2017
+315,Warroad,Minnesota,319508,2017
+316,International Falls-Ranier,Minnesota,1936839,2017
+317,Noyes,Minnesota,0,2017
+318,Derby Line,Vermont,1723755,2017
+319,Beecher Falls,Vermont,204559,2017
+320,Norton,Vermont,119238,2017
+321,Highgate Springs-Alburg,Vermont,1957812,2017
+322,Richford,Vermont,303058,2017
+323,Lynden,Washington,1580477,2017
+324,Oroville,Washington,716525,2017
+325,Ferry,Washington,29400,2017
+326,Metaline Falls,Washington,93701,2017
+327,Blaine,Washington,12975027,2017
+328,Frontier,Washington,172190,2017
+329,Laurier,Washington,139913,2017
+330,Boundary,Washington,101211,2017
+331,Sumas,Washington,2692366,2017
+332,Port Angeles,Washington,211559,2017
+333,Danville,Washington,98162,2017
+334,Nighthawk,Washington,19111,2017
+335,Point Roberts,Washington,2309121,2017
+336,Anacortes,Washington,97227,2017
+337,Friday Harbor,Washington,10123,2017
+338,Eastport,Idaho,547256,2017
+339,Porthill,Idaho,344353,2017
+340,Sault Sainte Marie,Michigan,2053875,2017
+341,Port Huron,Michigan,6813836,2017
+342,Detroit,Michigan,14252718,2017
+343,Algonac,Michigan,14338,2017
+344,Santa Teresa,New Mexico,2360275,2017
+345,Columbus,New Mexico,1432262,2017
+346,Skagway,Alaska,454121,2017
+347,Ketchikan,Alaska,8357,2017
+348,Alcan,Alaska,179301,2017
+349,Dalton Cache,Alaska,59851,2017
+350,Toledo-Sandusky,Ohio,0,2017
+351,Calexico East,California,11962231,2016
+352,Otay Mesa,California,26706980,2016
+353,San Ysidro,California,45376612,2016
+354,Tecate,California,3666639,2016
+355,Calexico,California,16449609,2016
+356,Andrade,California,2420383,2016
+357,Cross Border Xpress,California,0,2016
+358,Van Buren,Maine,424063,2016
+359,Madawaska,Maine,1006829,2016
+360,Vanceboro,Maine,87596,2016
+361,Calais,Maine,2054497,2016
+362,Houlton,Maine,856306,2016
+363,Fort Fairfield,Maine,306356,2016
+364,Bridgewater,Maine,136289,2016
+365,Fort Kent,Maine,329936,2016
+366,Jackman,Maine,599429,2016
+367,Limestone,Maine,55345,2016
+368,Eastport,Maine,380439,2016
+369,Portland,Maine,22528,2016
+370,Bar Harbor,Maine,0,2016
+371,Nogales,Arizona,14903980,2016
+372,Naco,Arizona,896467,2016
+373,Sasabe,Arizona,65341,2016
+374,Douglas,Arizona,5469062,2016
+375,Lukeville,Arizona,1302692,2016
+376,San Luis,Arizona,11171167,2016
+377,Trout River,New York,488213,2016
+378,Champlain-Rouses Point,New York,4337542,2016
+379,Massena,New York,2353437,2016
+380,Buffalo-Niagara Falls,New York,17735730,2016
+381,Alexandria Bay,New York,2301782,2016
+382,Ogdensburg,New York,915095,2016
+383,Cape Vincent,New York,21878,2016
+384,Pembina,North Dakota,1475899,2016
+385,Portal,North Dakota,668209,2016
+386,Neche,North Dakota,107875,2016
+387,Sarles,North Dakota,12951,2016
+388,Hansboro,North Dakota,22819,2016
+389,Walhalla,North Dakota,120275,2016
+390,Antler,North Dakota,23110,2016
+391,Noonan,North Dakota,82973,2016
+392,Westhope,North Dakota,46162,2016
+393,Fortuna,North Dakota,47766,2016
+394,Northgate,North Dakota,70390,2016
+395,Sherwood,North Dakota,60142,2016
+396,Ambrose,North Dakota,3046,2016
+397,Dunseith,North Dakota,230425,2016
+398,Carbury,North Dakota,36350,2016
+399,Maida,North Dakota,23374,2016
+400,St. John,North Dakota,37248,2016
+401,Hannah,North Dakota,2808,2016
+402,Progreso,Texas,4934027,2016
+403,Roma,Texas,2579556,2016
+404,Boquillas,Texas,14099,2016
+405,Rio Grande City,Texas,1363080,2016
+406,Del Rio,Texas,4965171,2016
+407,Eagle Pass,Texas,9644454,2016
+408,Tornillo-Fabens,Texas,1000172,2016
+409,El Paso,Texas,42171794,2016
+410,Hidalgo,Texas,18216687,2016
+411,Brownsville,Texas,17190592,2016
+412,Presidio,Texas,2168198,2016
+413,Laredo,Texas,25032087,2016
+414,Opheim,Montana,10039,2016
+415,Wildhorse,Montana,45592,2016
+416,Scobey,Montana,18005,2016
+417,Raymond,Montana,101187,2016
+418,Del Bonita,Montana,85500,2016
+419,Turner,Montana,30060,2016
+420,Sweetgrass,Montana,973826,2016
+421,Piegan,Montana,356792,2016
+422,Whitlash,Montana,2037,2016
+423,Morgan,Montana,18223,2016
+424,Willow Creek,Montana,10008,2016
+425,Roosville,Montana,536337,2016
+426,Whitetail,Montana,0,2016
+427,Lancaster,Minnesota,93689,2016
+428,Roseau,Minnesota,127352,2016
+429,Baudette,Minnesota,475125,2016
+430,Grand Portage,Minnesota,729561,2016
+431,Pinecreek,Minnesota,13493,2016
+432,Warroad,Minnesota,335442,2016
+433,International Falls-Ranier,Minnesota,1867628,2016
+434,Noyes,Minnesota,0,2016
+435,Derby Line,Vermont,1828965,2016
+436,Beecher Falls,Vermont,198542,2016
+437,Norton,Vermont,117933,2016
+438,Highgate Springs-Alburg,Vermont,2062121,2016
+439,Richford,Vermont,310949,2016
+440,Lynden,Washington,1563933,2016
+441,Oroville,Washington,750843,2016
+442,Ferry,Washington,31252,2016
+443,Metaline Falls,Washington,103624,2016
+444,Blaine,Washington,12797598,2016
+445,Frontier,Washington,168926,2016
+446,Laurier,Washington,163440,2016
+447,Boundary,Washington,97624,2016
+448,Sumas,Washington,2655660,2016
+449,Port Angeles,Washington,202591,2016
+450,Danville,Washington,100560,2016
+451,Nighthawk,Washington,19643,2016
+452,Point Roberts,Washington,2278819,2016
+453,Anacortes,Washington,106792,2016
+454,Friday Harbor,Washington,10230,2016
+455,Eastport,Idaho,537518,2016
+456,Porthill,Idaho,372460,2016
+457,Sault Sainte Marie,Michigan,2060765,2016
+458,Port Huron,Michigan,6740651,2016
+459,Detroit,Michigan,14660148,2016
+460,Algonac,Michigan,0,2016
+461,Santa Teresa,New Mexico,2383393,2016
+462,Columbus,New Mexico,1477932,2016
+463,Skagway,Alaska,438455,2016
+464,Ketchikan,Alaska,9143,2016
+465,Alcan,Alaska,183034,2016
+466,Dalton Cache,Alaska,64551,2016
+467,Toledo-Sandusky,Ohio,0,2016
+468,Calexico East,California,11407619,2015
+469,Otay Mesa,California,24411844,2015
+470,San Ysidro,California,47629073,2015
+471,Tecate,California,3399496,2015
+472,Calexico,California,16436626,2015
+473,Andrade,California,2377624,2015
+474,Cross Border Xpress,California,0,2015
+475,Van Buren,Maine,498464,2015
+476,Madawaska,Maine,1123721,2015
+477,Vanceboro,Maine,95198,2015
+478,Calais,Maine,2155200,2015
+479,Houlton,Maine,915339,2015
+480,Fort Fairfield,Maine,327859,2015
+481,Bridgewater,Maine,160220,2015
+482,Fort Kent,Maine,395522,2015
+483,Jackman,Maine,603795,2015
+484,Limestone,Maine,61312,2015
+485,Eastport,Maine,369522,2015
+486,Portland,Maine,24988,2015
+487,Bar Harbor,Maine,0,2015
+488,Nogales,Arizona,14700517,2015
+489,Naco,Arizona,895440,2015
+490,Sasabe,Arizona,57236,2015
+491,Douglas,Arizona,5595491,2015
+492,Lukeville,Arizona,1147097,2015
+493,San Luis,Arizona,11100382,2015
+494,Trout River,New York,521770,2015
+495,Champlain-Rouses Point,New York,4366943,2015
+496,Massena,New York,2400315,2015
+497,Buffalo-Niagara Falls,New York,18198877,2015
+498,Alexandria Bay,New York,2361673,2015
+499,Ogdensburg,New York,953362,2015
+500,Cape Vincent,New York,21685,2015
+501,Pembina,North Dakota,1555965,2015
+502,Portal,North Dakota,742167,2015
+503,Neche,North Dakota,119606,2015
+504,Sarles,North Dakota,14004,2015
+505,Hansboro,North Dakota,20945,2015
+506,Walhalla,North Dakota,140323,2015
+507,Antler,North Dakota,24501,2015
+508,Noonan,North Dakota,92939,2015
+509,Westhope,North Dakota,40202,2015
+510,Fortuna,North Dakota,45182,2015
+511,Northgate,North Dakota,74062,2015
+512,Sherwood,North Dakota,66637,2015
+513,Ambrose,North Dakota,3039,2015
+514,Dunseith,North Dakota,238356,2015
+515,Carbury,North Dakota,35813,2015
+516,Maida,North Dakota,28466,2015
+517,St. John,North Dakota,39443,2015
+518,Hannah,North Dakota,3406,2015
+519,Progreso,Texas,4266971,2015
+520,Roma,Texas,2443096,2015
+521,Boquillas,Texas,7007,2015
+522,Rio Grande City,Texas,1270358,2015
+523,Del Rio,Texas,4716036,2015
+524,Eagle Pass,Texas,9545733,2015
+525,Tornillo-Fabens,Texas,862308,2015
+526,El Paso,Texas,41002269,2015
+527,Hidalgo,Texas,17765133,2015
+528,Brownsville,Texas,15777337,2015
+529,Presidio,Texas,2140007,2015
+530,Laredo,Texas,25173596,2015
+531,Opheim,Montana,10905,2015
+532,Wildhorse,Montana,45495,2015
+533,Scobey,Montana,18769,2015
+534,Raymond,Montana,105957,2015
+535,Del Bonita,Montana,88242,2015
+536,Turner,Montana,32354,2015
+537,Sweetgrass,Montana,1018802,2015
+538,Piegan,Montana,343560,2015
+539,Whitlash,Montana,2957,2015
+540,Morgan,Montana,19844,2015
+541,Willow Creek,Montana,10125,2015
+542,Roosville,Montana,556895,2015
+543,Whitetail,Montana,0,2015
+544,Lancaster,Minnesota,102176,2015
+545,Roseau,Minnesota,129126,2015
+546,Baudette,Minnesota,479769,2015
+547,Grand Portage,Minnesota,785863,2015
+548,Pinecreek,Minnesota,15941,2015
+549,Warroad,Minnesota,347455,2015
+550,International Falls-Ranier,Minnesota,1927109,2015
+551,Noyes,Minnesota,0,2015
+552,Derby Line,Vermont,1888865,2015
+553,Beecher Falls,Vermont,208905,2015
+554,Norton,Vermont,146497,2015
+555,Highgate Springs-Alburg,Vermont,2068806,2015
+556,Richford,Vermont,329060,2015
+557,Lynden,Washington,1655448,2015
+558,Oroville,Washington,771944,2015
+559,Ferry,Washington,24510,2015
+560,Metaline Falls,Washington,103573,2015
+561,Blaine,Washington,13617574,2015
+562,Frontier,Washington,173460,2015
+563,Laurier,Washington,159060,2015
+564,Boundary,Washington,110606,2015
+565,Sumas,Washington,2878987,2015
+566,Port Angeles,Washington,199531,2015
+567,Danville,Washington,104803,2015
+568,Nighthawk,Washington,19298,2015
+569,Point Roberts,Washington,2454897,2015
+570,Anacortes,Washington,104364,2015
+571,Friday Harbor,Washington,9626,2015
+572,Eastport,Idaho,554588,2015
+573,Porthill,Idaho,397173,2015
+574,Sault Sainte Marie,Michigan,2337967,2015
+575,Port Huron,Michigan,6945450,2015
+576,Detroit,Michigan,14771277,2015
+577,Algonac,Michigan,0,2015
+578,Santa Teresa,New Mexico,2091026,2015
+579,Columbus,New Mexico,1444114,2015
+580,Skagway,Alaska,403978,2015
+581,Ketchikan,Alaska,9278,2015
+582,Alcan,Alaska,164148,2015
+583,Dalton Cache,Alaska,60724,2015
+584,Toledo-Sandusky,Ohio,0,2015
+585,Calexico East,California,10927817,2014
+586,Otay Mesa,California,24221610,2014
+587,San Ysidro,California,41535749,2014
+588,Tecate,California,3255486,2014
+589,Calexico,California,15860527,2014
+590,Andrade,California,2165243,2014
+591,Cross Border Xpress,California,0,2014
+592,Van Buren,Maine,650932,2014
+593,Madawaska,Maine,1310257,2014
+594,Vanceboro,Maine,126881,2014
+595,Calais,Maine,2576889,2014
+596,Houlton,Maine,1134744,2014
+597,Fort Fairfield,Maine,427885,2014
+598,Bridgewater,Maine,222329,2014
+599,Fort Kent,Maine,475912,2014
+600,Jackman,Maine,627547,2014
+601,Limestone,Maine,88689,2014
+602,Eastport,Maine,386630,2014
+603,Portland,Maine,22118,2014
+604,Bar Harbor,Maine,0,2014
+605,Nogales,Arizona,13854983,2014
+606,Naco,Arizona,914353,2014
+607,Sasabe,Arizona,50572,2014
+608,Douglas,Arizona,5484892,2014
+609,Lukeville,Arizona,1017873,2014
+610,San Luis,Arizona,10914423,2014
+611,Trout River,New York,579676,2014
+612,Champlain-Rouses Point,New York,4748167,2014
+613,Massena,New York,2654947,2014
+614,Buffalo-Niagara Falls,New York,20026091,2014
+615,Alexandria Bay,New York,2528781,2014
+616,Ogdensburg,New York,1171359,2014
+617,Cape Vincent,New York,17225,2014
+618,Pembina,North Dakota,1770683,2014
+619,Portal,North Dakota,807521,2014
+620,Neche,North Dakota,151044,2014
+621,Sarles,North Dakota,12990,2014
+622,Hansboro,North Dakota,25815,2014
+623,Walhalla,North Dakota,167592,2014
+624,Antler,North Dakota,30843,2014
+625,Noonan,North Dakota,108758,2014
+626,Westhope,North Dakota,44259,2014
+627,Fortuna,North Dakota,41386,2014
+628,Northgate,North Dakota,88615,2014
+629,Sherwood,North Dakota,87899,2014
+630,Ambrose,North Dakota,4335,2014
+631,Dunseith,North Dakota,279528,2014
+632,Carbury,North Dakota,47571,2014
