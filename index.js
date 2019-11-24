@@ -1,75 +1,83 @@
 import Chart from "./chart.js";
-let tmp = [
-    {"id": "California"},{"id": "Maine"},{"id": "Arizona"},
-    {"id": "New York"},{"id": "North Dakota"},{"id": "Texas"},
-    {"id": "Montana"},{"id": "Minnesota"},{"id": "Vermont"},
-    {"id": "Washington"},{"id": "Idaho"},{"id": "Michigan"},
-    {"id": "New Mexico"},{"id": "Alaska"},{"id": "Ohio"},
-    {"id": "Calexico East"},{"id": "Van Buren"},{"id": "Otay Mesa"},
-    {"id": "Nogales"},{"id": "Trout River"},{"id": "Madawaska"},
-    {"id": "Lancaster"},{"id": "Progreso"},{"id": "Portal"},
-    {"id": "Champlain-Rouses Point"},{"id": "Opheim"},{"id": "Neche"},
-    {"id": "Derby Line"},{"id": "Sarles"},{"id": "Wildhorse"},
-    {"id": "Lynden"},{"id": "Vanceboro"},{"id": "San Ysidro"},
-    {"id": "Scobey"},{"id": "Beecher Falls"},{"id": "Calais"},
-    {"id": "Massena"},{"id": "Oroville"},{"id": "Hansboro"},
-    {"id": "Ferry"},{"id": "Tecate"},{"id": "Eastport"},
-    {"id":"Walhalla"},
-    {"id":'Roma'}, {"id":'Naco'}, {"id":'Boquillas'}, {"id":'Raymond'}, {"id":'Porthill'}, {"id":'Norton'},
-    {"id":'Sault Sainte Marie'}, {"id":'Antler'}, {"id":'Rio Grande City'}, {"id":'Del Rio'},
-    {"id":'Sasabe'}, {"id":'Highgate Springs-Alburg'}, {"id":'Del Bonita'}, {"id":'Houlton'},
-    {"id":'Metaline Falls'}, {"id":'Fort Fairfield'}, {"id":'Noonan'}, {"id":'Westhope'}, {"id":'Blaine'},
-    {"id":'Douglas'}, {"id":'Port Huron'}, {"id":'Bridgewater'}, {"id":'Santa Teresa'},
-    {"id":'Lukeville'}, {"id":'Roseau'}, {"id":'Skagway'}, {"id":'Fortuna'}, {"id":'Frontier'},
-    {"id":'Baudette'}, {"id":'Fort Kent'}, {"id":'Grand Portage'}, {"id":'Buffalo-Niagara Falls'},
-    {"id":'Calexico'}, {"id":'Pinecreek'}, {"id":'Northgate'}, {"id":'Sherwood'}, {"id":'Laurier'},
-    {"id":'Detroit'}, {"id":'Jackman'}, {"id":'Ambrose'}, {"id":'Turner'}, {"id":'Dunseith'}, {"id":'Boundary'},
-    {"id":'Sumas'}, {"id":'Alexandria Bay'}, {"id":'Eagle Pass'}, {"id":'Carbury'}, {"id":'Sweetgrass'},
-    {"id":'Piegan'}, {"id":'Tornillo-Fabens'}, {"id":'El Paso'}, {"id":'Port Angeles'}, {"id":'San Luis'},
-    {"id":'Danville'}, {"id":'Nighthawk'}, {"id":'Warroad'}, {"id":'Whitlash'}, {"id":'Maida'},
-    {"id":'Limestone'}, {"id":'Andrade'}, {"id":'Hidalgo'}, {"id":'Richford'}, {"id":'Point Roberts'},
-    {"id":'International Falls-Ranier'}, {"id":'St. John'}, {"id":'Columbus'},
-    {"id":'Brownsville'}, {"id":'Presidio'}, {"id":'Ogdensburg'}, {"id":'Anacortes'}, {"id":'Morgan'},
-    {"id":'Willow Creek'}, {"id":'Roosville'}, {"id":'Laredo'}, {"id":'Hannah'}, {"id":'Ketchikan'},
-    {"id":'Alcan'}, {"id":'Dalton Cache'}, {"id":'Cross Border Xpress'}, {"id":'Friday Harbor'},
-    {"id":'Algonac'}, {"id":'Portland'}, {"id":'Cape Vincent'}, {"id":'Toledo-Sandusky'},
-    {"id":'Whitetail'}, {"id":'Noyes'}, {"id":'Bar Harbor'}]
-    for(let i=0;i<tmp.length;i++){
-        let a = tmp[i]['id'].split(" ")
-        if(a.length > 1){
-            tmp[i]['id'] = a[0] + '_' + a[1]
-        }
-    }
-let relation = []
+
+
 d3.csv('./train2019.csv', function(d){
-    let a = d['port'].split(" ")
-    if(a.length > 1)
-        d['port'] = a[0] + '_' + a[1]
+    return d
+}).then(function(data){
+    let tmp = [{"id": "California"},{"id": "Maine"},{"id": "Arizona"},
+        {"id": "New_York"},{"id": "North_Dakota"},{"id": "Texas"},
+        {"id": "Montana"},{"id": "Minnesota"},{"id": "Vermont"},
+        {"id": "Washington"},{"id": "Michigan"},
+        {"id": "Alaska"},{"id": "Idaho"},{"id": "New_Mexico"},{"id": "Ohio"}]
 
-    a = d['state'].split(" ")
-    if(a.length > 1)
-        d['state'] = a[0] + '_' + a[1] 
+       let tmp1 = ['Calexico East', 'Van Buren', 'Otay Mesa', 'Nogales',
+       'Trout River', 'Madawaska', 'Pembina', 'Progreso', 'Portal',
+       'Champlain-Rouses Point', 'Opheim', 'Neche', 'Lancaster',
+       'Derby Line', 'Sarles', 'Wildhorse', 'Lynden', 'Vanceboro',
+       'San Ysidro', 'Scobey', 'Beecher Falls', 'Calais', 'Massena',
+       'Oroville', 'Hansboro', 'Ferry', 'Tecate', 'Eastport', 'Walhalla',
+       'Roma', 'Naco', 'Boquillas', 'Raymond', 'Porthill', 'Norton',
+       'Sault Sainte Marie', 'Antler', 'Rio Grande City', 'Del Rio',
+       'Sasabe', 'Highgate Springs-Alburg', 'Del Bonita', 'Houlton',
+       'Metaline Falls', 'Fort Fairfield', 'Noonan', 'Westhope', 'Blaine',
+       'Douglas', 'Port Huron', 'Bridgewater', 'Santa Teresa',
+       'Lukeville', 'Roseau', 'Skagway', 'Fortuna', 'Frontier',
+       'Baudette', 'Fort Kent', 'Grand Portage', 'Buffalo-Niagara Falls',
+       'Calexico', 'Pinecreek', 'Northgate', 'Sherwood', 'Laurier',
+       'Detroit', 'Jackman', 'Ambrose', 'Turner', 'Dunseith', 'Boundary',
+       'Sumas', 'Alexandria Bay', 'Eagle Pass', 'Carbury', 'Sweetgrass',
+       'Piegan', 'Tornillo-Fabens', 'El Paso', 'Port Angeles', 'San Luis',
+       'Danville', 'Nighthawk', 'Warroad', 'Whitlash', 'Maida',
+       'Limestone', 'Andrade', 'Hidalgo', 'Richford', 'Point Roberts',
+       'International Falls-Ranier', 'St. John', 'Columbus',
+       'Brownsville', 'Presidio', 'Ogdensburg', 'Anacortes', 'Morgan',
+       'Willow Creek', 'Roosville', 'Laredo', 'Hannah', 'Ketchikan',
+       'Alcan', 'Dalton Cache', 'Cross Border Xpress', 'Friday Harbor',
+       'Algonac', 'Portland', 'Cape Vincent', 'Toledo-Sandusky',
+       'Whitetail', 'Noyes', 'Bar Harbor']
+    for(let i=0;i<tmp1.length;i++){
+        let a = tmp1[i].split(" ")
+        if(a.length > 1){
+            tmp1[i] = a[0] + '_' + a[1]
+        }
+        tmp.push({"id":tmp1[i]})
+        // console.log(tmp1[i])
+    }
+    // console.log(tmp)
+    let relation = []
+    for(let k=0;k<data.length;k++){
+        let a = data[k]['port'].split(" ")
+        if(a.length > 1)
+            data[k]['port'] = a[0] + '_' + a[1]
+    
+        a = data[k]['state'].split(" ")
+        if(a.length > 1)
+            data[k]['state'] = a[0] + '_' + a[1] 
+    
+        let re = {"source": data[k]['port'], "target": data[k]['state'], "value": data[k]['value']}
+        relation.push(re)
+    }
+    data = {}
+    data.nodes = tmp
+    data.links = relation
 
-    let re = {"source": d['port'], "target": d['state'], "value": d['value']}
-    relation.push(re)
-    console.log(re)
-});
-d3.json('./data.json').then(function(data){
-
+// // console.log(processec_data)
+// d3.json('./data.json').then(function(data){
+    console.log(data)
     /* ----------------------------配置参数------------------------  */
     const chart = new Chart();
     const config = {
         margins: {top: 80, left: 50, bottom: 50, right: 50},
         textColor: 'black',
-        title: '基础桑基图'
+        title: 'SanKeyGraph'
     }
 
     chart.margins(config.margins);
 
     /* ----------------------------数据转换------------------------  */
     const sankey = d3.sankey()
-                        .nodeWidth(50)
-                        .nodePadding(30)
+                        .nodeWidth(10)
+                        .nodePadding(6)
                         .size([chart.getBodyWidth(), chart.getBodyHeight()])
                         .nodeId((d) => d.id);
 
