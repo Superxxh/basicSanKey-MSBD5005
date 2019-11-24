@@ -2,7 +2,7 @@ export default class Chart {
     constructor(){
         this._width = 1300;
         this._height = 800;
-        this._margins = {top:30, left:30, right:30, bottom:30};
+        this._margins = {top:15, left:15, right:15, bottom:15};
         this._data = [];
         this._scaleX = null;
         this._scaleY = null;

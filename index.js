@@ -4,46 +4,25 @@ import Chart from "./chart.js";
 d3.csv('./train2019.csv', function(d){
     return d
 }).then(function(data){
-    let tmp = [{"id": "California"},{"id": "Maine"},{"id": "Arizona"},
-        {"id": "New_York"},{"id": "North_Dakota"},{"id": "Texas"},
-        {"id": "Montana"},{"id": "Minnesota"},{"id": "Vermont"},
-        {"id": "Washington"},{"id": "Michigan"},
-        {"id": "Alaska"},{"id": "Idaho"},{"id": "New_Mexico"},{"id": "Ohio"}]
-
-       let tmp1 = ['Calexico East', 'Van Buren', 'Otay Mesa', 'Nogales',
-       'Trout River', 'Madawaska', 'Pembina', 'Progreso', 'Portal',
-       'Champlain-Rouses Point', 'Opheim', 'Neche', 'Lancaster',
-       'Derby Line', 'Sarles', 'Wildhorse', 'Lynden', 'Vanceboro',
-       'San Ysidro', 'Scobey', 'Beecher Falls', 'Calais', 'Massena',
-       'Oroville', 'Hansboro', 'Ferry', 'Tecate', 'Eastport', 'Walhalla',
-       'Roma', 'Naco', 'Boquillas', 'Raymond', 'Porthill', 'Norton',
-       'Sault Sainte Marie', 'Antler', 'Rio Grande City', 'Del Rio',
-       'Sasabe', 'Highgate Springs-Alburg', 'Del Bonita', 'Houlton',
-       'Metaline Falls', 'Fort Fairfield', 'Noonan', 'Westhope', 'Blaine',
-       'Douglas', 'Port Huron', 'Bridgewater', 'Santa Teresa',
-       'Lukeville', 'Roseau', 'Skagway', 'Fortuna', 'Frontier',
-       'Baudette', 'Fort Kent', 'Grand Portage', 'Buffalo-Niagara Falls',
-       'Calexico', 'Pinecreek', 'Northgate', 'Sherwood', 'Laurier',
-       'Detroit', 'Jackman', 'Ambrose', 'Turner', 'Dunseith', 'Boundary',
-       'Sumas', 'Alexandria Bay', 'Eagle Pass', 'Carbury', 'Sweetgrass',
-       'Piegan', 'Tornillo-Fabens', 'El Paso', 'Port Angeles', 'San Luis',
-       'Danville', 'Nighthawk', 'Warroad', 'Whitlash', 'Maida',
-       'Limestone', 'Andrade', 'Hidalgo', 'Richford', 'Point Roberts',
-       'International Falls-Ranier', 'St. John', 'Columbus',
-       'Brownsville', 'Presidio', 'Ogdensburg', 'Anacortes', 'Morgan',
-       'Willow Creek', 'Roosville', 'Laredo', 'Hannah', 'Ketchikan',
-       'Alcan', 'Dalton Cache', 'Cross Border Xpress', 'Friday Harbor',
-       'Algonac', 'Portland', 'Cape Vincent', 'Toledo-Sandusky',
-       'Whitetail', 'Noyes', 'Bar Harbor']
-    for(let i=0;i<tmp1.length;i++){
-        let a = tmp1[i].split(" ")
-        if(a.length > 1){
-            tmp1[i] = a[0] + '_' + a[1]
+    
+    let tmp = []
+    var hash = [];
+    for(let i=0;i<data.length;i++){  
+        if (hash.indexOf(data[i]['port']) == -1){
+            hash.push(data[i]['port'])
         }
-        tmp.push({"id":tmp1[i]})
-        // console.log(tmp1[i])
+        if (hash.indexOf(data[i]['state']) == -1){
+            hash.push(data[i]['state'])
+        }
     }
-    // console.log(tmp)
+    for(let i=0;i<hash.length;i++){
+        let a = hash[i].split(" ")
+        if(a.length > 1){
+            hash[i] = a[0] + '_' + a[1]
+        }
+        tmp.push({"id":hash[i]})
+    }
+    console.log(hash)
     let relation = []
     for(let k=0;k<data.length;k++){
         let a = data[k]['port'].split(" ")
@@ -67,7 +46,7 @@ d3.csv('./train2019.csv', function(d){
     /* ----------------------------配置参数------------------------  */
     const chart = new Chart();
     const config = {
-        margins: {top: 80, left: 50, bottom: 50, right: 50},
+        margins: {top: 30, left: 25, bottom: 40, right: 25},
         textColor: 'black',
         title: 'SanKeyGraph'
     }
@@ -76,8 +55,8 @@ d3.csv('./train2019.csv', function(d){
 
     /* ----------------------------数据转换------------------------  */
     const sankey = d3.sankey()
-                        .nodeWidth(10)
-                        .nodePadding(6)
+                        .nodeWidth(80)
+                        .nodePadding(12)
                         .size([chart.getBodyWidth(), chart.getBodyHeight()])
                         .nodeId((d) => d.id);
 
