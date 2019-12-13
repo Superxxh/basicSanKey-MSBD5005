@@ -42,20 +42,20 @@ d3.csv('./train2019.csv', function(d){
 
 // // console.log(processec_data)
 // d3.json('./data.json').then(function(data){
-    console.log(data)
+    // console.log(data)
     /* ----------------------------配置参数------------------------  */
     const chart = new Chart();
     const config = {
         margins: {top: 30, left: 25, bottom: 40, right: 25},
         textColor: 'black',
-        title: 'SanKeyGraph'
+        // title: 'SanKeyGraph'
     }
 
     chart.margins(config.margins);
 
     /* ----------------------------数据转换------------------------  */
     const sankey = d3.sankey()
-                        .nodeWidth(80)
+                        .nodeWidth(100)
                         .nodePadding(12)
                         .size([chart.getBodyWidth(), chart.getBodyHeight()])
                         .nodeId((d) => d.id);
@@ -103,7 +103,7 @@ d3.csv('./train2019.csv', function(d){
 
                lines.enter()
                       .append('path')
-                    .merge(lines)
+                      .merge(lines)
                       .attr('linkNodes', (d) => d.source.id + '-' + d.target.id)
                       .attr('d', d3.sankeyLinkHorizontal())
                       .attr('stroke', (d) => chart._colors(d.source.index % 10))
